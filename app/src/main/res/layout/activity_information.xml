@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EL VICENTENARIO"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet consectetur adipiscing elit eleifend, ultricies platea sociis odio fames non phasellus lacinia netus, blandit felis etiam viverra eu purus gravida. Risus justo eu sociosqu fames gravida nunc vehicula nisl blandit sed, augue taciti curae aptent facilisis feugiat arcu dapibus egestas parturient, vel erat platea sodales leo primis rhoncus dictum tincidunt. Cras laoreet lacus purus vel tellus quam mollis pulvinar rutrum curae, eu dignissim lobortis pretium nascetur metus nisl posuere"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       />
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff1c1b</color>
+    <color name="colorPrimaryLight">#77ff1c1b</color>
+    <color name="colorPrimaryDark">#ff1c1b</color>
+    <color name="colorToolbar">#ce4e25</color>
+    <color name="colorAccent">#FFF</color>
+    <color name="colorAccentLight">#80FFFFFF</color>
+
+    <color name="colorMenu">#8d99ae</color>
+    <color name="colorBlack">#000</color>
+
+    <color name="colorOptionMenuGameLight">#9967a6d5</color>
+    <color name="colorOptionMenuDiaryLight">#996ec290</color>
+    <color name="colorOptionMenuHistoryLight">#99f1b046</color>
+
+    <color name="colorOptionMenuGame">#67a6d5</color>
+    <color name="colorOptionMenuDiary">#6ec290</color>
+    <color name="colorOptionMenuHistory">#f1b046</color>
+
+    <color name="colorFacebook">#3b5998</color>
+    <color name="colorGoogle">#db4a39</color>
+
+    <color name="colorQuestionBG">#ececec</color>
+    <color name="colorQuestionText">#504334</color>
+
+    <color name="colorIpae">#E91A30</color>
+    <color name="colorYellow">#F4D404</color>
+    <color name="colorVerde">#35C237</color>
+</resources>

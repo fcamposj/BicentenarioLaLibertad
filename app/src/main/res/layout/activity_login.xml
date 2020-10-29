@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:padding="30dp"
+    android:background="@color/colorAccent">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:inputType="textEmailAddress"
+        android:fontFamily="@font/lato_regular"
+        android:hint="@string/text_login_email"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:inputType="textPassword"
+        android:fontFamily="@font/lato_regular"
+        android:hint="@string/text_login_password"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="right"
+        android:fontFamily="@font/lato_regular"
+        android:text="@string/text_login_forgot_password"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="@string/button_login"
+        android:textSize="18sp"
+        android:fontFamily="@font/lato_regular"
+        android:textColor="@color/colorAccent"
+        android:background="@drawable/shape_button"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:fontFamily="@font/lato_regular"
+            android:text="@string/text_login_sign_up_message"/>
+
+        <TextView
+            android:id="@+id/textRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="right"
+            android:fontFamily="@font/lato_regular"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="@string/text_login_sign_up"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLoginGmail"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:fontFamily="@font/lato_regular"
+        android:textColor="@color/colorAccent"
+        android:background="@drawable/shape_button_gmail"
+        android:text="@string/button_google"/>
+
+    <Button
+        android:id="@+id/btnLoginFacebook"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:textSize="18sp"
+        android:fontFamily="@font/lato_regular"
+        android:textColor="@color/colorAccent"
+        android:background="@drawable/shape_button_facebook"
+        android:text="@string/button_facebook"/>
+
+</LinearLayout>

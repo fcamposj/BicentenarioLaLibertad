@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Bicentenario La Libertad</string>
+
+    <string name="text_login_title">INICIAR SESIÓN</string>
+    <string name="text_login_email">Correo</string>
+    <string name="text_login_password">Contraseña</string>
+    <string name="button_login">INGRESAR</string>
+    <string name="button_google">GOOGLE</string>
+    <string name="button_facebook">FACEBOOK</string>
+    <string name="text_login_forgot_password">Recuperar contraseña</string>
+
+    <string name="text_login_sign_up">Regístrate</string>
+    <string name="text_login_sign_up_message">Si no tienes una cuenta</string>
+
+    <string name="text_sponsored">Patrocinado por</string>
+
+    <!-- Register -->
+    <string name="text_register_name">Nombre</string>
+    <string name="text_register_lastname">Apellido</string>
+    <string name="text_register_school">Seleccione su colegio</string>
+    <string name="text_register_email">Correo</string>
+    <string name="text_register_password">Contraseña</string>
+    <string name="text_register_repassword">Confirmar contraseña</string>
+    <string name="text_register_conditions">Acepta términos y condiciones</string>
+    <string name="text_register_newsletter">Deseo recibir boletines de egel Ipae</string>
+    <string name="button_register">REGISTRAR</string>
+
+    <!-- Welcome-->
+    <string name="text_welcome">Bienvenido</string>
+    <string name="text_menu_game">Juego Bicentenario</string>
+    <string name="text_menu_diary">Agenda Bicentenario</string>
+    <string name="text_menu_history">Historia Bicentenario</string>
+    <string name="text_menu_commig_soon">Muy pronto</string>
+
+    <!-- Menu Options -->
+    <string name="text_menu_settings">Ajustes</string>
+    <string name="text_menu_us">Nosotros</string>
+    <string name="text_menu_session">Cerrar sesión</string>
+
+    <string name="text_menu_name">Trivia\nBicentenario</string>
+
+    <!-- Game -->
+    <string name="text_game_name">Amautas</string>
+    <string name="text_game_load">Cargando ... </string>
+
+    <string name="text_game_level_1">Hatun-runa</string>
+    <string name="text_game_level_2">Curaca</string>
+
+    <!-- setings -->
+    <string name="text_settings_general">General</string>
+    <string name="text_settings_notification">Notificaciones</string>
+    <string name="text_settings_suscrebe">Suscribete</string>
+    <string name="text_settings_system">Sistema</string>
+    <string name="text_settings_modo">Modo Oscuro</string>
+    <string name="text_settings_sonido">Sonido</string>
+    <string name="text_settings_vibracion">Vibracion</string>
+    <string name="text_settings_auspiciadores">Auspiciadores</string>
+    <string name="text_settings_comodin">Comodines</string>
+
+</resources>

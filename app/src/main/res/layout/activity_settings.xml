@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar_main"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_settings_general"
+            android:textSize="20sp"
+            android:fontFamily="@font/lato_regular"
+            android:textColor="@color/colorBlack"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="@string/text_settings_notification"
+                android:textSize="18sp" />
+            <com.suke.widget.SwitchButton
+                android:id="@+id/switchVide1o"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:sb_checked="true"
+                app:sb_show_indicator="false" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="@string/text_settings_suscrebe"
+                android:textSize="18sp" />
+            <com.suke.widget.SwitchButton
+                android:id="@+id/switchVideo1"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:sb_checked="true"
+                app:sb_show_indicator="false" />
+
+        </LinearLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#000" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_settings_system"
+            android:textSize="20sp"
+            android:fontFamily="@font/lato_regular"
+            android:textColor="@color/colorBlack"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="@string/text_settings_modo"
+                android:textSize="18sp" />
+            <com.suke.widget.SwitchButton
+                android:id="@+id/switchVideo"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:sb_checked="true"
+                app:sb_show_indicator="false" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="@string/text_settings_sonido"
+                android:textSize="18sp" />
+            <com.suke.widget.SwitchButton
+                android:id="@+id/switSonido"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:sb_checked="true"
+                app:sb_show_indicator="false" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="@string/text_settings_vibracion"
+                android:textSize="18sp" />
+            <com.suke.widget.SwitchButton
+                android:id="@+id/switchVibracion"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:sb_checked="true"
+                app:sb_show_indicator="false" />
+
+        </LinearLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#000" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_settings_auspiciadores"
+            android:textSize="20sp"
+            android:fontFamily="@font/lato_regular"
+            android:textColor="@color/colorBlack"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="@string/text_settings_comodin"
+                android:textSize="18sp" />
+            <com.suke.widget.SwitchButton
+                android:id="@+id/switchComodines"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                app:sb_checked="true"
+                app:sb_show_indicator="false" />
+
+        </LinearLayout>
+    </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
