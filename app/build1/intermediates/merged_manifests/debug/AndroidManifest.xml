@@ -25,22 +25,22 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.ipae.bicentenariolalibertad.LauncherActivity" >
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LauncherActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ipae.bicentenariolalibertad.LoginActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.RegisterActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.MenuActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.AmautasActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.TestActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.ComodinActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.SettingActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.GameActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.DiaryActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LoginActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.RegisterActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.MenuActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.AmautasActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.TestActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.ComodinActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.SettingActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.GameActivity" />
+        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.DiaryActivity" />
 
         <meta-data
             android:name="com.google.android.gms.version"

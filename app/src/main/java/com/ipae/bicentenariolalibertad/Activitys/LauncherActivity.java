@@ -1,10 +1,12 @@
-package com.ipae.bicentenariolalibertad;
+package com.ipae.bicentenariolalibertad.Activitys;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+
+import com.ipae.bicentenariolalibertad.R;
 
 public class LauncherActivity extends AppCompatActivity {
 

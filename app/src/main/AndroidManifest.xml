@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
 
-        <activity android:name=".LauncherActivity">
+        <activity android:name=".Activitys.LauncherActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,15 +20,15 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".MenuActivity" />
-        <activity android:name=".AmautasActivity" />
-        <activity android:name=".TestActivity" />
-        <activity android:name=".ComodinActivity" />
-        <activity android:name=".SettingActivity" />
-        <activity android:name=".GameActivity" />
-        <activity android:name=".DiaryActivity" />
+        <activity android:name=".Activitys.LoginActivity" />
+        <activity android:name=".Activitys.RegisterActivity" />
+        <activity android:name=".Activitys.MenuActivity" />
+        <activity android:name=".Activitys.AmautasActivity" />
+        <activity android:name=".Activitys.TestActivity" />
+        <activity android:name=".Activitys.ComodinActivity" />
+        <activity android:name=".Activitys.SettingActivity" />
+        <activity android:name=".Activitys.GameActivity" />
+        <activity android:name=".Activitys.DiaryActivity" />
 
     </application>
 

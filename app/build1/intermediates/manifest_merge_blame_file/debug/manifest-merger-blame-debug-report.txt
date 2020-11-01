@@ -42,7 +42,7 @@
 26        android:testOnly="true"
 27        android:theme="@style/AppTheme" >
 27-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:12:9-40
-28        <activity android:name="com.ipae.bicentenariolalibertad.LauncherActivity" >
+28        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LauncherActivity" >
 28-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:15:9-21:20
 28-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:15:19-51
 29            <intent-filter>
@@ -56,31 +56,31 @@
 32-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:19:27-74
 33            </intent-filter>
 34        </activity>
-35        <activity android:name="com.ipae.bicentenariolalibertad.LoginActivity" />
+35        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LoginActivity" />
 35-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:23:9-51
 35-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:23:19-48
-36        <activity android:name="com.ipae.bicentenariolalibertad.RegisterActivity" />
+36        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.RegisterActivity" />
 36-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:24:9-54
 36-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:24:19-51
-37        <activity android:name="com.ipae.bicentenariolalibertad.MenuActivity" />
+37        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.MenuActivity" />
 37-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:25:9-50
 37-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:25:19-47
-38        <activity android:name="com.ipae.bicentenariolalibertad.AmautasActivity" />
+38        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.AmautasActivity" />
 38-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:26:9-53
 38-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:26:19-50
-39        <activity android:name="com.ipae.bicentenariolalibertad.TestActivity" />
+39        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.TestActivity" />
 39-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:27:9-50
 39-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:27:19-47
-40        <activity android:name="com.ipae.bicentenariolalibertad.ComodinActivity" />
+40        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.ComodinActivity" />
 40-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:28:9-53
 40-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:28:19-50
-41        <activity android:name="com.ipae.bicentenariolalibertad.SettingActivity" />
+41        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.SettingActivity" />
 41-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:29:9-53
 41-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:29:19-50
-42        <activity android:name="com.ipae.bicentenariolalibertad.GameActivity" />
+42        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.GameActivity" />
 42-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:30:9-50
 42-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:30:19-47
-43        <activity android:name="com.ipae.bicentenariolalibertad.DiaryActivity" />
+43        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.DiaryActivity" />
 43-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:31:9-51
 43-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:31:19-48
 44

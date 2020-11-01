@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad;
+package com.ipae.bicentenariolalibertad.Activitys;
 
 import android.os.Bundle;
 import android.view.View;
@@ -8,6 +8,8 @@ import android.widget.ImageView;
 import android.widget.Spinner;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.ipae.bicentenariolalibertad.R;
 
 /**
  * Created by Jorge Ventura on 2020-02-29.
