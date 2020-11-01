@@ -3,6 +3,7 @@ package com.ipae.bicentenariolalibertad;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Spinner;
 
@@ -18,12 +19,15 @@ import androidx.appcompat.app.AppCompatActivity;
 public class RegisterActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ImageView imgToolbarBack;
-    private Spinner spinnerSchool;
+
+
+    private EditText registerName, registerLast, registerEmail, registerPassword, registerPasswordRepid;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+
 
 
         initParams();
@@ -32,8 +36,13 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
     }
 
     private void initParams(){
-        spinnerSchool = findViewById(R.id.spinnerSchool);
+
         imgToolbarBack = findViewById(R.id.imgToolbarBack);
+        registerName= findViewById(R.id.txtRegisterName);
+        registerLast= findViewById(R.id.txtRegisterLast);
+        registerEmail= findViewById(R.id.txtRegisterEmail);
+        registerPassword= findViewById(R.id.txtRegisterPassword);
+        registerPasswordRepid= findViewById(R.id.txtRegisterPasswordReped);
 
     }
 
@@ -44,7 +53,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 android.R.layout.simple_spinner_item, arraySpinner);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinnerSchool.setAdapter(adapter);
+
 
         imgToolbarBack.setOnClickListener(this);
 
