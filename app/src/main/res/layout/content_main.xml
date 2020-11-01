@@ -91,32 +91,33 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/linearHistory"
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:layout_marginTop="20dp"
-            android:gravity="center_vertical"
-            android:background="@drawable/shape_option_game_light">
+            android:background="@drawable/shape_option_game_light"
+            android:gravity="center_vertical">
 
             <LinearLayout
                 android:layout_width="80dp"
                 android:layout_height="match_parent"
-                android:gravity="center"
-                android:background="@drawable/shape_option_game">
+                android:background="@drawable/shape_option_game"
+                android:gravity="center">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:visibility="gone"
-                    android:src="@drawable/ic_history"/>
+                    android:src="@drawable/ic_history"
+                    android:visibility="gone" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:visibility="visible"
+                    android:fontFamily="@font/lato_bold"
+                    android:text="II"
                     android:textColor="@color/colorAccent"
                     android:textSize="25sp"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="II"/>
+                    android:visibility="visible" />
 
             </LinearLayout>
 
@@ -130,19 +131,19 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="18sp"
                     android:fontFamily="@font/lato_bold"
-                    android:text="@string/text_menu_history"/>
+                    android:text="@string/text_menu_history"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="18sp" />
 
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/lato_light"
                     android:text="@string/text_menu_commig_soon"
                     android:textColor="@color/colorPrimaryDark"
-                    android:textSize="18sp"
-                    android:fontFamily="@font/lato_light"/>
+                    android:textSize="18sp" />
 
             </LinearLayout>
 
@@ -150,32 +151,33 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/linearDiary"
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:layout_marginTop="20dp"
-            android:gravity="center_vertical"
-            android:background="@drawable/shape_option_diary_light">
+            android:background="@drawable/shape_option_diary_light"
+            android:gravity="center_vertical">
 
             <LinearLayout
                 android:layout_width="80dp"
                 android:layout_height="match_parent"
-                android:gravity="center"
-                android:background="@drawable/shape_option_diary">
+                android:background="@drawable/shape_option_diary"
+                android:gravity="center">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:visibility="gone"
-                    android:src="@drawable/ic_diary"/>
+                    android:src="@drawable/ic_diary"
+                    android:visibility="gone" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:visibility="visible"
+                    android:fontFamily="@font/lato_bold"
+                    android:text="III"
                     android:textColor="@color/colorAccent"
                     android:textSize="25sp"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="III"/>
+                    android:visibility="visible" />
 
             </LinearLayout>
 
@@ -189,18 +191,18 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="18sp"
                     android:fontFamily="@font/lato_bold"
-                    android:text="@string/text_menu_diary"/>
+                    android:text="@string/text_menu_diary"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="18sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/lato_light"
                     android:text="@string/text_menu_commig_soon"
                     android:textColor="@color/colorPrimaryDark"
-                    android:textSize="18sp"
-                    android:fontFamily="@font/lato_light"/>
+                    android:textSize="18sp" />
 
             </LinearLayout>
 

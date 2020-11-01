@@ -6,6 +6,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.firebase.ui.auth.AuthUI;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+
+import java.util.Arrays;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
@@ -17,10 +25,14 @@ import androidx.appcompat.app.AppCompatActivity;
  **/
 public class LoginActivity extends AppCompatActivity implements View.OnClickListener {
 
+    private static final int RC_SIGN_IN = 123 ;
     private TextView textRegister;
     private Button btnLogin;
     private Button btnLoginGmail;
     private Button btnLoginFacebook;
+
+    private FirebaseAuth mFirebaseAuth;
+    private FirebaseAuth.AuthStateListener mAuthStateListener;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +41,47 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
         initParams();
         setParams();
+
+        mFirebaseAuth = FirebaseAuth.getInstance();
+        mAuthStateListener = new FirebaseAuth.AuthStateListener() {
+            @Override
+            public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
+                FirebaseUser  user= firebaseAuth.getCurrentUser();
+                if(user !=null){
+
+                }else {
+
+
+
+                }
+            }
+        };
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == RC_SIGN_IN){
+            if(requestCode == RESULT_OK){
+
+            }else{
+
+            }
+        }
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        mFirebaseAuth.addAuthStateListener(mAuthStateListener);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if(mAuthStateListener != null){
+            mFirebaseAuth.removeAuthStateListener(mAuthStateListener);
+        }
     }
 
     private void initParams(){

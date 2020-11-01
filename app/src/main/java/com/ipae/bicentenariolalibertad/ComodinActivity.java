@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
  * Ventura Apps
  * Lima, Peru.
  **/
-public class ComodinActivity extends AppCompatActivity {
+public class ComodinActivity extends AppCompatActivity  {
 
     private ImageView imgClose;
 
@@ -34,4 +34,6 @@ public class ComodinActivity extends AppCompatActivity {
         });
 
     }
+
 }
+

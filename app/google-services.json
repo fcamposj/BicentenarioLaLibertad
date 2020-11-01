@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726468512579",
+    "firebase_url": "https://bicentenariolalibertad-c3ed3.firebaseio.com",
+    "project_id": "bicentenariolalibertad-c3ed3",
+    "storage_bucket": "bicentenariolalibertad-c3ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726468512579:android:6990d8e35a785f210c7df6",
+        "android_client_info": {
+          "package_name": "com.ipae.bicentenariolalibertad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726468512579-f8okoau8o4jthd4jmro4nucvmfn1e41o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm0Mnba5xbcWCVWPaePW9D3bFAJyS5aoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726468512579-f8okoau8o4jthd4jmro4nucvmfn1e41o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

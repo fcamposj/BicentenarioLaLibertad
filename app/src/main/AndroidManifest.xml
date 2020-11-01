@@ -27,6 +27,8 @@
         <activity android:name=".TestActivity" />
         <activity android:name=".ComodinActivity" />
         <activity android:name=".SettingActivity" />
+        <activity android:name=".GameActivity" />
+        <activity android:name=".DiaryActivity" />
 
     </application>
 

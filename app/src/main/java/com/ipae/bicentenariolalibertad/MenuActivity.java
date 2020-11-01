@@ -20,10 +20,12 @@ import androidx.drawerlayout.widget.DrawerLayout;
  **/
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private ImageView imgMenu;
+    private ImageView imgMenu, imgPerfil;
     private DrawerLayout drawerLayout;
 
-    private LinearLayout linearGame;
+    private  LinearLayout linearGame;
+    private  LinearLayout linearHistory;
+    private  LinearLayout linearDiary;
 
     private TextView textSetting;
     private TextView textUs;
@@ -40,9 +42,12 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
     private void initParams(){
         imgMenu = findViewById(R.id.imgMenu);
+        imgPerfil = findViewById(R.id.imgPerfil);
         drawerLayout = findViewById(R.id.drawerLayout);
 
         linearGame = findViewById(R.id.linearGame);
+        linearHistory = findViewById(R.id.linearHistory);
+        linearDiary = findViewById(R.id.linearDiary);
         textSetting = findViewById(R.id.TextSetting);
         textUs=findViewById(R.id.TextUs);
         textClose= findViewById(R.id.TextClose);
@@ -50,7 +55,10 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
     private void setParams(){
         imgMenu.setOnClickListener(this);
+        imgPerfil.setOnClickListener(this);
         linearGame.setOnClickListener(this);
+        linearDiary.setOnClickListener(this);
+
 
         textSetting.setOnClickListener(this);
         textUs.setOnClickListener(this);
@@ -68,16 +76,25 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
                 Intent intent = new Intent(MenuActivity.this, AmautasActivity.class);
                 startActivity(intent);
                 break;
+
+            case R.id.linearDiary:
+                Intent intentDiary = new Intent(MenuActivity.this, DiaryActivity.class);
+                startActivity(intentDiary);
+                break;
+
             case R.id.TextSetting:
                 Intent intentSetting = new Intent(MenuActivity.this, SettingActivity.class);
                 startActivity(intentSetting);
                 break;
-            case R.id.TextUs:
+
+
+            case R.id.imgPerfil:
+                Intent intentPerfil = new Intent(MenuActivity.this, GameActivity.class);
+                startActivity(intentPerfil);
                 break;
 
-            case R.id.TextClose:
-                break;
 
         }
     }
+
 }

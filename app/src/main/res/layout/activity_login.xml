@@ -80,28 +80,33 @@
 
     </LinearLayout>
 
-    <Button
-        android:id="@+id/btnLoginGmail"
-        android:layout_width="300dp"
-        android:layout_height="60dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:textSize="18sp"
-        android:fontFamily="@font/lato_regular"
-        android:textColor="@color/colorAccent"
-        android:background="@drawable/shape_button_gmail"
-        android:text="@string/button_google"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20sp"
+        android:gravity="center"
+        android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/btnLoginFacebook"
-        android:layout_width="300dp"
-        android:layout_height="60dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:textSize="18sp"
-        android:fontFamily="@font/lato_regular"
-        android:textColor="@color/colorAccent"
-        android:background="@drawable/shape_button_facebook"
-        android:text="@string/button_facebook"/>
+        <Button
+            android:id="@+id/btnLoginGmail"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/google" />
+
+        <Button
+            android:id="@+id/btnLoginFacebook"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="20sp"
+            android:background="@drawable/facebook" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="20sp"
+            android:background="@drawable/gorjeo" />
+    </LinearLayout>
 
 </LinearLayout>
