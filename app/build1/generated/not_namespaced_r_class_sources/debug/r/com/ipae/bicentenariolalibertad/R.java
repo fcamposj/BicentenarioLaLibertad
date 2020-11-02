@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.ipae.bicentenariolalibertad;
+package com.pe.bicentenariolalibertad;
 
 public final class R {
   public static final class anim {
@@ -6623,39 +6623,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.ipae.bicentenariolalibertad:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.ipae.bicentenariolalibertad:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.ipae.bicentenariolalibertad:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.ipae.bicentenariolalibertad:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.ipae.bicentenariolalibertad:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.pe.bicentenariolalibertad:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.pe.bicentenariolalibertad:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.pe.bicentenariolalibertad:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.pe.bicentenariolalibertad:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.pe.bicentenariolalibertad:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.ipae.bicentenariolalibertad:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.ipae.bicentenariolalibertad:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.ipae.bicentenariolalibertad:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.ipae.bicentenariolalibertad:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.pe.bicentenariolalibertad:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.pe.bicentenariolalibertad:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.pe.bicentenariolalibertad:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.pe.bicentenariolalibertad:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.ipae.bicentenariolalibertad:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.ipae.bicentenariolalibertad:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.ipae.bicentenariolalibertad:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.ipae.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.ipae.bicentenariolalibertad:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.ipae.bicentenariolalibertad:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.ipae.bicentenariolalibertad:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.ipae.bicentenariolalibertad:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.ipae.bicentenariolalibertad:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.ipae.bicentenariolalibertad:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.ipae.bicentenariolalibertad:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.pe.bicentenariolalibertad:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.pe.bicentenariolalibertad:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.pe.bicentenariolalibertad:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.pe.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.pe.bicentenariolalibertad:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.pe.bicentenariolalibertad:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.pe.bicentenariolalibertad:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.pe.bicentenariolalibertad:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.pe.bicentenariolalibertad:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.pe.bicentenariolalibertad:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.pe.bicentenariolalibertad:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.ipae.bicentenariolalibertad:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.ipae.bicentenariolalibertad:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.ipae.bicentenariolalibertad:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.pe.bicentenariolalibertad:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.pe.bicentenariolalibertad:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.pe.bicentenariolalibertad:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.ipae.bicentenariolalibertad:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.ipae.bicentenariolalibertad:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.ipae.bicentenariolalibertad:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.ipae.bicentenariolalibertad:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.ipae.bicentenariolalibertad:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.ipae.bicentenariolalibertad:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.pe.bicentenariolalibertad:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.pe.bicentenariolalibertad:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.pe.bicentenariolalibertad:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.pe.bicentenariolalibertad:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.pe.bicentenariolalibertad:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.pe.bicentenariolalibertad:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -6707,7 +6707,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:background
+     * @attr name com.pe.bicentenariolalibertad:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -6723,7 +6723,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundSplit
+     * @attr name com.pe.bicentenariolalibertad:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -6739,7 +6739,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundStacked
+     * @attr name com.pe.bicentenariolalibertad:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -6754,7 +6754,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetEnd
+     * @attr name com.pe.bicentenariolalibertad:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -6769,7 +6769,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetEndWithActions
+     * @attr name com.pe.bicentenariolalibertad:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -6784,7 +6784,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetLeft
+     * @attr name com.pe.bicentenariolalibertad:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -6799,7 +6799,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetRight
+     * @attr name com.pe.bicentenariolalibertad:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -6814,7 +6814,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetStart
+     * @attr name com.pe.bicentenariolalibertad:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -6829,7 +6829,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetStartWithNavigation
+     * @attr name com.pe.bicentenariolalibertad:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -6842,7 +6842,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:customNavigationLayout
+     * @attr name com.pe.bicentenariolalibertad:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -6865,7 +6865,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:displayOptions
+     * @attr name com.pe.bicentenariolalibertad:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -6878,7 +6878,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:divider
+     * @attr name com.pe.bicentenariolalibertad:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -6892,7 +6892,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:elevation
+     * @attr name com.pe.bicentenariolalibertad:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -6906,7 +6906,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:height
+     * @attr name com.pe.bicentenariolalibertad:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -6917,7 +6917,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hideOnContentScroll
+     * @attr name com.pe.bicentenariolalibertad:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -6930,7 +6930,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:homeAsUpIndicator
+     * @attr name com.pe.bicentenariolalibertad:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -6943,7 +6943,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:homeLayout
+     * @attr name com.pe.bicentenariolalibertad:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -6956,7 +6956,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:icon
+     * @attr name com.pe.bicentenariolalibertad:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -6969,7 +6969,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:indeterminateProgressStyle
+     * @attr name com.pe.bicentenariolalibertad:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -6984,7 +6984,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemPadding
+     * @attr name com.pe.bicentenariolalibertad:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -6997,7 +6997,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:logo
+     * @attr name com.pe.bicentenariolalibertad:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -7016,7 +7016,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:navigationMode
+     * @attr name com.pe.bicentenariolalibertad:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -7030,7 +7030,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popupTheme
+     * @attr name com.pe.bicentenariolalibertad:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -7044,7 +7044,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:progressBarPadding
+     * @attr name com.pe.bicentenariolalibertad:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -7057,7 +7057,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:progressBarStyle
+     * @attr name com.pe.bicentenariolalibertad:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -7068,7 +7068,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:subtitle
+     * @attr name com.pe.bicentenariolalibertad:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -7081,7 +7081,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:subtitleTextStyle
+     * @attr name com.pe.bicentenariolalibertad:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -7092,7 +7092,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:title
+     * @attr name com.pe.bicentenariolalibertad:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -7105,7 +7105,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleTextStyle
+     * @attr name com.pe.bicentenariolalibertad:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -7187,12 +7187,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.ipae.bicentenariolalibertad:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.ipae.bicentenariolalibertad:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.ipae.bicentenariolalibertad:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.ipae.bicentenariolalibertad:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.ipae.bicentenariolalibertad:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.ipae.bicentenariolalibertad:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.pe.bicentenariolalibertad:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.pe.bicentenariolalibertad:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.pe.bicentenariolalibertad:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.pe.bicentenariolalibertad:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.pe.bicentenariolalibertad:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.pe.bicentenariolalibertad:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -7215,7 +7215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:background
+     * @attr name com.pe.bicentenariolalibertad:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -7231,7 +7231,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundSplit
+     * @attr name com.pe.bicentenariolalibertad:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -7244,7 +7244,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeItemLayout
+     * @attr name com.pe.bicentenariolalibertad:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -7258,7 +7258,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:height
+     * @attr name com.pe.bicentenariolalibertad:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -7271,7 +7271,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:subtitleTextStyle
+     * @attr name com.pe.bicentenariolalibertad:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -7284,7 +7284,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleTextStyle
+     * @attr name com.pe.bicentenariolalibertad:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -7294,8 +7294,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.ipae.bicentenariolalibertad:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.ipae.bicentenariolalibertad:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.pe.bicentenariolalibertad:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.pe.bicentenariolalibertad:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -7317,7 +7317,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandActivityOverflowButtonDrawable
+     * @attr name com.pe.bicentenariolalibertad:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -7328,7 +7328,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:initialActivityCount
+     * @attr name com.pe.bicentenariolalibertad:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -7339,9 +7339,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ActivityNavigator_android_name android:name}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_action com.ipae.bicentenariolalibertad:action}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_data com.ipae.bicentenariolalibertad:data}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_dataPattern com.ipae.bicentenariolalibertad:dataPattern}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_action com.pe.bicentenariolalibertad:action}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_data com.pe.bicentenariolalibertad:data}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_dataPattern com.pe.bicentenariolalibertad:dataPattern}</code></td><td></td></tr>
      * </table>
      * @see #ActivityNavigator_android_name
      * @see #ActivityNavigator_action
@@ -7362,33 +7362,33 @@ public final class R {
      */
     public static final int ActivityNavigator_android_name=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#action}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#action}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:action
+     * @attr name com.pe.bicentenariolalibertad:action
      */
     public static final int ActivityNavigator_action=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#data}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#data}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:data
+     * @attr name com.pe.bicentenariolalibertad:data
      */
     public static final int ActivityNavigator_data=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#dataPattern}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#dataPattern}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:dataPattern
+     * @attr name com.pe.bicentenariolalibertad:dataPattern
      */
     public static final int ActivityNavigator_dataPattern=3;
     /**
@@ -7399,13 +7399,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.ipae.bicentenariolalibertad:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.ipae.bicentenariolalibertad:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.ipae.bicentenariolalibertad:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.ipae.bicentenariolalibertad:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.ipae.bicentenariolalibertad:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.ipae.bicentenariolalibertad:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.ipae.bicentenariolalibertad:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.pe.bicentenariolalibertad:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.pe.bicentenariolalibertad:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.pe.bicentenariolalibertad:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.pe.bicentenariolalibertad:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.pe.bicentenariolalibertad:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.pe.bicentenariolalibertad:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.pe.bicentenariolalibertad:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -7433,7 +7433,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7442,11 +7442,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonIconDimen
+     * @attr name com.pe.bicentenariolalibertad:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7454,11 +7454,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonPanelSideLayout
+     * @attr name com.pe.bicentenariolalibertad:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7466,11 +7466,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listItemLayout
+     * @attr name com.pe.bicentenariolalibertad:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7478,11 +7478,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listLayout
+     * @attr name com.pe.bicentenariolalibertad:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7490,21 +7490,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:multiChoiceItemLayout
+     * @attr name com.pe.bicentenariolalibertad:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:showTitle
+     * @attr name com.pe.bicentenariolalibertad:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7512,7 +7512,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:singleChoiceItemLayout
+     * @attr name com.pe.bicentenariolalibertad:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -7738,9 +7738,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.ipae.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.ipae.bicentenariolalibertad:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.ipae.bicentenariolalibertad:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.pe.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.pe.bicentenariolalibertad:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.pe.bicentenariolalibertad:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -7799,27 +7799,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:elevation
+     * @attr name com.pe.bicentenariolalibertad:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:expanded
+     * @attr name com.pe.bicentenariolalibertad:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:liftOnScroll
+     * @attr name com.pe.bicentenariolalibertad:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -7829,10 +7829,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.ipae.bicentenariolalibertad:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.ipae.bicentenariolalibertad:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.ipae.bicentenariolalibertad:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.ipae.bicentenariolalibertad:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.pe.bicentenariolalibertad:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.pe.bicentenariolalibertad:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.pe.bicentenariolalibertad:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.pe.bicentenariolalibertad:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -7843,43 +7843,43 @@ public final class R {
       0x7f0301d2, 0x7f0301d3, 0x7f0301d4, 0x7f0301d5
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:state_collapsed
+     * @attr name com.pe.bicentenariolalibertad:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:state_collapsible
+     * @attr name com.pe.bicentenariolalibertad:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:state_liftable
+     * @attr name com.pe.bicentenariolalibertad:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:state_lifted
+     * @attr name com.pe.bicentenariolalibertad:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -7889,8 +7889,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.ipae.bicentenariolalibertad:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.ipae.bicentenariolalibertad:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.pe.bicentenariolalibertad:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.pe.bicentenariolalibertad:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -7899,7 +7899,7 @@ public final class R {
       0x7f03015f, 0x7f030160
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7916,11 +7916,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_scrollFlags
+     * @attr name com.pe.bicentenariolalibertad:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7928,7 +7928,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_scrollInterpolator
+     * @attr name com.pe.bicentenariolalibertad:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -7939,9 +7939,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.ipae.bicentenariolalibertad:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.ipae.bicentenariolalibertad:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.ipae.bicentenariolalibertad:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.pe.bicentenariolalibertad:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.pe.bicentenariolalibertad:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.pe.bicentenariolalibertad:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -7977,7 +7977,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:srcCompat
+     * @attr name com.pe.bicentenariolalibertad:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -7989,7 +7989,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tint
+     * @attr name com.pe.bicentenariolalibertad:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -8016,7 +8016,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:tintMode
+     * @attr name com.pe.bicentenariolalibertad:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -8027,9 +8027,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.ipae.bicentenariolalibertad:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.ipae.bicentenariolalibertad:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.ipae.bicentenariolalibertad:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.pe.bicentenariolalibertad:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.pe.bicentenariolalibertad:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.pe.bicentenariolalibertad:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -8061,7 +8061,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tickMark
+     * @attr name com.pe.bicentenariolalibertad:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -8073,7 +8073,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tickMarkTint
+     * @attr name com.pe.bicentenariolalibertad:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -8100,7 +8100,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:tickMarkTintMode
+     * @attr name com.pe.bicentenariolalibertad:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -8240,29 +8240,29 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.ipae.bicentenariolalibertad:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.ipae.bicentenariolalibertad:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.ipae.bicentenariolalibertad:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.pe.bicentenariolalibertad:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.pe.bicentenariolalibertad:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.pe.bicentenariolalibertad:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.ipae.bicentenariolalibertad:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.pe.bicentenariolalibertad:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.ipae.bicentenariolalibertad:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.ipae.bicentenariolalibertad:drawableBottomCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.ipae.bicentenariolalibertad:drawableEndCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.ipae.bicentenariolalibertad:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.pe.bicentenariolalibertad:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.pe.bicentenariolalibertad:drawableBottomCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.pe.bicentenariolalibertad:drawableEndCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.pe.bicentenariolalibertad:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.ipae.bicentenariolalibertad:drawableRightCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.ipae.bicentenariolalibertad:drawableStartCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.ipae.bicentenariolalibertad:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.ipae.bicentenariolalibertad:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.ipae.bicentenariolalibertad:drawableTopCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.ipae.bicentenariolalibertad:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.ipae.bicentenariolalibertad:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.ipae.bicentenariolalibertad:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.ipae.bicentenariolalibertad:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.ipae.bicentenariolalibertad:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.ipae.bicentenariolalibertad:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textLocale com.ipae.bicentenariolalibertad:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.pe.bicentenariolalibertad:drawableRightCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.pe.bicentenariolalibertad:drawableStartCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.pe.bicentenariolalibertad:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.pe.bicentenariolalibertad:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.pe.bicentenariolalibertad:drawableTopCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.pe.bicentenariolalibertad:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.pe.bicentenariolalibertad:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.pe.bicentenariolalibertad:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.pe.bicentenariolalibertad:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.pe.bicentenariolalibertad:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.pe.bicentenariolalibertad:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textLocale com.pe.bicentenariolalibertad:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
@@ -8318,7 +8318,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:autoSizeMaxTextSize
+     * @attr name com.pe.bicentenariolalibertad:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -8332,7 +8332,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:autoSizeMinTextSize
+     * @attr name com.pe.bicentenariolalibertad:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -8347,7 +8347,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:autoSizePresetSizes
+     * @attr name com.pe.bicentenariolalibertad:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -8363,7 +8363,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:autoSizeStepGranularity
+     * @attr name com.pe.bicentenariolalibertad:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -8383,11 +8383,11 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:autoSizeTextType
+     * @attr name com.pe.bicentenariolalibertad:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#drawableBottomCompat}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#drawableBottomCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8395,11 +8395,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableBottomCompat
+     * @attr name com.pe.bicentenariolalibertad:drawableBottomCompat
      */
     public static final int AppCompatTextView_drawableBottomCompat=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#drawableEndCompat}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#drawableEndCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8407,7 +8407,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableEndCompat
+     * @attr name com.pe.bicentenariolalibertad:drawableEndCompat
      */
     public static final int AppCompatTextView_drawableEndCompat=7;
     /**
@@ -8421,11 +8421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableLeftCompat
+     * @attr name com.pe.bicentenariolalibertad:drawableLeftCompat
      */
     public static final int AppCompatTextView_drawableLeftCompat=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#drawableRightCompat}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#drawableRightCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8433,11 +8433,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableRightCompat
+     * @attr name com.pe.bicentenariolalibertad:drawableRightCompat
      */
     public static final int AppCompatTextView_drawableRightCompat=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#drawableStartCompat}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#drawableStartCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8445,7 +8445,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableStartCompat
+     * @attr name com.pe.bicentenariolalibertad:drawableStartCompat
      */
     public static final int AppCompatTextView_drawableStartCompat=10;
     /**
@@ -8457,7 +8457,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableTint
+     * @attr name com.pe.bicentenariolalibertad:drawableTint
      */
     public static final int AppCompatTextView_drawableTint=11;
     /**
@@ -8484,11 +8484,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableTintMode
+     * @attr name com.pe.bicentenariolalibertad:drawableTintMode
      */
     public static final int AppCompatTextView_drawableTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#drawableTopCompat}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#drawableTopCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8496,7 +8496,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableTopCompat
+     * @attr name com.pe.bicentenariolalibertad:drawableTopCompat
      */
     public static final int AppCompatTextView_drawableTopCompat=13;
     /**
@@ -8511,7 +8511,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:firstBaselineToTopHeight
+     * @attr name com.pe.bicentenariolalibertad:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=14;
     /**
@@ -8522,7 +8522,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontFamily
+     * @attr name com.pe.bicentenariolalibertad:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=15;
     /**
@@ -8533,7 +8533,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontVariationSettings
+     * @attr name com.pe.bicentenariolalibertad:fontVariationSettings
      */
     public static final int AppCompatTextView_fontVariationSettings=16;
     /**
@@ -8548,7 +8548,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:lastBaselineToBottomHeight
+     * @attr name com.pe.bicentenariolalibertad:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=17;
     /**
@@ -8563,7 +8563,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:lineHeight
+     * @attr name com.pe.bicentenariolalibertad:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=18;
     /**
@@ -8578,7 +8578,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAllCaps
+     * @attr name com.pe.bicentenariolalibertad:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=19;
     /**
@@ -8593,7 +8593,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:textLocale
+     * @attr name com.pe.bicentenariolalibertad:textLocale
      */
     public static final int AppCompatTextView_textLocale=20;
     /**
@@ -8605,146 +8605,146 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.ipae.bicentenariolalibertad:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.ipae.bicentenariolalibertad:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.ipae.bicentenariolalibertad:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.pe.bicentenariolalibertad:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.pe.bicentenariolalibertad:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.pe.bicentenariolalibertad:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.ipae.bicentenariolalibertad:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.pe.bicentenariolalibertad:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.ipae.bicentenariolalibertad:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.ipae.bicentenariolalibertad:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.ipae.bicentenariolalibertad:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.ipae.bicentenariolalibertad:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.ipae.bicentenariolalibertad:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.ipae.bicentenariolalibertad:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.pe.bicentenariolalibertad:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.pe.bicentenariolalibertad:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.pe.bicentenariolalibertad:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.pe.bicentenariolalibertad:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.pe.bicentenariolalibertad:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.pe.bicentenariolalibertad:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.ipae.bicentenariolalibertad:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.pe.bicentenariolalibertad:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.ipae.bicentenariolalibertad:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.ipae.bicentenariolalibertad:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.ipae.bicentenariolalibertad:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.pe.bicentenariolalibertad:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.pe.bicentenariolalibertad:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.pe.bicentenariolalibertad:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.ipae.bicentenariolalibertad:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.ipae.bicentenariolalibertad:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.ipae.bicentenariolalibertad:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.ipae.bicentenariolalibertad:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.ipae.bicentenariolalibertad:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.ipae.bicentenariolalibertad:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.ipae.bicentenariolalibertad:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.ipae.bicentenariolalibertad:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.ipae.bicentenariolalibertad:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.ipae.bicentenariolalibertad:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.ipae.bicentenariolalibertad:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.ipae.bicentenariolalibertad:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.ipae.bicentenariolalibertad:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.ipae.bicentenariolalibertad:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.ipae.bicentenariolalibertad:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.ipae.bicentenariolalibertad:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.ipae.bicentenariolalibertad:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.ipae.bicentenariolalibertad:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.ipae.bicentenariolalibertad:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.ipae.bicentenariolalibertad:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.ipae.bicentenariolalibertad:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.ipae.bicentenariolalibertad:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.ipae.bicentenariolalibertad:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.ipae.bicentenariolalibertad:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.ipae.bicentenariolalibertad:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.ipae.bicentenariolalibertad:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.ipae.bicentenariolalibertad:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.ipae.bicentenariolalibertad:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.ipae.bicentenariolalibertad:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.ipae.bicentenariolalibertad:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.ipae.bicentenariolalibertad:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.ipae.bicentenariolalibertad:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.ipae.bicentenariolalibertad:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.ipae.bicentenariolalibertad:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.ipae.bicentenariolalibertad:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.ipae.bicentenariolalibertad:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.ipae.bicentenariolalibertad:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.ipae.bicentenariolalibertad:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.ipae.bicentenariolalibertad:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.pe.bicentenariolalibertad:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.pe.bicentenariolalibertad:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.pe.bicentenariolalibertad:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.pe.bicentenariolalibertad:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.pe.bicentenariolalibertad:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.pe.bicentenariolalibertad:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.pe.bicentenariolalibertad:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.pe.bicentenariolalibertad:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.pe.bicentenariolalibertad:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.pe.bicentenariolalibertad:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.pe.bicentenariolalibertad:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.pe.bicentenariolalibertad:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.pe.bicentenariolalibertad:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.pe.bicentenariolalibertad:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.pe.bicentenariolalibertad:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.pe.bicentenariolalibertad:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.pe.bicentenariolalibertad:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.pe.bicentenariolalibertad:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.pe.bicentenariolalibertad:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.pe.bicentenariolalibertad:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.pe.bicentenariolalibertad:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.pe.bicentenariolalibertad:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.pe.bicentenariolalibertad:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.pe.bicentenariolalibertad:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.pe.bicentenariolalibertad:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.pe.bicentenariolalibertad:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.pe.bicentenariolalibertad:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.pe.bicentenariolalibertad:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.pe.bicentenariolalibertad:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.pe.bicentenariolalibertad:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.pe.bicentenariolalibertad:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.pe.bicentenariolalibertad:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.pe.bicentenariolalibertad:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.pe.bicentenariolalibertad:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.pe.bicentenariolalibertad:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.pe.bicentenariolalibertad:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.pe.bicentenariolalibertad:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.pe.bicentenariolalibertad:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.pe.bicentenariolalibertad:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.ipae.bicentenariolalibertad:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.ipae.bicentenariolalibertad:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.ipae.bicentenariolalibertad:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.ipae.bicentenariolalibertad:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.ipae.bicentenariolalibertad:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.ipae.bicentenariolalibertad:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.ipae.bicentenariolalibertad:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.ipae.bicentenariolalibertad:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.ipae.bicentenariolalibertad:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.ipae.bicentenariolalibertad:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.ipae.bicentenariolalibertad:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.ipae.bicentenariolalibertad:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.ipae.bicentenariolalibertad:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.ipae.bicentenariolalibertad:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.ipae.bicentenariolalibertad:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.ipae.bicentenariolalibertad:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.ipae.bicentenariolalibertad:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.ipae.bicentenariolalibertad:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.ipae.bicentenariolalibertad:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.ipae.bicentenariolalibertad:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.ipae.bicentenariolalibertad:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.ipae.bicentenariolalibertad:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.ipae.bicentenariolalibertad:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.ipae.bicentenariolalibertad:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.ipae.bicentenariolalibertad:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.ipae.bicentenariolalibertad:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.ipae.bicentenariolalibertad:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.ipae.bicentenariolalibertad:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.ipae.bicentenariolalibertad:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.ipae.bicentenariolalibertad:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.ipae.bicentenariolalibertad:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.ipae.bicentenariolalibertad:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.ipae.bicentenariolalibertad:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.ipae.bicentenariolalibertad:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.ipae.bicentenariolalibertad:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.ipae.bicentenariolalibertad:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.ipae.bicentenariolalibertad:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.ipae.bicentenariolalibertad:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.ipae.bicentenariolalibertad:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.ipae.bicentenariolalibertad:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.ipae.bicentenariolalibertad:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.pe.bicentenariolalibertad:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.pe.bicentenariolalibertad:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.pe.bicentenariolalibertad:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.pe.bicentenariolalibertad:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.pe.bicentenariolalibertad:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.pe.bicentenariolalibertad:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.pe.bicentenariolalibertad:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.pe.bicentenariolalibertad:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.pe.bicentenariolalibertad:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.pe.bicentenariolalibertad:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.pe.bicentenariolalibertad:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.pe.bicentenariolalibertad:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.pe.bicentenariolalibertad:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.pe.bicentenariolalibertad:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.pe.bicentenariolalibertad:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.pe.bicentenariolalibertad:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.pe.bicentenariolalibertad:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.pe.bicentenariolalibertad:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.pe.bicentenariolalibertad:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.pe.bicentenariolalibertad:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.pe.bicentenariolalibertad:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.pe.bicentenariolalibertad:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.pe.bicentenariolalibertad:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.pe.bicentenariolalibertad:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.pe.bicentenariolalibertad:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.pe.bicentenariolalibertad:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.pe.bicentenariolalibertad:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.pe.bicentenariolalibertad:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.pe.bicentenariolalibertad:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.pe.bicentenariolalibertad:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.pe.bicentenariolalibertad:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.pe.bicentenariolalibertad:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.pe.bicentenariolalibertad:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.pe.bicentenariolalibertad:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.pe.bicentenariolalibertad:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.pe.bicentenariolalibertad:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.pe.bicentenariolalibertad:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.pe.bicentenariolalibertad:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.pe.bicentenariolalibertad:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.pe.bicentenariolalibertad:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.pe.bicentenariolalibertad:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.ipae.bicentenariolalibertad:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.ipae.bicentenariolalibertad:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.ipae.bicentenariolalibertad:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.ipae.bicentenariolalibertad:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.ipae.bicentenariolalibertad:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.ipae.bicentenariolalibertad:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.ipae.bicentenariolalibertad:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.ipae.bicentenariolalibertad:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.ipae.bicentenariolalibertad:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.ipae.bicentenariolalibertad:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.ipae.bicentenariolalibertad:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.ipae.bicentenariolalibertad:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.ipae.bicentenariolalibertad:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.ipae.bicentenariolalibertad:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.ipae.bicentenariolalibertad:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.ipae.bicentenariolalibertad:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.ipae.bicentenariolalibertad:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.ipae.bicentenariolalibertad:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.ipae.bicentenariolalibertad:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.ipae.bicentenariolalibertad:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.pe.bicentenariolalibertad:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.pe.bicentenariolalibertad:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.pe.bicentenariolalibertad:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.pe.bicentenariolalibertad:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.pe.bicentenariolalibertad:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.pe.bicentenariolalibertad:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.pe.bicentenariolalibertad:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.pe.bicentenariolalibertad:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.pe.bicentenariolalibertad:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.pe.bicentenariolalibertad:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.pe.bicentenariolalibertad:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.pe.bicentenariolalibertad:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.pe.bicentenariolalibertad:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.pe.bicentenariolalibertad:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.pe.bicentenariolalibertad:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.pe.bicentenariolalibertad:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.pe.bicentenariolalibertad:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.pe.bicentenariolalibertad:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.pe.bicentenariolalibertad:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.pe.bicentenariolalibertad:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.ipae.bicentenariolalibertad:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.pe.bicentenariolalibertad:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.ipae.bicentenariolalibertad:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.pe.bicentenariolalibertad:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.ipae.bicentenariolalibertad:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.pe.bicentenariolalibertad:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.ipae.bicentenariolalibertad:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.pe.bicentenariolalibertad:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.ipae.bicentenariolalibertad:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.pe.bicentenariolalibertad:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.ipae.bicentenariolalibertad:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.pe.bicentenariolalibertad:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.ipae.bicentenariolalibertad:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.pe.bicentenariolalibertad:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.ipae.bicentenariolalibertad:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.pe.bicentenariolalibertad:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.ipae.bicentenariolalibertad:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.pe.bicentenariolalibertad:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -8938,7 +8938,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarDivider
+     * @attr name com.pe.bicentenariolalibertad:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -8951,7 +8951,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarItemBackground
+     * @attr name com.pe.bicentenariolalibertad:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -8965,7 +8965,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarPopupTheme
+     * @attr name com.pe.bicentenariolalibertad:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -8988,7 +8988,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarSize
+     * @attr name com.pe.bicentenariolalibertad:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -9004,7 +9004,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarSplitStyle
+     * @attr name com.pe.bicentenariolalibertad:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -9017,11 +9017,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarStyle
+     * @attr name com.pe.bicentenariolalibertad:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9029,7 +9029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarTabBarStyle
+     * @attr name com.pe.bicentenariolalibertad:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -9042,11 +9042,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarTabStyle
+     * @attr name com.pe.bicentenariolalibertad:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9054,7 +9054,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarTabTextStyle
+     * @attr name com.pe.bicentenariolalibertad:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -9069,7 +9069,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarTheme
+     * @attr name com.pe.bicentenariolalibertad:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -9088,7 +9088,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionBarWidgetTheme
+     * @attr name com.pe.bicentenariolalibertad:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -9101,7 +9101,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -9114,7 +9114,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionDropDownStyle
+     * @attr name com.pe.bicentenariolalibertad:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -9128,7 +9128,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionMenuTextAppearance
+     * @attr name com.pe.bicentenariolalibertad:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -9144,7 +9144,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionMenuTextColor
+     * @attr name com.pe.bicentenariolalibertad:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -9157,11 +9157,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeBackground
+     * @attr name com.pe.bicentenariolalibertad:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9169,7 +9169,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeCloseButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -9182,7 +9182,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeCloseDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -9195,7 +9195,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeCopyDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -9208,7 +9208,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeCutDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -9221,7 +9221,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeFindDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -9234,7 +9234,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModePasteDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -9247,7 +9247,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModePopupWindowStyle
+     * @attr name com.pe.bicentenariolalibertad:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -9260,7 +9260,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeSelectAllDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -9273,7 +9273,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeShareDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -9286,11 +9286,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeSplitBackground
+     * @attr name com.pe.bicentenariolalibertad:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9298,7 +9298,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeStyle
+     * @attr name com.pe.bicentenariolalibertad:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -9311,11 +9311,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionModeWebSearchDrawable
+     * @attr name com.pe.bicentenariolalibertad:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9323,11 +9323,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionOverflowButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9335,7 +9335,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionOverflowMenuStyle
+     * @attr name com.pe.bicentenariolalibertad:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -9348,11 +9348,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:activityChooserViewStyle
+     * @attr name com.pe.bicentenariolalibertad:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9360,21 +9360,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:alertDialogButtonGroupStyle
+     * @attr name com.pe.bicentenariolalibertad:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:alertDialogCenterButtons
+     * @attr name com.pe.bicentenariolalibertad:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9382,7 +9382,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:alertDialogStyle
+     * @attr name com.pe.bicentenariolalibertad:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -9395,7 +9395,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:alertDialogTheme
+     * @attr name com.pe.bicentenariolalibertad:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -9408,7 +9408,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:autoCompleteTextViewStyle
+     * @attr name com.pe.bicentenariolalibertad:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -9421,7 +9421,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:borderlessButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -9434,7 +9434,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonBarButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -9447,7 +9447,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonBarNegativeButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -9460,7 +9460,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonBarNeutralButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -9473,7 +9473,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonBarPositiveButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -9486,7 +9486,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonBarStyle
+     * @attr name com.pe.bicentenariolalibertad:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -9499,7 +9499,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonStyle
+     * @attr name com.pe.bicentenariolalibertad:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -9512,7 +9512,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonStyleSmall
+     * @attr name com.pe.bicentenariolalibertad:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -9525,7 +9525,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:checkboxStyle
+     * @attr name com.pe.bicentenariolalibertad:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -9538,7 +9538,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:checkedTextViewStyle
+     * @attr name com.pe.bicentenariolalibertad:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -9551,7 +9551,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorAccent
+     * @attr name com.pe.bicentenariolalibertad:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -9563,7 +9563,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorBackgroundFloating
+     * @attr name com.pe.bicentenariolalibertad:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -9575,7 +9575,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorButtonNormal
+     * @attr name com.pe.bicentenariolalibertad:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -9587,7 +9587,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorControlActivated
+     * @attr name com.pe.bicentenariolalibertad:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -9599,7 +9599,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorControlHighlight
+     * @attr name com.pe.bicentenariolalibertad:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -9611,7 +9611,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorControlNormal
+     * @attr name com.pe.bicentenariolalibertad:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -9628,7 +9628,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorError
+     * @attr name com.pe.bicentenariolalibertad:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -9641,7 +9641,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorPrimary
+     * @attr name com.pe.bicentenariolalibertad:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -9654,7 +9654,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorPrimaryDark
+     * @attr name com.pe.bicentenariolalibertad:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -9666,7 +9666,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorSwitchThumbNormal
+     * @attr name com.pe.bicentenariolalibertad:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -9679,7 +9679,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:controlBackground
+     * @attr name com.pe.bicentenariolalibertad:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -9693,7 +9693,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:dialogCornerRadius
+     * @attr name com.pe.bicentenariolalibertad:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -9707,7 +9707,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:dialogPreferredPadding
+     * @attr name com.pe.bicentenariolalibertad:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -9720,7 +9720,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:dialogTheme
+     * @attr name com.pe.bicentenariolalibertad:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -9733,7 +9733,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:dividerHorizontal
+     * @attr name com.pe.bicentenariolalibertad:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -9746,7 +9746,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:dividerVertical
+     * @attr name com.pe.bicentenariolalibertad:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -9759,7 +9759,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:dropDownListViewStyle
+     * @attr name com.pe.bicentenariolalibertad:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -9773,7 +9773,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:dropdownListPreferredItemHeight
+     * @attr name com.pe.bicentenariolalibertad:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -9786,7 +9786,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:editTextBackground
+     * @attr name com.pe.bicentenariolalibertad:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -9802,7 +9802,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:editTextColor
+     * @attr name com.pe.bicentenariolalibertad:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -9815,7 +9815,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:editTextStyle
+     * @attr name com.pe.bicentenariolalibertad:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -9828,7 +9828,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:homeAsUpIndicator
+     * @attr name com.pe.bicentenariolalibertad:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -9841,7 +9841,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:imageButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -9854,7 +9854,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listChoiceBackgroundIndicator
+     * @attr name com.pe.bicentenariolalibertad:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -9867,7 +9867,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listChoiceIndicatorMultipleAnimated
+     * @attr name com.pe.bicentenariolalibertad:listChoiceIndicatorMultipleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorMultipleAnimated=72;
     /**
@@ -9880,7 +9880,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listChoiceIndicatorSingleAnimated
+     * @attr name com.pe.bicentenariolalibertad:listChoiceIndicatorSingleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorSingleAnimated=73;
     /**
@@ -9893,7 +9893,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listDividerAlertDialog
+     * @attr name com.pe.bicentenariolalibertad:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=74;
     /**
@@ -9906,11 +9906,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listMenuViewStyle
+     * @attr name com.pe.bicentenariolalibertad:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9918,7 +9918,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPopupWindowStyle
+     * @attr name com.pe.bicentenariolalibertad:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=76;
     /**
@@ -9932,7 +9932,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemHeight
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=77;
     /**
@@ -9946,7 +9946,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemHeightLarge
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=78;
     /**
@@ -9960,7 +9960,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemHeightSmall
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=79;
     /**
@@ -9974,7 +9974,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemPaddingEnd
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemPaddingEnd
      */
     public static final int AppCompatTheme_listPreferredItemPaddingEnd=80;
     /**
@@ -9988,7 +9988,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemPaddingLeft
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=81;
     /**
@@ -10002,7 +10002,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemPaddingRight
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=82;
     /**
@@ -10016,7 +10016,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:listPreferredItemPaddingStart
+     * @attr name com.pe.bicentenariolalibertad:listPreferredItemPaddingStart
      */
     public static final int AppCompatTheme_listPreferredItemPaddingStart=83;
     /**
@@ -10029,7 +10029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:panelBackground
+     * @attr name com.pe.bicentenariolalibertad:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=84;
     /**
@@ -10042,7 +10042,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:panelMenuListTheme
+     * @attr name com.pe.bicentenariolalibertad:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=85;
     /**
@@ -10056,7 +10056,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:panelMenuListWidth
+     * @attr name com.pe.bicentenariolalibertad:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=86;
     /**
@@ -10069,7 +10069,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popupMenuStyle
+     * @attr name com.pe.bicentenariolalibertad:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=87;
     /**
@@ -10082,7 +10082,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popupWindowStyle
+     * @attr name com.pe.bicentenariolalibertad:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=88;
     /**
@@ -10095,7 +10095,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:radioButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=89;
     /**
@@ -10108,7 +10108,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:ratingBarStyle
+     * @attr name com.pe.bicentenariolalibertad:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=90;
     /**
@@ -10121,7 +10121,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:ratingBarStyleIndicator
+     * @attr name com.pe.bicentenariolalibertad:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=91;
     /**
@@ -10134,7 +10134,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:ratingBarStyleSmall
+     * @attr name com.pe.bicentenariolalibertad:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=92;
     /**
@@ -10147,7 +10147,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:searchViewStyle
+     * @attr name com.pe.bicentenariolalibertad:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=93;
     /**
@@ -10160,7 +10160,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:seekBarStyle
+     * @attr name com.pe.bicentenariolalibertad:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=94;
     /**
@@ -10175,7 +10175,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:selectableItemBackground
+     * @attr name com.pe.bicentenariolalibertad:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=95;
     /**
@@ -10188,7 +10188,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:selectableItemBackgroundBorderless
+     * @attr name com.pe.bicentenariolalibertad:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=96;
     /**
@@ -10201,7 +10201,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:spinnerDropDownItemStyle
+     * @attr name com.pe.bicentenariolalibertad:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=97;
     /**
@@ -10214,7 +10214,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:spinnerStyle
+     * @attr name com.pe.bicentenariolalibertad:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=98;
     /**
@@ -10227,7 +10227,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:switchStyle
+     * @attr name com.pe.bicentenariolalibertad:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=99;
     /**
@@ -10240,7 +10240,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceLargePopupMenu
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=100;
     /**
@@ -10253,7 +10253,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceListItem
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=101;
     /**
@@ -10266,7 +10266,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceListItemSecondary
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=102;
     /**
@@ -10279,7 +10279,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceListItemSmall
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=103;
     /**
@@ -10292,7 +10292,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearancePopupMenuHeader
+     * @attr name com.pe.bicentenariolalibertad:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=104;
     /**
@@ -10305,7 +10305,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceSearchResultSubtitle
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=105;
     /**
@@ -10318,7 +10318,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceSearchResultTitle
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=106;
     /**
@@ -10331,7 +10331,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceSmallPopupMenu
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=107;
     /**
@@ -10347,7 +10347,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textColorAlertDialogListItem
+     * @attr name com.pe.bicentenariolalibertad:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=108;
     /**
@@ -10363,7 +10363,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textColorSearchUrl
+     * @attr name com.pe.bicentenariolalibertad:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=109;
     /**
@@ -10376,7 +10376,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:toolbarNavigationButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=110;
     /**
@@ -10389,7 +10389,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:toolbarStyle
+     * @attr name com.pe.bicentenariolalibertad:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=111;
     /**
@@ -10405,7 +10405,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tooltipForegroundColor
+     * @attr name com.pe.bicentenariolalibertad:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=112;
     /**
@@ -10418,17 +10418,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tooltipFrameBackground
+     * @attr name com.pe.bicentenariolalibertad:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=113;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:viewInflaterClass
+     * @attr name com.pe.bicentenariolalibertad:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=114;
     /**
@@ -10440,7 +10440,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowActionBar
+     * @attr name com.pe.bicentenariolalibertad:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=115;
     /**
@@ -10453,7 +10453,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowActionBarOverlay
+     * @attr name com.pe.bicentenariolalibertad:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=116;
     /**
@@ -10465,7 +10465,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowActionModeOverlay
+     * @attr name com.pe.bicentenariolalibertad:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=117;
     /**
@@ -10485,7 +10485,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowFixedHeightMajor
+     * @attr name com.pe.bicentenariolalibertad:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=118;
     /**
@@ -10505,7 +10505,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowFixedHeightMinor
+     * @attr name com.pe.bicentenariolalibertad:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=119;
     /**
@@ -10525,7 +10525,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowFixedWidthMajor
+     * @attr name com.pe.bicentenariolalibertad:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=120;
     /**
@@ -10545,7 +10545,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowFixedWidthMinor
+     * @attr name com.pe.bicentenariolalibertad:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=121;
     /**
@@ -10566,7 +10566,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowMinWidthMajor
+     * @attr name com.pe.bicentenariolalibertad:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=122;
     /**
@@ -10587,7 +10587,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowMinWidthMinor
+     * @attr name com.pe.bicentenariolalibertad:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=123;
     /**
@@ -10598,7 +10598,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:windowNoTitle
+     * @attr name com.pe.bicentenariolalibertad:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=124;
     /**
@@ -10608,12 +10608,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.ipae.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.ipae.bicentenariolalibertad:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.ipae.bicentenariolalibertad:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.ipae.bicentenariolalibertad:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.ipae.bicentenariolalibertad:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.ipae.bicentenariolalibertad:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.pe.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.pe.bicentenariolalibertad:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.pe.bicentenariolalibertad:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.pe.bicentenariolalibertad:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.pe.bicentenariolalibertad:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.pe.bicentenariolalibertad:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -10635,11 +10635,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTint
+     * @attr name com.pe.bicentenariolalibertad:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10652,11 +10652,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:fabAlignmentMode
+     * @attr name com.pe.bicentenariolalibertad:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10665,11 +10665,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:fabCradleMargin
+     * @attr name com.pe.bicentenariolalibertad:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10678,11 +10678,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:fabCradleRoundedCornerRadius
+     * @attr name com.pe.bicentenariolalibertad:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10691,17 +10691,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:fabCradleVerticalOffset
+     * @attr name com.pe.bicentenariolalibertad:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hideOnScroll
+     * @attr name com.pe.bicentenariolalibertad:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -10711,16 +10711,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.ipae.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.ipae.bicentenariolalibertad:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.ipae.bicentenariolalibertad:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.ipae.bicentenariolalibertad:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.ipae.bicentenariolalibertad:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.ipae.bicentenariolalibertad:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.ipae.bicentenariolalibertad:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.ipae.bicentenariolalibertad:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.ipae.bicentenariolalibertad:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.ipae.bicentenariolalibertad:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.pe.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.pe.bicentenariolalibertad:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.pe.bicentenariolalibertad:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.pe.bicentenariolalibertad:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.pe.bicentenariolalibertad:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.pe.bicentenariolalibertad:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.pe.bicentenariolalibertad:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.pe.bicentenariolalibertad:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.pe.bicentenariolalibertad:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.pe.bicentenariolalibertad:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -10749,11 +10749,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:elevation
+     * @attr name com.pe.bicentenariolalibertad:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10761,21 +10761,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemBackground
+     * @attr name com.pe.bicentenariolalibertad:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemHorizontalTranslationEnabled
+     * @attr name com.pe.bicentenariolalibertad:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10784,22 +10784,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemIconSize
+     * @attr name com.pe.bicentenariolalibertad:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemIconTint
+     * @attr name com.pe.bicentenariolalibertad:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10807,11 +10807,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemTextAppearanceActive
+     * @attr name com.pe.bicentenariolalibertad:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10819,22 +10819,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemTextAppearanceInactive
+     * @attr name com.pe.bicentenariolalibertad:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemTextColor
+     * @attr name com.pe.bicentenariolalibertad:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10849,7 +10849,7 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:labelVisibilityMode
+     * @attr name com.pe.bicentenariolalibertad:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
@@ -10862,7 +10862,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:menu
+     * @attr name com.pe.bicentenariolalibertad:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -10872,10 +10872,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.ipae.bicentenariolalibertad:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.ipae.bicentenariolalibertad:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.ipae.bicentenariolalibertad:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.ipae.bicentenariolalibertad:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.pe.bicentenariolalibertad:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.pe.bicentenariolalibertad:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.pe.bicentenariolalibertad:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.pe.bicentenariolalibertad:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -10886,27 +10886,27 @@ public final class R {
       0x7f03003c, 0x7f03003d, 0x7f03003f, 0x7f030040
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:behavior_fitToContents
+     * @attr name com.pe.bicentenariolalibertad:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:behavior_hideable
+     * @attr name com.pe.bicentenariolalibertad:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10923,17 +10923,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:behavior_peekHeight
+     * @attr name com.pe.bicentenariolalibertad:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:behavior_skipCollapsed
+     * @attr name com.pe.bicentenariolalibertad:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -10943,7 +10943,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.ipae.bicentenariolalibertad:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.pe.bicentenariolalibertad:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -10960,7 +10960,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:allowStacking
+     * @attr name com.pe.bicentenariolalibertad:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -10972,17 +10972,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.ipae.bicentenariolalibertad:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.ipae.bicentenariolalibertad:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.ipae.bicentenariolalibertad:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.ipae.bicentenariolalibertad:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.ipae.bicentenariolalibertad:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.ipae.bicentenariolalibertad:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.ipae.bicentenariolalibertad:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.ipae.bicentenariolalibertad:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.ipae.bicentenariolalibertad:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.ipae.bicentenariolalibertad:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.ipae.bicentenariolalibertad:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.pe.bicentenariolalibertad:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.pe.bicentenariolalibertad:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.pe.bicentenariolalibertad:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.pe.bicentenariolalibertad:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.pe.bicentenariolalibertad:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.pe.bicentenariolalibertad:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.pe.bicentenariolalibertad:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.pe.bicentenariolalibertad:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.pe.bicentenariolalibertad:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.pe.bicentenariolalibertad:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.pe.bicentenariolalibertad:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -11041,7 +11041,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:cardBackgroundColor
+     * @attr name com.pe.bicentenariolalibertad:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -11055,7 +11055,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:cardCornerRadius
+     * @attr name com.pe.bicentenariolalibertad:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -11069,7 +11069,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:cardElevation
+     * @attr name com.pe.bicentenariolalibertad:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -11083,7 +11083,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:cardMaxElevation
+     * @attr name com.pe.bicentenariolalibertad:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -11094,7 +11094,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:cardPreventCornerOverlap
+     * @attr name com.pe.bicentenariolalibertad:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -11105,7 +11105,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:cardUseCompatPadding
+     * @attr name com.pe.bicentenariolalibertad:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -11119,7 +11119,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentPadding
+     * @attr name com.pe.bicentenariolalibertad:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -11133,7 +11133,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentPaddingBottom
+     * @attr name com.pe.bicentenariolalibertad:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -11147,7 +11147,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentPaddingLeft
+     * @attr name com.pe.bicentenariolalibertad:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -11161,7 +11161,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentPaddingRight
+     * @attr name com.pe.bicentenariolalibertad:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -11175,7 +11175,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentPaddingTop
+     * @attr name com.pe.bicentenariolalibertad:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -11190,35 +11190,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.ipae.bicentenariolalibertad:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.ipae.bicentenariolalibertad:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.ipae.bicentenariolalibertad:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.ipae.bicentenariolalibertad:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.ipae.bicentenariolalibertad:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.ipae.bicentenariolalibertad:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.ipae.bicentenariolalibertad:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.ipae.bicentenariolalibertad:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.ipae.bicentenariolalibertad:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.ipae.bicentenariolalibertad:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.ipae.bicentenariolalibertad:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.ipae.bicentenariolalibertad:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.ipae.bicentenariolalibertad:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.ipae.bicentenariolalibertad:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.ipae.bicentenariolalibertad:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.ipae.bicentenariolalibertad:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.ipae.bicentenariolalibertad:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.ipae.bicentenariolalibertad:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.ipae.bicentenariolalibertad:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.ipae.bicentenariolalibertad:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.ipae.bicentenariolalibertad:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.ipae.bicentenariolalibertad:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.ipae.bicentenariolalibertad:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.ipae.bicentenariolalibertad:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.ipae.bicentenariolalibertad:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.ipae.bicentenariolalibertad:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.ipae.bicentenariolalibertad:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.ipae.bicentenariolalibertad:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.ipae.bicentenariolalibertad:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.pe.bicentenariolalibertad:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.pe.bicentenariolalibertad:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.pe.bicentenariolalibertad:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.pe.bicentenariolalibertad:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.pe.bicentenariolalibertad:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.pe.bicentenariolalibertad:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.pe.bicentenariolalibertad:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.pe.bicentenariolalibertad:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.pe.bicentenariolalibertad:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.pe.bicentenariolalibertad:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.pe.bicentenariolalibertad:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.pe.bicentenariolalibertad:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.pe.bicentenariolalibertad:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.pe.bicentenariolalibertad:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.pe.bicentenariolalibertad:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.pe.bicentenariolalibertad:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.pe.bicentenariolalibertad:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.pe.bicentenariolalibertad:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.pe.bicentenariolalibertad:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.pe.bicentenariolalibertad:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.pe.bicentenariolalibertad:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.pe.bicentenariolalibertad:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.pe.bicentenariolalibertad:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.pe.bicentenariolalibertad:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.pe.bicentenariolalibertad:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.pe.bicentenariolalibertad:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.pe.bicentenariolalibertad:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.pe.bicentenariolalibertad:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.pe.bicentenariolalibertad:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -11332,7 +11332,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11340,42 +11340,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:checkedIcon
+     * @attr name com.pe.bicentenariolalibertad:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:checkedIconEnabled
+     * @attr name com.pe.bicentenariolalibertad:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:checkedIconVisible
+     * @attr name com.pe.bicentenariolalibertad:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipBackgroundColor
+     * @attr name com.pe.bicentenariolalibertad:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11384,11 +11384,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipCornerRadius
+     * @attr name com.pe.bicentenariolalibertad:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11397,11 +11397,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipEndPadding
+     * @attr name com.pe.bicentenariolalibertad:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11409,21 +11409,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipIcon
+     * @attr name com.pe.bicentenariolalibertad:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipIconEnabled
+     * @attr name com.pe.bicentenariolalibertad:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11432,32 +11432,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipIconSize
+     * @attr name com.pe.bicentenariolalibertad:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipIconTint
+     * @attr name com.pe.bicentenariolalibertad:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipIconVisible
+     * @attr name com.pe.bicentenariolalibertad:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11466,11 +11466,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipMinHeight
+     * @attr name com.pe.bicentenariolalibertad:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11479,22 +11479,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipStartPadding
+     * @attr name com.pe.bicentenariolalibertad:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipStrokeColor
+     * @attr name com.pe.bicentenariolalibertad:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11503,7 +11503,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipStrokeWidth
+     * @attr name com.pe.bicentenariolalibertad:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -11516,21 +11516,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIcon
+     * @attr name com.pe.bicentenariolalibertad:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIconEnabled
+     * @attr name com.pe.bicentenariolalibertad:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11539,11 +11539,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIconEndPadding
+     * @attr name com.pe.bicentenariolalibertad:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11552,11 +11552,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIconSize
+     * @attr name com.pe.bicentenariolalibertad:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11565,32 +11565,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIconStartPadding
+     * @attr name com.pe.bicentenariolalibertad:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIconTint
+     * @attr name com.pe.bicentenariolalibertad:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIconVisible
+     * @attr name com.pe.bicentenariolalibertad:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11598,11 +11598,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hideMotionSpec
+     * @attr name com.pe.bicentenariolalibertad:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11611,11 +11611,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconEndPadding
+     * @attr name com.pe.bicentenariolalibertad:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11624,22 +11624,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconStartPadding
+     * @attr name com.pe.bicentenariolalibertad:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:rippleColor
+     * @attr name com.pe.bicentenariolalibertad:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11647,11 +11647,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:showMotionSpec
+     * @attr name com.pe.bicentenariolalibertad:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11660,11 +11660,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:textEndPadding
+     * @attr name com.pe.bicentenariolalibertad:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11673,7 +11673,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:textStartPadding
+     * @attr name com.pe.bicentenariolalibertad:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -11683,12 +11683,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.ipae.bicentenariolalibertad:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.ipae.bicentenariolalibertad:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.ipae.bicentenariolalibertad:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.ipae.bicentenariolalibertad:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.ipae.bicentenariolalibertad:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.ipae.bicentenariolalibertad:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.pe.bicentenariolalibertad:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.pe.bicentenariolalibertad:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.pe.bicentenariolalibertad:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.pe.bicentenariolalibertad:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.pe.bicentenariolalibertad:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.pe.bicentenariolalibertad:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -11702,7 +11702,7 @@ public final class R {
       0x7f0301c5, 0x7f0301c6
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11710,11 +11710,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:checkedChip
+     * @attr name com.pe.bicentenariolalibertad:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11723,11 +11723,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipSpacing
+     * @attr name com.pe.bicentenariolalibertad:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11736,11 +11736,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipSpacingHorizontal
+     * @attr name com.pe.bicentenariolalibertad:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11749,27 +11749,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipSpacingVertical
+     * @attr name com.pe.bicentenariolalibertad:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:singleLine
+     * @attr name com.pe.bicentenariolalibertad:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:singleSelection
+     * @attr name com.pe.bicentenariolalibertad:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -11779,22 +11779,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.ipae.bicentenariolalibertad:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.ipae.bicentenariolalibertad:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.ipae.bicentenariolalibertad:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.ipae.bicentenariolalibertad:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.ipae.bicentenariolalibertad:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.ipae.bicentenariolalibertad:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.ipae.bicentenariolalibertad:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.ipae.bicentenariolalibertad:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.ipae.bicentenariolalibertad:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.ipae.bicentenariolalibertad:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.ipae.bicentenariolalibertad:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.ipae.bicentenariolalibertad:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.ipae.bicentenariolalibertad:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.ipae.bicentenariolalibertad:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.ipae.bicentenariolalibertad:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.ipae.bicentenariolalibertad:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.pe.bicentenariolalibertad:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.pe.bicentenariolalibertad:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.pe.bicentenariolalibertad:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.pe.bicentenariolalibertad:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.pe.bicentenariolalibertad:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.pe.bicentenariolalibertad:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.pe.bicentenariolalibertad:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.pe.bicentenariolalibertad:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.pe.bicentenariolalibertad:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.pe.bicentenariolalibertad:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.pe.bicentenariolalibertad:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.pe.bicentenariolalibertad:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.pe.bicentenariolalibertad:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.pe.bicentenariolalibertad:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.pe.bicentenariolalibertad:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.pe.bicentenariolalibertad:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -11820,7 +11820,7 @@ public final class R {
       0x7f0301d7, 0x7f030225, 0x7f030226, 0x7f030230
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11841,11 +11841,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:collapsedTitleGravity
+     * @attr name com.pe.bicentenariolalibertad:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11853,22 +11853,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:collapsedTitleTextAppearance
+     * @attr name com.pe.bicentenariolalibertad:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentScrim
+     * @attr name com.pe.bicentenariolalibertad:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11889,11 +11889,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleGravity
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11902,11 +11902,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleMargin
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11915,11 +11915,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleMarginBottom
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11928,11 +11928,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleMarginEnd
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11941,11 +11941,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleMarginStart
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11954,11 +11954,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleMarginTop
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11966,20 +11966,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:expandedTitleTextAppearance
+     * @attr name com.pe.bicentenariolalibertad:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:scrimAnimationDuration
+     * @attr name com.pe.bicentenariolalibertad:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11988,42 +11988,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:scrimVisibleHeightTrigger
+     * @attr name com.pe.bicentenariolalibertad:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:statusBarScrim
+     * @attr name com.pe.bicentenariolalibertad:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:title
+     * @attr name com.pe.bicentenariolalibertad:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleEnabled
+     * @attr name com.pe.bicentenariolalibertad:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12031,7 +12031,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:toolbarId
+     * @attr name com.pe.bicentenariolalibertad:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -12041,8 +12041,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.ipae.bicentenariolalibertad:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.ipae.bicentenariolalibertad:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.pe.bicentenariolalibertad:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.pe.bicentenariolalibertad:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -12051,7 +12051,7 @@ public final class R {
       0x7f030128, 0x7f030129
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12065,16 +12065,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_collapseMode
+     * @attr name com.pe.bicentenariolalibertad:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_collapseParallaxMultiplier
+     * @attr name com.pe.bicentenariolalibertad:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -12086,7 +12086,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.ipae.bicentenariolalibertad:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.pe.bicentenariolalibertad:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -12123,7 +12123,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:alpha
+     * @attr name com.pe.bicentenariolalibertad:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -12134,9 +12134,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonCompat com.ipae.bicentenariolalibertad:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.ipae.bicentenariolalibertad:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.ipae.bicentenariolalibertad:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonCompat com.pe.bicentenariolalibertad:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.pe.bicentenariolalibertad:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.pe.bicentenariolalibertad:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonCompat
@@ -12168,7 +12168,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonCompat
+     * @attr name com.pe.bicentenariolalibertad:buttonCompat
      */
     public static final int CompoundButton_buttonCompat=1;
     /**
@@ -12180,7 +12180,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonTint
+     * @attr name com.pe.bicentenariolalibertad:buttonTint
      */
     public static final int CompoundButton_buttonTint=2;
     /**
@@ -12207,7 +12207,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonTintMode
+     * @attr name com.pe.bicentenariolalibertad:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=3;
     /**
@@ -12222,61 +12222,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.ipae.bicentenariolalibertad:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.ipae.bicentenariolalibertad:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.ipae.bicentenariolalibertad:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.ipae.bicentenariolalibertad:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.ipae.bicentenariolalibertad:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.ipae.bicentenariolalibertad:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.ipae.bicentenariolalibertad:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.ipae.bicentenariolalibertad:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.ipae.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.ipae.bicentenariolalibertad:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.ipae.bicentenariolalibertad:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.ipae.bicentenariolalibertad:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.ipae.bicentenariolalibertad:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.ipae.bicentenariolalibertad:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.ipae.bicentenariolalibertad:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.ipae.bicentenariolalibertad:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.ipae.bicentenariolalibertad:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.ipae.bicentenariolalibertad:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.ipae.bicentenariolalibertad:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.ipae.bicentenariolalibertad:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.ipae.bicentenariolalibertad:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.ipae.bicentenariolalibertad:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.ipae.bicentenariolalibertad:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.ipae.bicentenariolalibertad:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.ipae.bicentenariolalibertad:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.ipae.bicentenariolalibertad:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.ipae.bicentenariolalibertad:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.ipae.bicentenariolalibertad:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.ipae.bicentenariolalibertad:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.ipae.bicentenariolalibertad:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.ipae.bicentenariolalibertad:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.ipae.bicentenariolalibertad:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.ipae.bicentenariolalibertad:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.ipae.bicentenariolalibertad:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.ipae.bicentenariolalibertad:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.ipae.bicentenariolalibertad:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.ipae.bicentenariolalibertad:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.ipae.bicentenariolalibertad:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.ipae.bicentenariolalibertad:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.ipae.bicentenariolalibertad:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.ipae.bicentenariolalibertad:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.ipae.bicentenariolalibertad:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.ipae.bicentenariolalibertad:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.ipae.bicentenariolalibertad:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.ipae.bicentenariolalibertad:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.ipae.bicentenariolalibertad:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.ipae.bicentenariolalibertad:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.ipae.bicentenariolalibertad:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.ipae.bicentenariolalibertad:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.ipae.bicentenariolalibertad:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.ipae.bicentenariolalibertad:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.ipae.bicentenariolalibertad:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.ipae.bicentenariolalibertad:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.ipae.bicentenariolalibertad:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.ipae.bicentenariolalibertad:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.pe.bicentenariolalibertad:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.pe.bicentenariolalibertad:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.pe.bicentenariolalibertad:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.pe.bicentenariolalibertad:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.pe.bicentenariolalibertad:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.pe.bicentenariolalibertad:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.pe.bicentenariolalibertad:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.pe.bicentenariolalibertad:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.pe.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.pe.bicentenariolalibertad:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.pe.bicentenariolalibertad:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.pe.bicentenariolalibertad:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.pe.bicentenariolalibertad:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.pe.bicentenariolalibertad:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.pe.bicentenariolalibertad:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.pe.bicentenariolalibertad:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.pe.bicentenariolalibertad:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.pe.bicentenariolalibertad:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.pe.bicentenariolalibertad:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.pe.bicentenariolalibertad:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.pe.bicentenariolalibertad:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.pe.bicentenariolalibertad:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.pe.bicentenariolalibertad:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.pe.bicentenariolalibertad:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.pe.bicentenariolalibertad:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.pe.bicentenariolalibertad:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.pe.bicentenariolalibertad:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.pe.bicentenariolalibertad:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.pe.bicentenariolalibertad:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.pe.bicentenariolalibertad:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.pe.bicentenariolalibertad:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.pe.bicentenariolalibertad:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.pe.bicentenariolalibertad:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.pe.bicentenariolalibertad:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.pe.bicentenariolalibertad:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.pe.bicentenariolalibertad:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.pe.bicentenariolalibertad:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.pe.bicentenariolalibertad:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.pe.bicentenariolalibertad:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.pe.bicentenariolalibertad:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.pe.bicentenariolalibertad:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.pe.bicentenariolalibertad:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.pe.bicentenariolalibertad:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.pe.bicentenariolalibertad:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.pe.bicentenariolalibertad:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.pe.bicentenariolalibertad:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.pe.bicentenariolalibertad:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.pe.bicentenariolalibertad:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.pe.bicentenariolalibertad:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.pe.bicentenariolalibertad:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.pe.bicentenariolalibertad:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.pe.bicentenariolalibertad:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.pe.bicentenariolalibertad:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.pe.bicentenariolalibertad:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.pe.bicentenariolalibertad:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -12426,17 +12426,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:barrierAllowsGoneWidgets
+     * @attr name com.pe.bicentenariolalibertad:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12453,21 +12453,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:barrierDirection
+     * @attr name com.pe.bicentenariolalibertad:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chainUseRtl
+     * @attr name com.pe.bicentenariolalibertad:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12475,50 +12475,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:constraintSet
+     * @attr name com.pe.bicentenariolalibertad:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:constraint_referenced_ids
+     * @attr name com.pe.bicentenariolalibertad:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constrainedHeight
+     * @attr name com.pe.bicentenariolalibertad:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constrainedWidth
+     * @attr name com.pe.bicentenariolalibertad:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBaseline_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12534,20 +12534,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBottom_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12563,11 +12563,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBottom_toBottomOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12583,11 +12583,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBottom_toTopOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12595,20 +12595,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintCircle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintCircleAngle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12617,21 +12617,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintCircleRadius
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintDimensionRatio
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12647,11 +12647,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintEnd_toEndOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12667,11 +12667,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintEnd_toStartOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12680,11 +12680,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintGuide_begin
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12693,20 +12693,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintGuide_end
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintGuide_percent
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12720,11 +12720,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_default
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12741,11 +12741,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_max
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12762,29 +12762,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_min
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_percent
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHorizontal_bias
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12798,29 +12798,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHorizontal_chainStyle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHorizontal_weight
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintLeft_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12836,11 +12836,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintLeft_toLeftOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12856,20 +12856,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintLeft_toRightOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintRight_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12885,11 +12885,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintRight_toLeftOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12905,11 +12905,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintRight_toRightOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12925,11 +12925,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintStart_toEndOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12945,20 +12945,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintStart_toStartOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintTop_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12974,11 +12974,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintTop_toBottomOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12994,20 +12994,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintTop_toTopOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintVertical_bias
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13021,20 +13021,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintVertical_chainStyle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintVertical_weight
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13048,11 +13048,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_default
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13069,11 +13069,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_max
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13090,20 +13090,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_min
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_percent
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13112,11 +13112,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_editor_absoluteX
+     * @attr name com.pe.bicentenariolalibertad:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13125,11 +13125,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_editor_absoluteY
+     * @attr name com.pe.bicentenariolalibertad:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13138,11 +13138,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginBottom
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13151,11 +13151,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginEnd
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13164,11 +13164,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginLeft
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13177,11 +13177,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginRight
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13190,11 +13190,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginStart
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13203,11 +13203,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginTop
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13225,7 +13225,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_optimizationLevel
+     * @attr name com.pe.bicentenariolalibertad:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -13235,8 +13235,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.ipae.bicentenariolalibertad:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.ipae.bicentenariolalibertad:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.pe.bicentenariolalibertad:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.pe.bicentenariolalibertad:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -13245,7 +13245,7 @@ public final class R {
       0x7f030098, 0x7f0300cb
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13253,11 +13253,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:content
+     * @attr name com.pe.bicentenariolalibertad:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13270,7 +13270,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:emptyVisibility
+     * @attr name com.pe.bicentenariolalibertad:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -13307,59 +13307,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.ipae.bicentenariolalibertad:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.ipae.bicentenariolalibertad:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.ipae.bicentenariolalibertad:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.ipae.bicentenariolalibertad:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.ipae.bicentenariolalibertad:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.ipae.bicentenariolalibertad:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.ipae.bicentenariolalibertad:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.ipae.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.ipae.bicentenariolalibertad:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.ipae.bicentenariolalibertad:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.ipae.bicentenariolalibertad:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.ipae.bicentenariolalibertad:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.ipae.bicentenariolalibertad:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.ipae.bicentenariolalibertad:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.ipae.bicentenariolalibertad:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.ipae.bicentenariolalibertad:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.ipae.bicentenariolalibertad:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.ipae.bicentenariolalibertad:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.ipae.bicentenariolalibertad:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.ipae.bicentenariolalibertad:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.ipae.bicentenariolalibertad:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.ipae.bicentenariolalibertad:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.ipae.bicentenariolalibertad:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.ipae.bicentenariolalibertad:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.ipae.bicentenariolalibertad:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.ipae.bicentenariolalibertad:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.ipae.bicentenariolalibertad:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.ipae.bicentenariolalibertad:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.ipae.bicentenariolalibertad:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.ipae.bicentenariolalibertad:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.ipae.bicentenariolalibertad:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.ipae.bicentenariolalibertad:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.ipae.bicentenariolalibertad:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.ipae.bicentenariolalibertad:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.ipae.bicentenariolalibertad:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.ipae.bicentenariolalibertad:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.ipae.bicentenariolalibertad:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.ipae.bicentenariolalibertad:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.ipae.bicentenariolalibertad:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.ipae.bicentenariolalibertad:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.ipae.bicentenariolalibertad:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.ipae.bicentenariolalibertad:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.ipae.bicentenariolalibertad:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.ipae.bicentenariolalibertad:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.ipae.bicentenariolalibertad:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.ipae.bicentenariolalibertad:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.ipae.bicentenariolalibertad:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.ipae.bicentenariolalibertad:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.ipae.bicentenariolalibertad:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.ipae.bicentenariolalibertad:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.ipae.bicentenariolalibertad:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.ipae.bicentenariolalibertad:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.ipae.bicentenariolalibertad:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.pe.bicentenariolalibertad:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.pe.bicentenariolalibertad:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.pe.bicentenariolalibertad:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.pe.bicentenariolalibertad:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.pe.bicentenariolalibertad:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.pe.bicentenariolalibertad:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.pe.bicentenariolalibertad:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.pe.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.pe.bicentenariolalibertad:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.pe.bicentenariolalibertad:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.pe.bicentenariolalibertad:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.pe.bicentenariolalibertad:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.pe.bicentenariolalibertad:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.pe.bicentenariolalibertad:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.pe.bicentenariolalibertad:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.pe.bicentenariolalibertad:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.pe.bicentenariolalibertad:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.pe.bicentenariolalibertad:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.pe.bicentenariolalibertad:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.pe.bicentenariolalibertad:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.pe.bicentenariolalibertad:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.pe.bicentenariolalibertad:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.pe.bicentenariolalibertad:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.pe.bicentenariolalibertad:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.pe.bicentenariolalibertad:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.pe.bicentenariolalibertad:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.pe.bicentenariolalibertad:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.pe.bicentenariolalibertad:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.pe.bicentenariolalibertad:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.pe.bicentenariolalibertad:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.pe.bicentenariolalibertad:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.pe.bicentenariolalibertad:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.pe.bicentenariolalibertad:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.pe.bicentenariolalibertad:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.pe.bicentenariolalibertad:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.pe.bicentenariolalibertad:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.pe.bicentenariolalibertad:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.pe.bicentenariolalibertad:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.pe.bicentenariolalibertad:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.pe.bicentenariolalibertad:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.pe.bicentenariolalibertad:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.pe.bicentenariolalibertad:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.pe.bicentenariolalibertad:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.pe.bicentenariolalibertad:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.pe.bicentenariolalibertad:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.pe.bicentenariolalibertad:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.pe.bicentenariolalibertad:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.pe.bicentenariolalibertad:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.pe.bicentenariolalibertad:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.pe.bicentenariolalibertad:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.pe.bicentenariolalibertad:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.pe.bicentenariolalibertad:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.pe.bicentenariolalibertad:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -13820,17 +13820,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:barrierAllowsGoneWidgets
+     * @attr name com.pe.bicentenariolalibertad:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13847,60 +13847,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:barrierDirection
+     * @attr name com.pe.bicentenariolalibertad:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chainUseRtl
+     * @attr name com.pe.bicentenariolalibertad:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:constraint_referenced_ids
+     * @attr name com.pe.bicentenariolalibertad:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constrainedHeight
+     * @attr name com.pe.bicentenariolalibertad:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constrainedWidth
+     * @attr name com.pe.bicentenariolalibertad:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBaseline_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13916,20 +13916,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBottom_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13945,11 +13945,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBottom_toBottomOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13965,11 +13965,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintBottom_toTopOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13977,20 +13977,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintCircle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintCircleAngle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13999,21 +13999,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintCircleRadius
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintDimensionRatio
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14029,11 +14029,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintEnd_toEndOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14049,11 +14049,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintEnd_toStartOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14062,11 +14062,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintGuide_begin
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14075,20 +14075,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintGuide_end
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintGuide_percent
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14102,11 +14102,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_default
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14123,11 +14123,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_max
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14144,29 +14144,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_min
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHeight_percent
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHorizontal_bias
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14180,29 +14180,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHorizontal_chainStyle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintHorizontal_weight
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintLeft_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14218,11 +14218,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintLeft_toLeftOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14238,20 +14238,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintLeft_toRightOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintRight_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14267,11 +14267,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintRight_toLeftOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14287,11 +14287,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintRight_toRightOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14307,11 +14307,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintStart_toEndOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14327,20 +14327,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintStart_toStartOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintTop_creator
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14356,11 +14356,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintTop_toBottomOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14376,20 +14376,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintTop_toTopOf
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintVertical_bias
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14403,20 +14403,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintVertical_chainStyle
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintVertical_weight
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14430,11 +14430,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_default
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14451,11 +14451,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_max
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14472,20 +14472,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_min
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_constraintWidth_percent
+     * @attr name com.pe.bicentenariolalibertad:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14494,11 +14494,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_editor_absoluteX
+     * @attr name com.pe.bicentenariolalibertad:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14507,11 +14507,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_editor_absoluteY
+     * @attr name com.pe.bicentenariolalibertad:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14520,11 +14520,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginBottom
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14533,11 +14533,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginEnd
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14546,11 +14546,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginLeft
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14559,11 +14559,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginRight
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14572,11 +14572,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginStart
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14585,7 +14585,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_goneMarginTop
+     * @attr name com.pe.bicentenariolalibertad:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -14595,9 +14595,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.ipae.bicentenariolalibertad:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.pe.bicentenariolalibertad:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.ipae.bicentenariolalibertad:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.pe.bicentenariolalibertad:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -14619,7 +14619,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:keylines
+     * @attr name com.pe.bicentenariolalibertad:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -14635,7 +14635,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:statusBarBackground
+     * @attr name com.pe.bicentenariolalibertad:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -14646,15 +14646,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.ipae.bicentenariolalibertad:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.ipae.bicentenariolalibertad:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.pe.bicentenariolalibertad:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.pe.bicentenariolalibertad:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.ipae.bicentenariolalibertad:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.pe.bicentenariolalibertad:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.ipae.bicentenariolalibertad:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.ipae.bicentenariolalibertad:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.pe.bicentenariolalibertad:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.pe.bicentenariolalibertad:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.ipae.bicentenariolalibertad:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.pe.bicentenariolalibertad:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -14707,7 +14707,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_anchor
+     * @attr name com.pe.bicentenariolalibertad:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -14744,7 +14744,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_anchorGravity
+     * @attr name com.pe.bicentenariolalibertad:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -14756,7 +14756,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_behavior
+     * @attr name com.pe.bicentenariolalibertad:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -14780,7 +14780,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_dodgeInsetEdges
+     * @attr name com.pe.bicentenariolalibertad:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -14804,7 +14804,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_insetEdge
+     * @attr name com.pe.bicentenariolalibertad:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -14816,7 +14816,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout_keyline
+     * @attr name com.pe.bicentenariolalibertad:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -14826,8 +14826,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.ipae.bicentenariolalibertad:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.ipae.bicentenariolalibertad:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.pe.bicentenariolalibertad:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.pe.bicentenariolalibertad:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -14836,7 +14836,7 @@ public final class R {
       0x7f030045, 0x7f030046
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14844,11 +14844,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:bottomSheetDialogTheme
+     * @attr name com.pe.bicentenariolalibertad:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14856,7 +14856,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:bottomSheetStyle
+     * @attr name com.pe.bicentenariolalibertad:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -14866,14 +14866,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.ipae.bicentenariolalibertad:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.ipae.bicentenariolalibertad:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.ipae.bicentenariolalibertad:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.ipae.bicentenariolalibertad:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.ipae.bicentenariolalibertad:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.ipae.bicentenariolalibertad:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.ipae.bicentenariolalibertad:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.ipae.bicentenariolalibertad:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.pe.bicentenariolalibertad:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.pe.bicentenariolalibertad:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.pe.bicentenariolalibertad:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.pe.bicentenariolalibertad:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.pe.bicentenariolalibertad:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.pe.bicentenariolalibertad:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.pe.bicentenariolalibertad:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.pe.bicentenariolalibertad:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -14899,7 +14899,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:arrowHeadLength
+     * @attr name com.pe.bicentenariolalibertad:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -14913,7 +14913,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:arrowShaftLength
+     * @attr name com.pe.bicentenariolalibertad:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -14927,7 +14927,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:barLength
+     * @attr name com.pe.bicentenariolalibertad:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -14939,7 +14939,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:color
+     * @attr name com.pe.bicentenariolalibertad:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -14953,7 +14953,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:drawableSize
+     * @attr name com.pe.bicentenariolalibertad:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -14967,7 +14967,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:gapBetweenBars
+     * @attr name com.pe.bicentenariolalibertad:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -14978,7 +14978,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:spinBars
+     * @attr name com.pe.bicentenariolalibertad:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -14992,7 +14992,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:thickness
+     * @attr name com.pe.bicentenariolalibertad:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -15002,19 +15002,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.ipae.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.ipae.bicentenariolalibertad:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.ipae.bicentenariolalibertad:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.ipae.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.ipae.bicentenariolalibertad:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.ipae.bicentenariolalibertad:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.ipae.bicentenariolalibertad:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.ipae.bicentenariolalibertad:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.ipae.bicentenariolalibertad:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.ipae.bicentenariolalibertad:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.ipae.bicentenariolalibertad:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.ipae.bicentenariolalibertad:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.ipae.bicentenariolalibertad:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.pe.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.pe.bicentenariolalibertad:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.pe.bicentenariolalibertad:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.pe.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.pe.bicentenariolalibertad:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.pe.bicentenariolalibertad:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.pe.bicentenariolalibertad:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.pe.bicentenariolalibertad:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.pe.bicentenariolalibertad:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.pe.bicentenariolalibertad:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.pe.bicentenariolalibertad:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.pe.bicentenariolalibertad:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.pe.bicentenariolalibertad:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -15045,7 +15045,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTint
+     * @attr name com.pe.bicentenariolalibertad:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -15072,11 +15072,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTintMode
+     * @attr name com.pe.bicentenariolalibertad:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15085,7 +15085,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:borderWidth
+     * @attr name com.pe.bicentenariolalibertad:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -15099,11 +15099,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:elevation
+     * @attr name com.pe.bicentenariolalibertad:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15112,11 +15112,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:fabCustomSize
+     * @attr name com.pe.bicentenariolalibertad:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15130,11 +15130,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:fabSize
+     * @attr name com.pe.bicentenariolalibertad:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15142,11 +15142,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hideMotionSpec
+     * @attr name com.pe.bicentenariolalibertad:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15155,11 +15155,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:hoveredFocusedTranslationZ
+     * @attr name com.pe.bicentenariolalibertad:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15168,11 +15168,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:maxImageSize
+     * @attr name com.pe.bicentenariolalibertad:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15181,22 +15181,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:pressedTranslationZ
+     * @attr name com.pe.bicentenariolalibertad:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:rippleColor
+     * @attr name com.pe.bicentenariolalibertad:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15204,17 +15204,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:showMotionSpec
+     * @attr name com.pe.bicentenariolalibertad:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:useCompatPadding
+     * @attr name com.pe.bicentenariolalibertad:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -15224,7 +15224,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.ipae.bicentenariolalibertad:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.pe.bicentenariolalibertad:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -15232,13 +15232,13 @@ public final class R {
       0x7f03003b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:behavior_autoHide
+     * @attr name com.pe.bicentenariolalibertad:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -15248,8 +15248,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.ipae.bicentenariolalibertad:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.ipae.bicentenariolalibertad:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.pe.bicentenariolalibertad:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.pe.bicentenariolalibertad:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -15258,7 +15258,7 @@ public final class R {
       0x7f03011a, 0x7f030163
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15267,11 +15267,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemSpacing
+     * @attr name com.pe.bicentenariolalibertad:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15280,7 +15280,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:lineSpacing
+     * @attr name com.pe.bicentenariolalibertad:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -15290,12 +15290,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.ipae.bicentenariolalibertad:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.ipae.bicentenariolalibertad:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.ipae.bicentenariolalibertad:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.ipae.bicentenariolalibertad:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.ipae.bicentenariolalibertad:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.ipae.bicentenariolalibertad:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.pe.bicentenariolalibertad:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.pe.bicentenariolalibertad:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.pe.bicentenariolalibertad:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.pe.bicentenariolalibertad:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.pe.bicentenariolalibertad:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.pe.bicentenariolalibertad:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -15316,7 +15316,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontProviderAuthority
+     * @attr name com.pe.bicentenariolalibertad:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -15333,7 +15333,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontProviderCerts
+     * @attr name com.pe.bicentenariolalibertad:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -15365,7 +15365,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontProviderFetchStrategy
+     * @attr name com.pe.bicentenariolalibertad:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -15384,7 +15384,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontProviderFetchTimeout
+     * @attr name com.pe.bicentenariolalibertad:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -15396,7 +15396,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontProviderPackage
+     * @attr name com.pe.bicentenariolalibertad:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -15408,7 +15408,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontProviderQuery
+     * @attr name com.pe.bicentenariolalibertad:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -15423,11 +15423,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.ipae.bicentenariolalibertad:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.ipae.bicentenariolalibertad:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.ipae.bicentenariolalibertad:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.ipae.bicentenariolalibertad:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.ipae.bicentenariolalibertad:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.pe.bicentenariolalibertad:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.pe.bicentenariolalibertad:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.pe.bicentenariolalibertad:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.pe.bicentenariolalibertad:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.pe.bicentenariolalibertad:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -15514,7 +15514,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:font
+     * @attr name com.pe.bicentenariolalibertad:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -15534,7 +15534,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontStyle
+     * @attr name com.pe.bicentenariolalibertad:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -15548,7 +15548,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontVariationSettings
+     * @attr name com.pe.bicentenariolalibertad:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -15562,7 +15562,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontWeight
+     * @attr name com.pe.bicentenariolalibertad:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -15573,7 +15573,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:ttcIndex
+     * @attr name com.pe.bicentenariolalibertad:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -15585,7 +15585,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.ipae.bicentenariolalibertad:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.pe.bicentenariolalibertad:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -15637,13 +15637,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:foregroundInsidePadding
+     * @attr name com.pe.bicentenariolalibertad:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -15956,11 +15956,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.ipae.bicentenariolalibertad:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.ipae.bicentenariolalibertad:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.ipae.bicentenariolalibertad:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.pe.bicentenariolalibertad:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.pe.bicentenariolalibertad:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.pe.bicentenariolalibertad:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.ipae.bicentenariolalibertad:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.pe.bicentenariolalibertad:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -16075,7 +16075,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:divider
+     * @attr name com.pe.bicentenariolalibertad:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -16089,7 +16089,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:dividerPadding
+     * @attr name com.pe.bicentenariolalibertad:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -16102,7 +16102,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:measureWithLargestChild
+     * @attr name com.pe.bicentenariolalibertad:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -16122,7 +16122,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:showDividers
+     * @attr name com.pe.bicentenariolalibertad:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -16284,18 +16284,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.ipae.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.ipae.bicentenariolalibertad:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.ipae.bicentenariolalibertad:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.ipae.bicentenariolalibertad:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.ipae.bicentenariolalibertad:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.ipae.bicentenariolalibertad:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.ipae.bicentenariolalibertad:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.ipae.bicentenariolalibertad:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.ipae.bicentenariolalibertad:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.ipae.bicentenariolalibertad:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.ipae.bicentenariolalibertad:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.ipae.bicentenariolalibertad:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.pe.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.pe.bicentenariolalibertad:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.pe.bicentenariolalibertad:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.pe.bicentenariolalibertad:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.pe.bicentenariolalibertad:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.pe.bicentenariolalibertad:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.pe.bicentenariolalibertad:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.pe.bicentenariolalibertad:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.pe.bicentenariolalibertad:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.pe.bicentenariolalibertad:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.pe.bicentenariolalibertad:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.pe.bicentenariolalibertad:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -16397,7 +16397,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTint
+     * @attr name com.pe.bicentenariolalibertad:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -16424,11 +16424,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTintMode
+     * @attr name com.pe.bicentenariolalibertad:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16437,11 +16437,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:cornerRadius
+     * @attr name com.pe.bicentenariolalibertad:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16449,11 +16449,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:icon
+     * @attr name com.pe.bicentenariolalibertad:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16466,11 +16466,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconGravity
+     * @attr name com.pe.bicentenariolalibertad:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16479,11 +16479,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconPadding
+     * @attr name com.pe.bicentenariolalibertad:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16492,7 +16492,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconSize
+     * @attr name com.pe.bicentenariolalibertad:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -16504,7 +16504,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconTint
+     * @attr name com.pe.bicentenariolalibertad:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -16531,33 +16531,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconTintMode
+     * @attr name com.pe.bicentenariolalibertad:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:rippleColor
+     * @attr name com.pe.bicentenariolalibertad:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:strokeColor
+     * @attr name com.pe.bicentenariolalibertad:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16566,7 +16566,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:strokeWidth
+     * @attr name com.pe.bicentenariolalibertad:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -16576,8 +16576,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.ipae.bicentenariolalibertad:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.ipae.bicentenariolalibertad:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.pe.bicentenariolalibertad:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.pe.bicentenariolalibertad:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -16586,18 +16586,18 @@ public final class R {
       0x7f0301d8, 0x7f0301d9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:strokeColor
+     * @attr name com.pe.bicentenariolalibertad:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16606,7 +16606,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:strokeWidth
+     * @attr name com.pe.bicentenariolalibertad:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -16616,38 +16616,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.ipae.bicentenariolalibertad:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.ipae.bicentenariolalibertad:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.ipae.bicentenariolalibertad:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.ipae.bicentenariolalibertad:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.ipae.bicentenariolalibertad:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.ipae.bicentenariolalibertad:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.ipae.bicentenariolalibertad:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.ipae.bicentenariolalibertad:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.ipae.bicentenariolalibertad:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.ipae.bicentenariolalibertad:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.ipae.bicentenariolalibertad:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.ipae.bicentenariolalibertad:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.ipae.bicentenariolalibertad:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.ipae.bicentenariolalibertad:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.ipae.bicentenariolalibertad:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.ipae.bicentenariolalibertad:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.ipae.bicentenariolalibertad:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.ipae.bicentenariolalibertad:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.ipae.bicentenariolalibertad:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.ipae.bicentenariolalibertad:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.ipae.bicentenariolalibertad:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.ipae.bicentenariolalibertad:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.ipae.bicentenariolalibertad:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.ipae.bicentenariolalibertad:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.ipae.bicentenariolalibertad:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.ipae.bicentenariolalibertad:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.ipae.bicentenariolalibertad:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.ipae.bicentenariolalibertad:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.ipae.bicentenariolalibertad:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.ipae.bicentenariolalibertad:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.ipae.bicentenariolalibertad:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.ipae.bicentenariolalibertad:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.pe.bicentenariolalibertad:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.pe.bicentenariolalibertad:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.pe.bicentenariolalibertad:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.pe.bicentenariolalibertad:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.pe.bicentenariolalibertad:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.pe.bicentenariolalibertad:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.pe.bicentenariolalibertad:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.pe.bicentenariolalibertad:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.pe.bicentenariolalibertad:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.pe.bicentenariolalibertad:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.pe.bicentenariolalibertad:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.pe.bicentenariolalibertad:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.pe.bicentenariolalibertad:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.pe.bicentenariolalibertad:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.pe.bicentenariolalibertad:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.pe.bicentenariolalibertad:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.pe.bicentenariolalibertad:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.pe.bicentenariolalibertad:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.pe.bicentenariolalibertad:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.pe.bicentenariolalibertad:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.pe.bicentenariolalibertad:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.pe.bicentenariolalibertad:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.pe.bicentenariolalibertad:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.pe.bicentenariolalibertad:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.pe.bicentenariolalibertad:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.pe.bicentenariolalibertad:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.pe.bicentenariolalibertad:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.pe.bicentenariolalibertad:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.pe.bicentenariolalibertad:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.pe.bicentenariolalibertad:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.pe.bicentenariolalibertad:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.pe.bicentenariolalibertad:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -16693,7 +16693,7 @@ public final class R {
       0x7f03020e, 0x7f030213, 0x7f030214, 0x7f030218
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16701,11 +16701,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:bottomSheetDialogTheme
+     * @attr name com.pe.bicentenariolalibertad:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16713,11 +16713,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:bottomSheetStyle
+     * @attr name com.pe.bicentenariolalibertad:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16725,11 +16725,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipGroupStyle
+     * @attr name com.pe.bicentenariolalibertad:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16737,11 +16737,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipStandaloneStyle
+     * @attr name com.pe.bicentenariolalibertad:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16749,7 +16749,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:chipStyle
+     * @attr name com.pe.bicentenariolalibertad:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -16762,7 +16762,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorAccent
+     * @attr name com.pe.bicentenariolalibertad:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -16774,7 +16774,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorBackgroundFloating
+     * @attr name com.pe.bicentenariolalibertad:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -16787,7 +16787,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorPrimary
+     * @attr name com.pe.bicentenariolalibertad:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -16800,18 +16800,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorPrimaryDark
+     * @attr name com.pe.bicentenariolalibertad:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:colorSecondary
+     * @attr name com.pe.bicentenariolalibertad:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -16824,11 +16824,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:editTextStyle
+     * @attr name com.pe.bicentenariolalibertad:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16854,11 +16854,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.ipae.bicentenariolalibertad:floatingActionButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16866,11 +16866,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:materialButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16878,11 +16878,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:materialCardViewStyle
+     * @attr name com.pe.bicentenariolalibertad:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16890,11 +16890,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:navigationViewStyle
+     * @attr name com.pe.bicentenariolalibertad:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16905,11 +16905,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:scrimBackground
+     * @attr name com.pe.bicentenariolalibertad:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16917,11 +16917,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:snackbarButtonStyle
+     * @attr name com.pe.bicentenariolalibertad:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16929,11 +16929,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabStyle
+     * @attr name com.pe.bicentenariolalibertad:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16941,11 +16941,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceBody1
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16953,11 +16953,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceBody2
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16965,11 +16965,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceButton
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16977,11 +16977,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceCaption
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16989,11 +16989,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceHeadline1
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17001,11 +17001,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceHeadline2
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17013,11 +17013,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceHeadline3
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17025,11 +17025,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceHeadline4
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17037,11 +17037,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceHeadline5
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17049,11 +17049,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceHeadline6
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17061,11 +17061,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceOverline
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17073,11 +17073,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceSubtitle1
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17085,11 +17085,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAppearanceSubtitle2
+     * @attr name com.pe.bicentenariolalibertad:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17097,7 +17097,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textInputStyle
+     * @attr name com.pe.bicentenariolalibertad:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -17231,18 +17231,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.ipae.bicentenariolalibertad:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.ipae.bicentenariolalibertad:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.pe.bicentenariolalibertad:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.pe.bicentenariolalibertad:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.ipae.bicentenariolalibertad:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.pe.bicentenariolalibertad:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.ipae.bicentenariolalibertad:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.ipae.bicentenariolalibertad:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.ipae.bicentenariolalibertad:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.ipae.bicentenariolalibertad:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.ipae.bicentenariolalibertad:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.ipae.bicentenariolalibertad:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.ipae.bicentenariolalibertad:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.pe.bicentenariolalibertad:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.pe.bicentenariolalibertad:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.pe.bicentenariolalibertad:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.pe.bicentenariolalibertad:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.pe.bicentenariolalibertad:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.pe.bicentenariolalibertad:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.pe.bicentenariolalibertad:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -17451,7 +17451,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionLayout
+     * @attr name com.pe.bicentenariolalibertad:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -17465,7 +17465,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionProviderClass
+     * @attr name com.pe.bicentenariolalibertad:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -17478,7 +17478,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:actionViewClass
+     * @attr name com.pe.bicentenariolalibertad:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -17501,7 +17501,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:alphabeticModifiers
+     * @attr name com.pe.bicentenariolalibertad:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -17512,7 +17512,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentDescription
+     * @attr name com.pe.bicentenariolalibertad:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -17524,7 +17524,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconTint
+     * @attr name com.pe.bicentenariolalibertad:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -17551,7 +17551,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconTintMode
+     * @attr name com.pe.bicentenariolalibertad:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -17574,7 +17574,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:numericModifiers
+     * @attr name com.pe.bicentenariolalibertad:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -17604,7 +17604,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:showAsAction
+     * @attr name com.pe.bicentenariolalibertad:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -17615,7 +17615,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:tooltipText
+     * @attr name com.pe.bicentenariolalibertad:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -17632,8 +17632,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.ipae.bicentenariolalibertad:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.ipae.bicentenariolalibertad:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.pe.bicentenariolalibertad:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.pe.bicentenariolalibertad:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -17752,7 +17752,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:preserveIconSpacing
+     * @attr name com.pe.bicentenariolalibertad:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -17765,7 +17765,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:subMenuArrow
+     * @attr name com.pe.bicentenariolalibertad:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -17776,14 +17776,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #NavAction_android_id android:id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_destination com.ipae.bicentenariolalibertad:destination}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_enterAnim com.ipae.bicentenariolalibertad:enterAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_exitAnim com.ipae.bicentenariolalibertad:exitAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_launchSingleTop com.ipae.bicentenariolalibertad:launchSingleTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popEnterAnim com.ipae.bicentenariolalibertad:popEnterAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popExitAnim com.ipae.bicentenariolalibertad:popExitAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popUpTo com.ipae.bicentenariolalibertad:popUpTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popUpToInclusive com.ipae.bicentenariolalibertad:popUpToInclusive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_destination com.pe.bicentenariolalibertad:destination}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_enterAnim com.pe.bicentenariolalibertad:enterAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_exitAnim com.pe.bicentenariolalibertad:exitAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_launchSingleTop com.pe.bicentenariolalibertad:launchSingleTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popEnterAnim com.pe.bicentenariolalibertad:popEnterAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popExitAnim com.pe.bicentenariolalibertad:popExitAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popUpTo com.pe.bicentenariolalibertad:popUpTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popUpToInclusive com.pe.bicentenariolalibertad:popUpToInclusive}</code></td><td></td></tr>
      * </table>
      * @see #NavAction_android_id
      * @see #NavAction_destination
@@ -17813,7 +17813,7 @@ public final class R {
      */
     public static final int NavAction_android_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#destination}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#destination}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17821,11 +17821,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:destination
+     * @attr name com.pe.bicentenariolalibertad:destination
      */
     public static final int NavAction_destination=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#enterAnim}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#enterAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17833,11 +17833,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:enterAnim
+     * @attr name com.pe.bicentenariolalibertad:enterAnim
      */
     public static final int NavAction_enterAnim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#exitAnim}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#exitAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17845,21 +17845,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:exitAnim
+     * @attr name com.pe.bicentenariolalibertad:exitAnim
      */
     public static final int NavAction_exitAnim=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#launchSingleTop}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#launchSingleTop}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:launchSingleTop
+     * @attr name com.pe.bicentenariolalibertad:launchSingleTop
      */
     public static final int NavAction_launchSingleTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#popEnterAnim}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#popEnterAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17867,11 +17867,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popEnterAnim
+     * @attr name com.pe.bicentenariolalibertad:popEnterAnim
      */
     public static final int NavAction_popEnterAnim=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#popExitAnim}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#popExitAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17879,11 +17879,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popExitAnim
+     * @attr name com.pe.bicentenariolalibertad:popExitAnim
      */
     public static final int NavAction_popExitAnim=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#popUpTo}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#popUpTo}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17891,17 +17891,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popUpTo
+     * @attr name com.pe.bicentenariolalibertad:popUpTo
      */
     public static final int NavAction_popUpTo=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#popUpToInclusive}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#popUpToInclusive}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popUpToInclusive
+     * @attr name com.pe.bicentenariolalibertad:popUpToInclusive
      */
     public static final int NavAction_popUpToInclusive=8;
     /**
@@ -17913,8 +17913,8 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #NavArgument_android_name android:name}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavArgument_android_defaultValue android:defaultValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavArgument_argType com.ipae.bicentenariolalibertad:argType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavArgument_nullable com.ipae.bicentenariolalibertad:nullable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavArgument_argType com.pe.bicentenariolalibertad:argType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavArgument_nullable com.pe.bicentenariolalibertad:nullable}</code></td><td></td></tr>
      * </table>
      * @see #NavArgument_android_name
      * @see #NavArgument_android_defaultValue
@@ -17953,23 +17953,23 @@ public final class R {
      */
     public static final int NavArgument_android_defaultValue=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#argType}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#argType}
      * attribute's value can be found in the {@link #NavArgument} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:argType
+     * @attr name com.pe.bicentenariolalibertad:argType
      */
     public static final int NavArgument_argType=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#nullable}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#nullable}
      * attribute's value can be found in the {@link #NavArgument} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:nullable
+     * @attr name com.pe.bicentenariolalibertad:nullable
      */
     public static final int NavArgument_nullable=3;
     /**
@@ -17980,7 +17980,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #NavDeepLink_android_autoVerify android:autoVerify}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavDeepLink_uri com.ipae.bicentenariolalibertad:uri}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavDeepLink_uri com.pe.bicentenariolalibertad:uri}</code></td><td></td></tr>
      * </table>
      * @see #NavDeepLink_android_autoVerify
      * @see #NavDeepLink_uri
@@ -17999,13 +17999,13 @@ public final class R {
      */
     public static final int NavDeepLink_android_autoVerify=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#uri}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#uri}
      * attribute's value can be found in the {@link #NavDeepLink} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:uri
+     * @attr name com.pe.bicentenariolalibertad:uri
      */
     public static final int NavDeepLink_uri=1;
     /**
@@ -18015,7 +18015,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavGraphNavigator_startDestination com.ipae.bicentenariolalibertad:startDestination}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavGraphNavigator_startDestination com.pe.bicentenariolalibertad:startDestination}</code></td><td></td></tr>
      * </table>
      * @see #NavGraphNavigator_startDestination
      */
@@ -18023,7 +18023,7 @@ public final class R {
       0x7f0301d0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#startDestination}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#startDestination}
      * attribute's value can be found in the {@link #NavGraphNavigator} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18031,7 +18031,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:startDestination
+     * @attr name com.pe.bicentenariolalibertad:startDestination
      */
     public static final int NavGraphNavigator_startDestination=0;
     /**
@@ -18041,8 +18041,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavHostFragment_defaultNavHost com.ipae.bicentenariolalibertad:defaultNavHost}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavHostFragment_navGraph com.ipae.bicentenariolalibertad:navGraph}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavHostFragment_defaultNavHost com.pe.bicentenariolalibertad:defaultNavHost}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavHostFragment_navGraph com.pe.bicentenariolalibertad:navGraph}</code></td><td></td></tr>
      * </table>
      * @see #NavHostFragment_defaultNavHost
      * @see #NavHostFragment_navGraph
@@ -18051,17 +18051,17 @@ public final class R {
       0x7f0300b0, 0x7f03017d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#defaultNavHost}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#defaultNavHost}
      * attribute's value can be found in the {@link #NavHostFragment} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:defaultNavHost
+     * @attr name com.pe.bicentenariolalibertad:defaultNavHost
      */
     public static final int NavHostFragment_defaultNavHost=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#navGraph}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#navGraph}
      * attribute's value can be found in the {@link #NavHostFragment} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18069,7 +18069,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:navGraph
+     * @attr name com.pe.bicentenariolalibertad:navGraph
      */
     public static final int NavHostFragment_navGraph=1;
     /**
@@ -18079,7 +18079,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavInclude_graph com.ipae.bicentenariolalibertad:graph}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavInclude_graph com.pe.bicentenariolalibertad:graph}</code></td><td></td></tr>
      * </table>
      * @see #NavInclude_graph
      */
@@ -18087,7 +18087,7 @@ public final class R {
       0x7f0300f6
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#graph}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#graph}
      * attribute's value can be found in the {@link #NavInclude} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18095,7 +18095,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:graph
+     * @attr name com.pe.bicentenariolalibertad:graph
      */
     public static final int NavInclude_graph=0;
     /**
@@ -18108,15 +18108,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.ipae.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.ipae.bicentenariolalibertad:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.ipae.bicentenariolalibertad:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.ipae.bicentenariolalibertad:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.ipae.bicentenariolalibertad:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.ipae.bicentenariolalibertad:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.ipae.bicentenariolalibertad:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.ipae.bicentenariolalibertad:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.ipae.bicentenariolalibertad:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.pe.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.pe.bicentenariolalibertad:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.pe.bicentenariolalibertad:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.pe.bicentenariolalibertad:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.pe.bicentenariolalibertad:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.pe.bicentenariolalibertad:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.pe.bicentenariolalibertad:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.pe.bicentenariolalibertad:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.pe.bicentenariolalibertad:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -18185,11 +18185,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:elevation
+     * @attr name com.pe.bicentenariolalibertad:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18197,11 +18197,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:headerLayout
+     * @attr name com.pe.bicentenariolalibertad:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.pe.bicentenariolalibertad.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18209,11 +18209,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemBackground
+     * @attr name com.pe.bicentenariolalibertad:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18222,11 +18222,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemHorizontalPadding
+     * @attr name com.bicentenariolalibertad:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18235,22 +18235,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemIconPadding
+     * @attr name com.bicentenariolalibertad:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemIconTint
+     * @attr name com.bicentenariolalibertad:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18258,18 +18258,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemTextAppearance
+     * @attr name com.bicentenariolalibertad:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:itemTextColor
+     * @attr name com.bicentenariolalibertad:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
@@ -18282,7 +18282,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:menu
+     * @attr name com.bicentenariolalibertad:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -18336,7 +18336,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.ipae.bicentenariolalibertad:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.bicentenariolalibertad:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -18380,7 +18380,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:overlapAnchor
+     * @attr name com.bicentenariolalibertad:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -18390,7 +18390,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.ipae.bicentenariolalibertad:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.bicentenariolalibertad:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -18405,7 +18405,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:state_above_anchor
+     * @attr name com.bicentenariolalibertad:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -18415,8 +18415,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.ipae.bicentenariolalibertad:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.ipae.bicentenariolalibertad:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.bicentenariolalibertad:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.bicentenariolalibertad:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -18435,7 +18435,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:paddingBottomNoButtons
+     * @attr name com.bicentenariolalibertad:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -18449,7 +18449,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:paddingTopNoTitle
+     * @attr name com.bicentenariolalibertad:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -18461,15 +18461,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.ipae.bicentenariolalibertad:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.ipae.bicentenariolalibertad:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.ipae.bicentenariolalibertad:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.ipae.bicentenariolalibertad:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.ipae.bicentenariolalibertad:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.ipae.bicentenariolalibertad:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.ipae.bicentenariolalibertad:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.ipae.bicentenariolalibertad:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.ipae.bicentenariolalibertad:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.bicentenariolalibertad:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.bicentenariolalibertad:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.bicentenariolalibertad:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.bicentenariolalibertad:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.bicentenariolalibertad:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.bicentenariolalibertad:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.bicentenariolalibertad:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.bicentenariolalibertad:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.bicentenariolalibertad:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -18524,17 +18524,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fastScrollEnabled
+     * @attr name com.bicentenariolalibertad:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18542,11 +18542,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fastScrollHorizontalThumbDrawable
+     * @attr name com.bicentenariolalibertad:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18554,11 +18554,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fastScrollHorizontalTrackDrawable
+     * @attr name com.bicentenariolalibertad:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18566,11 +18566,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fastScrollVerticalThumbDrawable
+     * @attr name com.bicentenariolalibertad:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18578,7 +18578,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:fastScrollVerticalTrackDrawable
+     * @attr name com.bicentenariolalibertad:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -18597,36 +18597,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:layoutManager
+     * @attr name com.bicentenariolalibertad:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:reverseLayout
+     * @attr name com.bicentenariolalibertad:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:spanCount
+     * @attr name com.bicentenariolalibertad:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:stackFromEnd
+     * @attr name com.bicentenariolalibertad:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -18636,7 +18636,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.ipae.bicentenariolalibertad:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.bicentenariolalibertad:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -18644,7 +18644,7 @@ public final class R {
       0x7f030111
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18655,7 +18655,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:insetForeground
+     * @attr name com.bicentenariolalibertad:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -18665,7 +18665,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.ipae.bicentenariolalibertad:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.bicentenariolalibertad:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -18673,7 +18673,7 @@ public final class R {
       0x7f03003e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18682,7 +18682,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:behavior_overlapTop
+     * @attr name com.bicentenariolalibertad:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -18696,20 +18696,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.ipae.bicentenariolalibertad:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.ipae.bicentenariolalibertad:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.ipae.bicentenariolalibertad:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.bicentenariolalibertad:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.bicentenariolalibertad:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.bicentenariolalibertad:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.ipae.bicentenariolalibertad:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.ipae.bicentenariolalibertad:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.ipae.bicentenariolalibertad:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.ipae.bicentenariolalibertad:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.ipae.bicentenariolalibertad:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.ipae.bicentenariolalibertad:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.ipae.bicentenariolalibertad:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.ipae.bicentenariolalibertad:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.ipae.bicentenariolalibertad:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.ipae.bicentenariolalibertad:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.bicentenariolalibertad:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.bicentenariolalibertad:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.bicentenariolalibertad:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.bicentenariolalibertad:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.bicentenariolalibertad:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.bicentenariolalibertad:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.bicentenariolalibertad:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.bicentenariolalibertad:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.bicentenariolalibertad:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.bicentenariolalibertad:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -18859,7 +18859,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:closeIcon
+     * @attr name com.bicentenariolalibertad:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -18872,7 +18872,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:commitIcon
+     * @attr name com.bicentenariolalibertad:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -18884,7 +18884,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:defaultQueryHint
+     * @attr name com.bicentenariolalibertad:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -18897,7 +18897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:goIcon
+     * @attr name com.bicentenariolalibertad:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -18909,7 +18909,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:iconifiedByDefault
+     * @attr name com.bicentenariolalibertad:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -18922,7 +18922,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:layout
+     * @attr name com.bicentenariolalibertad:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -18935,7 +18935,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:queryBackground
+     * @attr name com.bicentenariolalibertad:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -18946,7 +18946,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:queryHint
+     * @attr name com.bicentenariolalibertad:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -18959,7 +18959,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:searchHintIcon
+     * @attr name com.bicentenariolalibertad:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -18972,7 +18972,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:searchIcon
+     * @attr name com.bicentenariolalibertad:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -18985,7 +18985,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:submitBackground
+     * @attr name com.bicentenariolalibertad:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -18998,7 +18998,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:suggestionRowLayout
+     * @attr name com.bicentenariolalibertad:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -19011,7 +19011,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:voiceIcon
+     * @attr name com.bicentenariolalibertad:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -19021,8 +19021,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.ipae.bicentenariolalibertad:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.ipae.bicentenariolalibertad:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.bicentenariolalibertad:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.bicentenariolalibertad:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -19031,7 +19031,7 @@ public final class R {
       0x7f0301c7, 0x7f0301c8
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19039,11 +19039,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:snackbarButtonStyle
+     * @attr name com.bicentenariolalibertad:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19051,7 +19051,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:snackbarStyle
+     * @attr name com.bicentenariolalibertad:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -19062,8 +19062,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.ipae.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.ipae.bicentenariolalibertad:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.bicentenariolalibertad:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.bicentenariolalibertad:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -19096,11 +19096,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:elevation
+     * @attr name com.bicentenariolalibertad:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19109,7 +19109,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:maxActionInlineWidth
+     * @attr name com.bicentenariolalibertad:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -19123,7 +19123,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.ipae.bicentenariolalibertad:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.bicentenariolalibertad:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -19212,7 +19212,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popupTheme
+     * @attr name com.bicentenariolalibertad:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -19349,24 +19349,24 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_background com.ipae.bicentenariolalibertad:sb_background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_border_width com.ipae.bicentenariolalibertad:sb_border_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_button_color com.ipae.bicentenariolalibertad:sb_button_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checked com.ipae.bicentenariolalibertad:sb_checked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checked_color com.ipae.bicentenariolalibertad:sb_checked_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checkline_color com.ipae.bicentenariolalibertad:sb_checkline_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_checkline_width com.ipae.bicentenariolalibertad:sb_checkline_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_effect_duration com.ipae.bicentenariolalibertad:sb_effect_duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_enable_effect com.ipae.bicentenariolalibertad:sb_enable_effect}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_color com.ipae.bicentenariolalibertad:sb_shadow_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_effect com.ipae.bicentenariolalibertad:sb_shadow_effect}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_offset com.ipae.bicentenariolalibertad:sb_shadow_offset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_shadow_radius com.ipae.bicentenariolalibertad:sb_shadow_radius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_show_indicator com.ipae.bicentenariolalibertad:sb_show_indicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheck_color com.ipae.bicentenariolalibertad:sb_uncheck_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_color com.ipae.bicentenariolalibertad:sb_uncheckcircle_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_radius com.ipae.bicentenariolalibertad:sb_uncheckcircle_radius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_width com.ipae.bicentenariolalibertad:sb_uncheckcircle_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_background com.bicentenariolalibertad:sb_background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_border_width com.bicentenariolalibertad:sb_border_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_button_color com.bicentenariolalibertad:sb_button_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checked com.bicentenariolalibertad:sb_checked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checked_color com.bicentenariolalibertad:sb_checked_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checkline_color com.bicentenariolalibertad:sb_checkline_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_checkline_width com.bicentenariolalibertad:sb_checkline_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_effect_duration com.bicentenariolalibertad:sb_effect_duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_enable_effect com.bicentenariolalibertad:sb_enable_effect}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_color com.bicentenariolalibertad:sb_shadow_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_effect com.bicentenariolalibertad:sb_shadow_effect}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_offset com.bicentenariolalibertad:sb_shadow_offset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_shadow_radius com.bicentenariolalibertad:sb_shadow_radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_show_indicator com.bicentenariolalibertad:sb_show_indicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheck_color com.bicentenariolalibertad:sb_uncheck_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_color com.bicentenariolalibertad:sb_uncheckcircle_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_radius com.bicentenariolalibertad:sb_uncheckcircle_radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchButton_sb_uncheckcircle_width com.bicentenariolalibertad:sb_uncheckcircle_width}</code></td><td></td></tr>
      * </table>
      * @see #SwitchButton_sb_background
      * @see #SwitchButton_sb_border_width
@@ -19395,7 +19395,7 @@ public final class R {
       0x7f0301b4, 0x7f0301b5
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_background}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_background}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19406,11 +19406,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_background
+     * @attr name com.bicentenariolalibertad:sb_background
      */
     public static final int SwitchButton_sb_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_border_width}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_border_width}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19423,11 +19423,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_border_width
+     * @attr name com.bicentenariolalibertad:sb_border_width
      */
     public static final int SwitchButton_sb_border_width=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_button_color}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_button_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19438,11 +19438,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_button_color
+     * @attr name com.bicentenariolalibertad:sb_button_color
      */
     public static final int SwitchButton_sb_button_color=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_checked}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_checked}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19452,11 +19452,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_checked
+     * @attr name com.bicentenariolalibertad:sb_checked
      */
     public static final int SwitchButton_sb_checked=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_checked_color}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_checked_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19467,11 +19467,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_checked_color
+     * @attr name com.bicentenariolalibertad:sb_checked_color
      */
     public static final int SwitchButton_sb_checked_color=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_checkline_color}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_checkline_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19482,11 +19482,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_checkline_color
+     * @attr name com.bicentenariolalibertad:sb_checkline_color
      */
     public static final int SwitchButton_sb_checkline_color=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_checkline_width}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_checkline_width}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19499,11 +19499,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_checkline_width
+     * @attr name com.bicentenariolalibertad:sb_checkline_width
      */
     public static final int SwitchButton_sb_checkline_width=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_effect_duration}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_effect_duration}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19512,11 +19512,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_effect_duration
+     * @attr name com.bicentenariolalibertad:sb_effect_duration
      */
     public static final int SwitchButton_sb_effect_duration=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_enable_effect}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_enable_effect}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19526,11 +19526,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_enable_effect
+     * @attr name com.bicentenariolalibertad:sb_enable_effect
      */
     public static final int SwitchButton_sb_enable_effect=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_shadow_color}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_shadow_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19541,11 +19541,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_shadow_color
+     * @attr name com.bicentenariolalibertad:sb_shadow_color
      */
     public static final int SwitchButton_sb_shadow_color=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_shadow_effect}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_shadow_effect}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19555,11 +19555,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_shadow_effect
+     * @attr name com.bicentenariolalibertad:sb_shadow_effect
      */
     public static final int SwitchButton_sb_shadow_effect=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_shadow_offset}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_shadow_offset}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19572,11 +19572,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_shadow_offset
+     * @attr name com.bicentenariolalibertad:sb_shadow_offset
      */
     public static final int SwitchButton_sb_shadow_offset=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_shadow_radius}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_shadow_radius}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19589,11 +19589,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_shadow_radius
+     * @attr name com.bicentenariolalibertad:sb_shadow_radius
      */
     public static final int SwitchButton_sb_shadow_radius=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_show_indicator}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_show_indicator}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19603,11 +19603,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_show_indicator
+     * @attr name com.bicentenariolalibertad:sb_show_indicator
      */
     public static final int SwitchButton_sb_show_indicator=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_uncheck_color}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_uncheck_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19618,11 +19618,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_uncheck_color
+     * @attr name com.bicentenariolalibertad:sb_uncheck_color
      */
     public static final int SwitchButton_sb_uncheck_color=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_uncheckcircle_color}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_uncheckcircle_color}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19633,11 +19633,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_uncheckcircle_color
+     * @attr name com.bicentenariolalibertad:sb_uncheckcircle_color
      */
     public static final int SwitchButton_sb_uncheckcircle_color=15;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_uncheckcircle_radius}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_uncheckcircle_radius}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19650,11 +19650,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_uncheckcircle_radius
+     * @attr name com.bicentenariolalibertad:sb_uncheckcircle_radius
      */
     public static final int SwitchButton_sb_uncheckcircle_radius=16;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#sb_uncheckcircle_width}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#sb_uncheckcircle_width}
      * attribute's value can be found in the {@link #SwitchButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19667,7 +19667,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:sb_uncheckcircle_width
+     * @attr name com.bicentenariolalibertad:sb_uncheckcircle_width
      */
     public static final int SwitchButton_sb_uncheckcircle_width=17;
     /**
@@ -19680,17 +19680,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.ipae.bicentenariolalibertad:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.ipae.bicentenariolalibertad:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.ipae.bicentenariolalibertad:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.ipae.bicentenariolalibertad:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.ipae.bicentenariolalibertad:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.ipae.bicentenariolalibertad:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.ipae.bicentenariolalibertad:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.ipae.bicentenariolalibertad:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.ipae.bicentenariolalibertad:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.ipae.bicentenariolalibertad:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.ipae.bicentenariolalibertad:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.bicentenariolalibertad:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.bicentenariolalibertad:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.bicentenariolalibertad:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.bicentenariolalibertad:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.bicentenariolalibertad:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.bicentenariolalibertad:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.bicentenariolalibertad:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.bicentenariolalibertad:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.bicentenariolalibertad:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.bicentenariolalibertad:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.bicentenariolalibertad:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -19756,7 +19756,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:showText
+     * @attr name com.bicentenariolalibertad:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -19767,7 +19767,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:splitTrack
+     * @attr name com.bicentenariolalibertad:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -19781,7 +19781,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:switchMinWidth
+     * @attr name com.bicentenariolalibertad:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -19795,7 +19795,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:switchPadding
+     * @attr name com.bicentenariolalibertad:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -19808,7 +19808,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:switchTextAppearance
+     * @attr name com.bicentenariolalibertad:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -19822,7 +19822,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:thumbTextPadding
+     * @attr name com.bicentenariolalibertad:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -19834,7 +19834,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:thumbTint
+     * @attr name com.bicentenariolalibertad:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -19861,7 +19861,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:thumbTintMode
+     * @attr name com.bicentenariolalibertad:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -19874,7 +19874,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:track
+     * @attr name com.bicentenariolalibertad:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -19886,7 +19886,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:trackTint
+     * @attr name com.bicentenariolalibertad:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -19913,7 +19913,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:trackTintMode
+     * @attr name com.bicentenariolalibertad:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -19975,31 +19975,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.ipae.bicentenariolalibertad:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.ipae.bicentenariolalibertad:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.ipae.bicentenariolalibertad:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.ipae.bicentenariolalibertad:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.ipae.bicentenariolalibertad:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.ipae.bicentenariolalibertad:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.ipae.bicentenariolalibertad:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.ipae.bicentenariolalibertad:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.ipae.bicentenariolalibertad:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.ipae.bicentenariolalibertad:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.ipae.bicentenariolalibertad:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.ipae.bicentenariolalibertad:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.ipae.bicentenariolalibertad:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.ipae.bicentenariolalibertad:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.ipae.bicentenariolalibertad:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.ipae.bicentenariolalibertad:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.ipae.bicentenariolalibertad:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.ipae.bicentenariolalibertad:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.ipae.bicentenariolalibertad:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.ipae.bicentenariolalibertad:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.ipae.bicentenariolalibertad:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.ipae.bicentenariolalibertad:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.ipae.bicentenariolalibertad:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.ipae.bicentenariolalibertad:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.ipae.bicentenariolalibertad:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.bicentenariolalibertad:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.bicentenariolalibertad:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.bicentenariolalibertad:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.bicentenariolalibertad:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.bicentenariolalibertad:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.bicentenariolalibertad:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.bicentenariolalibertad:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.bicentenariolalibertad:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.bicentenariolalibertad:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.bicentenariolalibertad:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.bicentenariolalibertad:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.bicentenariolalibertad:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.bicentenariolalibertad:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.bicentenariolalibertad:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.bicentenariolalibertad:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.bicentenariolalibertad:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.bicentenariolalibertad:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.bicentenariolalibertad:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.bicentenariolalibertad:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.bicentenariolalibertad:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.bicentenariolalibertad:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.bicentenariolalibertad:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.bicentenariolalibertad:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.bicentenariolalibertad:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.bicentenariolalibertad:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -20037,7 +20037,7 @@ public final class R {
       0x7f0301fe
     };
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20045,11 +20045,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabBackground
+     * @attr name com.bicentenariolalibertad:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20058,11 +20058,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabContentStart
+     * @attr name com.bicentenariolalibertad:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20075,22 +20075,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabGravity
+     * @attr name com.bicentenariolalibertad:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIconTint
+     * @attr name com.bicentenariolalibertad:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20107,11 +20107,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIconTintMode
+     * @attr name com.bicentenariolalibertad:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20119,41 +20119,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIndicator
+     * @attr name com.bicentenariolalibertad:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIndicatorAnimationDuration
+     * @attr name com.bicentenariolalibertad:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIndicatorColor
+     * @attr name com.bicentenariolalibertad:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIndicatorFullWidth
+     * @attr name com.bicentenariolalibertad:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20168,11 +20168,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIndicatorGravity
+     * @attr name com.bicentenariolalibertad:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20181,21 +20181,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabIndicatorHeight
+     * @attr name com.bicentenariolalibertad:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabInlineLabel
+     * @attr name com.bicentenariolalibertad:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20204,11 +20204,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabMaxWidth
+     * @attr name com.bicentenariolalibertad:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20217,11 +20217,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabMinWidth
+     * @attr name com.bicentenariolalibertad:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20234,11 +20234,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabMode
+     * @attr name com.bicentenariolalibertad:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20247,11 +20247,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabPadding
+     * @attr name com.bicentenariolalibertad:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20260,11 +20260,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabPaddingBottom
+     * @attr name com.bicentenariolalibertad:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20273,11 +20273,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabPaddingEnd
+     * @attr name com.bicentenariolalibertad:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20286,11 +20286,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabPaddingStart
+     * @attr name com.bicentenariolalibertad:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20299,33 +20299,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabPaddingTop
+     * @attr name com.bicentenariolalibertad:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabRippleColor
+     * @attr name com.bicentenariolalibertad:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabSelectedTextColor
+     * @attr name com.bicentenariolalibertad:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20333,28 +20333,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabTextAppearance
+     * @attr name com.bicentenariolalibertad:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabTextColor
+     * @attr name com.bicentenariolalibertad:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:tabUnboundedRipple
+     * @attr name com.bicentenariolalibertad:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -20376,10 +20376,10 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_textFontWeight android:textFontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.ipae.bicentenariolalibertad:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.ipae.bicentenariolalibertad:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.ipae.bicentenariolalibertad:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textLocale com.ipae.bicentenariolalibertad:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.bicentenariolalibertad:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.bicentenariolalibertad:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.bicentenariolalibertad:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textLocale com.bicentenariolalibertad:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
@@ -20565,7 +20565,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontFamily
+     * @attr name com.bicentenariolalibertad:fontFamily
      */
     public static final int TextAppearance_fontFamily=12;
     /**
@@ -20576,7 +20576,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:fontVariationSettings
+     * @attr name com.bicentenariolalibertad:fontVariationSettings
      */
     public static final int TextAppearance_fontVariationSettings=13;
     /**
@@ -20591,7 +20591,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:textAllCaps
+     * @attr name com.bicentenariolalibertad:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=14;
     /**
@@ -20606,7 +20606,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:textLocale
+     * @attr name com.bicentenariolalibertad:textLocale
      */
     public static final int TextAppearance_textLocale=15;
     /**
@@ -20618,32 +20618,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.ipae.bicentenariolalibertad:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.ipae.bicentenariolalibertad:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.ipae.bicentenariolalibertad:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.ipae.bicentenariolalibertad:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.ipae.bicentenariolalibertad:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.ipae.bicentenariolalibertad:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.ipae.bicentenariolalibertad:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.ipae.bicentenariolalibertad:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.ipae.bicentenariolalibertad:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.ipae.bicentenariolalibertad:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.ipae.bicentenariolalibertad:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.ipae.bicentenariolalibertad:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.ipae.bicentenariolalibertad:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.ipae.bicentenariolalibertad:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.ipae.bicentenariolalibertad:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.ipae.bicentenariolalibertad:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.ipae.bicentenariolalibertad:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.ipae.bicentenariolalibertad:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.ipae.bicentenariolalibertad:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.ipae.bicentenariolalibertad:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.ipae.bicentenariolalibertad:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.ipae.bicentenariolalibertad:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.ipae.bicentenariolalibertad:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.ipae.bicentenariolalibertad:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.ipae.bicentenariolalibertad:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.ipae.bicentenariolalibertad:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.bicentenariolalibertad:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.bicentenariolalibertad:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.bicentenariolalibertad:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.bicentenariolalibertad:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.bicentenariolalibertad:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.bicentenariolalibertad:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.bicentenariolalibertad:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.bicentenariolalibertad:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.bicentenariolalibertad:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.bicentenariolalibertad:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.bicentenariolalibertad:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.bicentenariolalibertad:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.bicentenariolalibertad:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.bicentenariolalibertad:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.bicentenariolalibertad:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.bicentenariolalibertad:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.bicentenariolalibertad:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.bicentenariolalibertad:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.bicentenariolalibertad:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.bicentenariolalibertad:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.bicentenariolalibertad:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.bicentenariolalibertad:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.bicentenariolalibertad:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.bicentenariolalibertad:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.bicentenariolalibertad:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.bicentenariolalibertad:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -20709,18 +20709,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxBackgroundColor
+     * @attr name com.bicentenariolalibertad:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20734,11 +20734,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxBackgroundMode
+     * @attr name com.bicentenariolalibertad:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20747,11 +20747,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxCollapsedPaddingTop
+     * @attr name com.bicentenariolalibertad:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20760,11 +20760,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxCornerRadiusBottomEnd
+     * @attr name com.bicentenariolalibertad:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20773,11 +20773,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxCornerRadiusBottomStart
+     * @attr name com.bicentenariolalibertad:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20786,11 +20786,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxCornerRadiusTopEnd
+     * @attr name com.bicentenariolalibertad:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20799,22 +20799,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxCornerRadiusTopStart
+     * @attr name com.bicentenariolalibertad:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxStrokeColor
+     * @attr name com.bicentenariolalibertad:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20823,30 +20823,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:boxStrokeWidth
+     * @attr name com.bicentenariolalibertad:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:counterEnabled
+     * @attr name com.bicentenariolalibertad:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:counterMaxLength
+     * @attr name com.bicentenariolalibertad:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20854,11 +20854,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:counterOverflowTextAppearance
+     * @attr name com.bicentenariolalibertad:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20866,21 +20866,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:counterTextAppearance
+     * @attr name com.bicentenariolalibertad:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:errorEnabled
+     * @attr name com.bicentenariolalibertad:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20888,31 +20888,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:errorTextAppearance
+     * @attr name com.bicentenariolalibertad:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:helperText
+     * @attr name com.bicentenariolalibertad:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:helperTextEnabled
+     * @attr name com.bicentenariolalibertad:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20920,31 +20920,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:helperTextTextAppearance
+     * @attr name com.bicentenariolalibertad:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hintAnimationEnabled
+     * @attr name com.bicentenariolalibertad:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hintEnabled
+     * @attr name com.bicentenariolalibertad:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20952,21 +20952,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:hintTextAppearance
+     * @attr name com.bicentenariolalibertad:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:passwordToggleContentDescription
+     * @attr name com.bicentenariolalibertad:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20974,32 +20974,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:passwordToggleDrawable
+     * @attr name com.bicentenariolalibertad:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:passwordToggleEnabled
+     * @attr name com.bicentenariolalibertad:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:passwordToggleTint
+     * @attr name com.bicentenariolalibertad:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -21015,7 +21015,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:passwordToggleTintMode
+     * @attr name com.bicentenariolalibertad:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -21026,8 +21026,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.ipae.bicentenariolalibertad:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.ipae.bicentenariolalibertad:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.bicentenariolalibertad:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.bicentenariolalibertad:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -21049,23 +21049,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:enforceMaterialTheme
+     * @attr name com.bicentenariolalibertad:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:enforceTextAppearance
+     * @attr name com.bicentenariolalibertad:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -21077,41 +21077,41 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.ipae.bicentenariolalibertad:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.ipae.bicentenariolalibertad:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.ipae.bicentenariolalibertad:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.ipae.bicentenariolalibertad:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.ipae.bicentenariolalibertad:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.bicentenariolalibertad:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.bicentenariolalibertad:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.bicentenariolalibertad:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.bicentenariolalibertad:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.bicentenariolalibertad:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.ipae.bicentenariolalibertad:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.ipae.bicentenariolalibertad:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.ipae.bicentenariolalibertad:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.ipae.bicentenariolalibertad:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.bicentenariolalibertad:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.bicentenariolalibertad:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.bicentenariolalibertad:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.bicentenariolalibertad:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.ipae.bicentenariolalibertad:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.ipae.bicentenariolalibertad:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.bicentenariolalibertad:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.bicentenariolalibertad:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.ipae.bicentenariolalibertad:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_menu com.ipae.bicentenariolalibertad:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.ipae.bicentenariolalibertad:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.bicentenariolalibertad:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_menu com.bicentenariolalibertad:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.bicentenariolalibertad:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.ipae.bicentenariolalibertad:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.bicentenariolalibertad:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.ipae.bicentenariolalibertad:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.bicentenariolalibertad:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.ipae.bicentenariolalibertad:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.ipae.bicentenariolalibertad:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.ipae.bicentenariolalibertad:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.ipae.bicentenariolalibertad:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.ipae.bicentenariolalibertad:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.bicentenariolalibertad:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.bicentenariolalibertad:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.bicentenariolalibertad:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.bicentenariolalibertad:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.bicentenariolalibertad:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.ipae.bicentenariolalibertad:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.ipae.bicentenariolalibertad:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.ipae.bicentenariolalibertad:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.ipae.bicentenariolalibertad:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.ipae.bicentenariolalibertad:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.ipae.bicentenariolalibertad:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.ipae.bicentenariolalibertad:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.bicentenariolalibertad:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.bicentenariolalibertad:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.bicentenariolalibertad:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.bicentenariolalibertad:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.bicentenariolalibertad:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.bicentenariolalibertad:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.bicentenariolalibertad:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -21198,7 +21198,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -21212,7 +21212,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:buttonGravity
+     * @attr name com.bicentenariolalibertad:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -21223,7 +21223,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:collapseContentDescription
+     * @attr name com.bicentenariolalibertad:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -21236,7 +21236,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:collapseIcon
+     * @attr name com.bicentenariolalibertad:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -21251,7 +21251,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetEnd
+     * @attr name com.bicentenariolalibertad:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -21266,7 +21266,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetEndWithActions
+     * @attr name com.bicentenariolalibertad:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -21281,7 +21281,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetLeft
+     * @attr name com.bicentenariolalibertad:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -21296,7 +21296,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetRight
+     * @attr name com.bicentenariolalibertad:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -21311,7 +21311,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetStart
+     * @attr name com.bicentenariolalibertad:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -21326,7 +21326,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:contentInsetStartWithNavigation
+     * @attr name com.bicentenariolalibertad:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -21340,7 +21340,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:logo
+     * @attr name com.bicentenariolalibertad:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -21352,11 +21352,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:logoDescription
+     * @attr name com.bicentenariolalibertad:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21365,7 +21365,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:maxButtonHeight
+     * @attr name com.bicentenariolalibertad:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -21378,7 +21378,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:menu
+     * @attr name com.bicentenariolalibertad:menu
      */
     public static final int Toolbar_menu=14;
     /**
@@ -21390,7 +21390,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:navigationContentDescription
+     * @attr name com.bicentenariolalibertad:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=15;
     /**
@@ -21404,7 +21404,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:navigationIcon
+     * @attr name com.bicentenariolalibertad:navigationIcon
      */
     public static final int Toolbar_navigationIcon=16;
     /**
@@ -21418,7 +21418,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:popupTheme
+     * @attr name com.bicentenariolalibertad:popupTheme
      */
     public static final int Toolbar_popupTheme=17;
     /**
@@ -21429,11 +21429,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:subtitle
+     * @attr name com.bicentenariolalibertad:subtitle
      */
     public static final int Toolbar_subtitle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21441,7 +21441,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:subtitleTextAppearance
+     * @attr name com.bicentenariolalibertad:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=19;
     /**
@@ -21453,17 +21453,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:subtitleTextColor
+     * @attr name com.bicentenariolalibertad:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.ipae.bicentenariolalibertad:title
+     * @attr name com.bicentenariolalibertad:title
      */
     public static final int Toolbar_title=21;
     /**
@@ -21478,7 +21478,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleMargin
+     * @attr name com.bicentenariolalibertad:titleMargin
      */
     public static final int Toolbar_titleMargin=22;
     /**
@@ -21494,7 +21494,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleMarginBottom
+     * @attr name com.bicentenariolalibertad:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=23;
     /**
@@ -21510,7 +21510,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleMarginEnd
+     * @attr name com.bicentenariolalibertad:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=24;
     /**
@@ -21526,7 +21526,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleMarginStart
+     * @attr name com.bicentenariolalibertad:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=25;
     /**
@@ -21542,7 +21542,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleMarginTop
+     * @attr name com.bicentenariolalibertad:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=26;
     /**
@@ -21556,12 +21556,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleMargins
+     * @attr name com.bicentenariolalibertad:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=27;
     /**
-     * <p>This symbol is the offset where the {@link com.ipae.bicentenariolalibertad.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.bicentenariolalibertad.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21569,7 +21569,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleTextAppearance
+     * @attr name com.bicentenariolalibertad:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=28;
     /**
@@ -21581,7 +21581,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:titleTextColor
+     * @attr name com.bicentenariolalibertad:titleTextColor
      */
     public static final int Toolbar_titleTextColor=29;
     /**
@@ -21593,9 +21593,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.ipae.bicentenariolalibertad:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.ipae.bicentenariolalibertad:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.ipae.bicentenariolalibertad:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.bicentenariolalibertad:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.bicentenariolalibertad:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.bicentenariolalibertad:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -21657,7 +21657,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:paddingEnd
+     * @attr name com.bicentenariolalibertad:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -21671,7 +21671,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.ipae.bicentenariolalibertad:paddingStart
+     * @attr name com.bicentenariolalibertad:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -21684,7 +21684,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:theme
+     * @attr name com.bicentenariolalibertad:theme
      */
     public static final int View_theme=4;
     /**
@@ -21695,8 +21695,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.ipae.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.ipae.bicentenariolalibertad:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.bicentenariolalibertad:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.bicentenariolalibertad:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -21729,7 +21729,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTint
+     * @attr name com.bicentenariolalibertad:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -21756,7 +21756,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.ipae.bicentenariolalibertad:backgroundTintMode
+     * @attr name com.bicentenariolalibertad:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

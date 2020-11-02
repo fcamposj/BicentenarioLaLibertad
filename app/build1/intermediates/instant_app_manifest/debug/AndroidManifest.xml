@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ipae.bicentenariolalibertad"
+    package="com.pe.bicentenariolalibertad"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -26,22 +26,22 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LauncherActivity" >
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.LauncherActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LoginActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.RegisterActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.MenuActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.AmautasActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.TestActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.ComodinActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.SettingActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.GameActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.DiaryActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.LoginActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.RegisterActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.MenuActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.AmautasActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.TestActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.ComodinActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.SettingActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.GameActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.DiaryActivity" />
 
         <meta-data
             android:name="com.google.android.gms.version"
@@ -129,7 +129,7 @@
 
         <provider
             android:name="com.firebase.ui.auth.data.client.AuthUiInitProvider"
-            android:authorities="com.ipae.bicentenariolalibertad.authuiinitprovider"
+            android:authorities="com.pe.bicentenariolalibertad.authuiinitprovider"
             android:exported="false"
             android:initOrder="90" /> <!-- Needs to be explicitly declared on P+ -->
         <uses-library
@@ -174,12 +174,12 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.ipae.bicentenariolalibertad.firebaseinitprovider"
+            android:authorities="com.pe.bicentenariolalibertad.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.ipae.bicentenariolalibertad.lifecycle-process"
+            android:authorities="com.pe.bicentenariolalibertad.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
     </application>

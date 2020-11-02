@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Activitys;
 
 import android.os.Bundle;
 import android.os.PersistableBundle;
@@ -6,7 +6,7 @@ import android.os.PersistableBundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.R;
 
 public class SettingActivity extends AppCompatActivity {
 

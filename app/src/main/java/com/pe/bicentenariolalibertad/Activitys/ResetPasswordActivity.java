@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Activitys;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
@@ -10,8 +10,7 @@ import android.widget.Toast;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.database.FirebaseDatabase;
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.R;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

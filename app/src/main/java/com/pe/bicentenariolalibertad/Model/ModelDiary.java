@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad.Model;
+package com.pe.bicentenariolalibertad.Model;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Activitys;
 
 import android.os.Bundle;
 import android.view.View;
@@ -14,7 +14,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.R;
 
 public class GameActivity extends AppCompatActivity {
         private TextView mtxtProfileName;

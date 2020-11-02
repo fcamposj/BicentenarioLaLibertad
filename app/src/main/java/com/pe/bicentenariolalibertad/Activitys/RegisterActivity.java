@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Activitys;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.R;
 
 import java.util.HashMap;
 import java.util.Map;

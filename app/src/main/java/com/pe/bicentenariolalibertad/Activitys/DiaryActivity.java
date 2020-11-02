@@ -1,9 +1,9 @@
-package com.ipae.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Activitys;
 
 import android.os.Bundle;
 
-import com.ipae.bicentenariolalibertad.Holder.HolderDiary;
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.Holder.HolderDiary;
+import com.pe.bicentenariolalibertad.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 

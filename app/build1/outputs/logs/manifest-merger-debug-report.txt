@@ -129,7 +129,7 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\USUARIO\.gradl
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:12:9-40
-activity#com.ipae.bicentenariolalibertad.Activitys.LauncherActivity
+activity#com.pe.bicentenariolalibertad.Activitys.LauncherActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:15:19-51
@@ -143,39 +143,39 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:19:27-74
-activity#com.ipae.bicentenariolalibertad.Activitys.LoginActivity
+activity#com.pe.bicentenariolalibertad.Activitys.LoginActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:23:9-51
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:23:19-48
-activity#com.ipae.bicentenariolalibertad.Activitys.RegisterActivity
+activity#com.pe.bicentenariolalibertad.Activitys.RegisterActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:24:9-54
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:24:19-51
-activity#com.ipae.bicentenariolalibertad.Activitys.MenuActivity
+activity#com.pe.bicentenariolalibertad.Activitys.MenuActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:25:9-50
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:25:19-47
-activity#com.ipae.bicentenariolalibertad.Activitys.AmautasActivity
+activity#com.pe.bicentenariolalibertad.Activitys.AmautasActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:26:9-53
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:26:19-50
-activity#com.ipae.bicentenariolalibertad.Activitys.TestActivity
+activity#com.pe.bicentenariolalibertad.Activitys.TestActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:27:9-50
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:27:19-47
-activity#com.ipae.bicentenariolalibertad.Activitys.ComodinActivity
+activity#com.pe.bicentenariolalibertad.Activitys.ComodinActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:28:9-53
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:28:19-50
-activity#com.ipae.bicentenariolalibertad.Activitys.SettingActivity
+activity#com.pe.bicentenariolalibertad.Activitys.SettingActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:29:9-53
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:29:19-50
-activity#com.ipae.bicentenariolalibertad.Activitys.GameActivity
+activity#com.pe.bicentenariolalibertad.Activitys.GameActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:30:9-50
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:30:19-47
-activity#com.ipae.bicentenariolalibertad.Activitys.DiaryActivity
+activity#com.pe.bicentenariolalibertad.Activitys.DiaryActivity
 ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:31:9-51
 	android:name
 		ADDED from C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:31:19-48

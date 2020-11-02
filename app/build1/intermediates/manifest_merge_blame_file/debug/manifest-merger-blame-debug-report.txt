@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.ipae.bicentenariolalibertad"
+3    package="com.pe.bicentenariolalibertad"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -42,7 +42,7 @@
 26        android:testOnly="true"
 27        android:theme="@style/AppTheme" >
 27-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:12:9-40
-28        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LauncherActivity" >
+28        <activity android:name="com.pe.bicentenariolalibertad.Activitys.LauncherActivity" >
 28-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:15:9-21:20
 28-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:15:19-51
 29            <intent-filter>
@@ -56,31 +56,31 @@
 32-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:19:27-74
 33            </intent-filter>
 34        </activity>
-35        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LoginActivity" />
+35        <activity android:name="com.pe.bicentenariolalibertad.Activitys.LoginActivity" />
 35-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:23:9-51
 35-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:23:19-48
-36        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.RegisterActivity" />
+36        <activity android:name="com.pe.bicentenariolalibertad.Activitys.RegisterActivity" />
 36-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:24:9-54
 36-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:24:19-51
-37        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.MenuActivity" />
+37        <activity android:name="com.pe.bicentenariolalibertad.Activitys.MenuActivity" />
 37-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:25:9-50
 37-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:25:19-47
-38        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.AmautasActivity" />
+38        <activity android:name="com.pe.bicentenariolalibertad.Activitys.AmautasActivity" />
 38-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:26:9-53
 38-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:26:19-50
-39        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.TestActivity" />
+39        <activity android:name="com.pe.bicentenariolalibertad.Activitys.TestActivity" />
 39-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:27:9-50
 39-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:27:19-47
-40        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.ComodinActivity" />
+40        <activity android:name="com.pe.bicentenariolalibertad.Activitys.ComodinActivity" />
 40-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:28:9-53
 40-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:28:19-50
-41        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.SettingActivity" />
+41        <activity android:name="com.pe.bicentenariolalibertad.Activitys.SettingActivity" />
 41-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:29:9-53
 41-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:29:19-50
-42        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.GameActivity" />
+42        <activity android:name="com.pe.bicentenariolalibertad.Activitys.GameActivity" />
 42-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:30:9-50
 42-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:30:19-47
-43        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.DiaryActivity" />
+43        <activity android:name="com.pe.bicentenariolalibertad.Activitys.DiaryActivity" />
 43-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:31:9-51
 43-->C:\Users\USUARIO\Desktop\Bicentenario\BicentenarioLaLibertad\app\src\main\AndroidManifest.xml:31:19-48
 44
@@ -254,7 +254,7 @@
 129-->[com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:102:9-106:38
 130            android:name="com.firebase.ui.auth.data.client.AuthUiInitProvider"
 130-->[com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:103:13-79
-131            android:authorities="com.ipae.bicentenariolalibertad.authuiinitprovider"
+131            android:authorities="com.pe.bicentenariolalibertad.authuiinitprovider"
 131-->[com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:104:13-70
 132            android:exported="false"
 132-->[com.firebaseui:firebase-ui-auth:6.2.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\3145988fb67fb1a6d44df4b4e3dc3813\jetified-firebase-ui-auth-6.2.0\AndroidManifest.xml:105:13-37
@@ -334,7 +334,7 @@
 174-->[com.google.firebase:firebase-common:19.3.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
 175            android:name="com.google.firebase.provider.FirebaseInitProvider"
 175-->[com.google.firebase:firebase-common:19.3.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-176            android:authorities="com.ipae.bicentenariolalibertad.firebaseinitprovider"
+176            android:authorities="com.pe.bicentenariolalibertad.firebaseinitprovider"
 176-->[com.google.firebase:firebase-common:19.3.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
 177            android:exported="false"
 177-->[com.google.firebase:firebase-common:19.3.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9f50104a3ed305ca2fc55bd80a29800d\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
@@ -344,7 +344,7 @@
 179-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad7228127128997e547bc9ccbcbbe5ab\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
 180            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
 180-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad7228127128997e547bc9ccbcbbe5ab\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
-181            android:authorities="com.ipae.bicentenariolalibertad.lifecycle-process"
+181            android:authorities="com.pe.bicentenariolalibertad.lifecycle-process"
 181-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad7228127128997e547bc9ccbcbbe5ab\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
 182            android:exported="false"
 182-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad7228127128997e547bc9ccbcbbe5ab\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37

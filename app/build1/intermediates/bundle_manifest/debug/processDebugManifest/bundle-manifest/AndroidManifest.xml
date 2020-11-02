@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ipae.bicentenariolalibertad"
+    package="com.pe.bicentenariolalibertad"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -18,24 +18,24 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LauncherActivity" >
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.LauncherActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.LoginActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.RegisterActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.MenuActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.AmautasActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.TestActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.ComodinActivity" />
-        <activity android:name="com.ipae.bicentenariolalibertad.Activitys.SettingActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.LoginActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.RegisterActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.MenuActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.AmautasActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.TestActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.ComodinActivity" />
+        <activity android:name="com.pe.bicentenariolalibertad.Activitys.SettingActivity" />
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.ipae.bicentenariolalibertad.lifecycle-process"
+            android:authorities="com.pe.bicentenariolalibertad.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
     </application>

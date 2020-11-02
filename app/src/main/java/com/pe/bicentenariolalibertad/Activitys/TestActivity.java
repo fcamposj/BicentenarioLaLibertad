@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Activitys;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.R;
 
 /**
  * Created by Jorge Ventura on 2020-03-01.

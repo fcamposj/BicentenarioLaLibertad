@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.ipae.bicentenariolalibertad",
+  "applicationId": "com.pe.bicentenariolalibertad",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.ipae.bicentenariolalibertad",
+        "packageId": "com.pe.bicentenariolalibertad",
         "split": "",
         "minSdkVersion": "16"
       }

@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad;
+package com.pe.bicentenariolalibertad;
 
 import org.junit.Test;
 

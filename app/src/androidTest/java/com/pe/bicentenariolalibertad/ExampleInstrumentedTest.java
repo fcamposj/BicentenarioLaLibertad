@@ -1,4 +1,4 @@
-package com.ipae.bicentenariolalibertad;
+package com.pe.bicentenariolalibertad;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.ipae.bicentenariolalibertad", appContext.getPackageName());
+        assertEquals("com.pe.bicentenariolalibertad", appContext.getPackageName());
     }
 }

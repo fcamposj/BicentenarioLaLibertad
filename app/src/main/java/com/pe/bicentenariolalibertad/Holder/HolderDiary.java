@@ -1,12 +1,12 @@
-package com.ipae.bicentenariolalibertad.Holder;
+package com.pe.bicentenariolalibertad.Holder;
 
 import android.content.Context;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.ipae.bicentenariolalibertad.Model.ModelDiary;
-import com.ipae.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.Model.ModelDiary;
+import com.pe.bicentenariolalibertad.R;
 
 import java.util.List;
 
