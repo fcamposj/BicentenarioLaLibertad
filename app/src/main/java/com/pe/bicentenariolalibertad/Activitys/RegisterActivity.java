@@ -55,7 +55,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         registerName= findViewById(R.id.txtRegisterName);
         registerLast= findViewById(R.id.txtRegisterLast);
         registerEmail= findViewById(R.id.txtRegisterEmail);
-        registerPassword= findViewById(R.id.txtRegisterPassword12);
+        registerPassword= findViewById(R.id.txtRegisterPassword);
         registerPasswordRepid= findViewById(R.id.txtRegisterPasswordReped);
         checkTerminos = findViewById(R.id.checkRegister);
 
