@@ -11,6 +11,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import com.google.firebase.auth.FirebaseAuth;
 import com.ipae.bicentenariolalibertad.R;
 
 /**
@@ -33,6 +34,8 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
     private TextView textUs;
     private TextView textClose;
 
+    private FirebaseAuth mAuth;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,6 +56,9 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         textSetting = findViewById(R.id.TextSetting);
         textUs=findViewById(R.id.TextUs);
         textClose= findViewById(R.id.TextClose);
+
+        mAuth = FirebaseAuth.getInstance();
+
     }
 
     private void setParams(){
@@ -65,6 +71,8 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         textSetting.setOnClickListener(this);
         textUs.setOnClickListener(this);
         textClose.setOnClickListener(this);
+
+
     }
 
     @Override
@@ -94,7 +102,17 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
                 Intent intentPerfil = new Intent(MenuActivity.this, GameActivity.class);
                 startActivity(intentPerfil);
                 break;
+            case R.id.TextClose:
+              textClose.setOnClickListener(new View.OnClickListener(){
 
+                  @Override
+                  public void onClick(View v) {
+                     mAuth.signOut();
+                     startActivity(new Intent(MenuActivity.this, LoginActivity.class));
+                     finish();
+                  }
+              });
+                break;
 
         }
     }

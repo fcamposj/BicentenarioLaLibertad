@@ -48,13 +48,13 @@
                 android:inputType="textEmailAddress" />
 
             <com.google.android.material.textfield.TextInputLayout
-                android:id="@+id/txtRegisterPassword1"
+                android:id="@+id/txtRegisterPassword12"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 app:passwordToggleEnabled="true">
 
                 <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/txtRegisterPassword"
+                    android:id="@+id/txtRegisterPassword12"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/text_register_password"

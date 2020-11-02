@@ -37,15 +37,15 @@
                    android:src="@drawable/ic_profile"/>
 
                <TextView
+                   android:id="@+id/txtProfileName"
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
+                   android:layout_gravity="center_vertical"
                    android:layout_marginStart="10dp"
                    android:layout_marginLeft="10dp"
-                   android:layout_gravity="center_vertical"
-                   android:textSize="18sp"
-                   android:textColor="@color/colorToolbar"
                    android:fontFamily="@font/lato_regular"
-                   android:text="Jose Alberto"/>
+                   android:textColor="@color/colorToolbar"
+                   android:textSize="18sp" />
 
 
            </LinearLayout>

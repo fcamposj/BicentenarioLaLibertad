@@ -4,10 +4,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
 import com.ipae.bicentenariolalibertad.R;
 
 import androidx.annotation.NonNull;
@@ -28,11 +34,16 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private Button btnLogin;
     private Button btnLoginGmail;
     private Button btnLoginFacebook;
+    private TextView  txtResetPassord;
 
-    private FirebaseAuth mFirebaseAuth;
-    private FirebaseAuth.AuthStateListener mAuthStateListener;
 
-    @Override
+    FirebaseAuth mFirebaseAuth;
+
+
+    private EditText mloginEmail, mloginPassword;
+    private  String nEmail ="", nPassword="";
+
+        @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
@@ -40,53 +51,22 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         initParams();
         setParams();
 
-        mFirebaseAuth = FirebaseAuth.getInstance();
-        mAuthStateListener = new FirebaseAuth.AuthStateListener() {
-            @Override
-            public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
-                FirebaseUser  user= firebaseAuth.getCurrentUser();
-                if(user !=null){
 
-                }else {
-
-
-
-                }
-            }
-        };
     }
 
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        super.onActivityResult(requestCode, resultCode, data);
-        if (requestCode == RC_SIGN_IN){
-            if(requestCode == RESULT_OK){
-
-            }else{
-
-            }
-        }
-    }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-        mFirebaseAuth.addAuthStateListener(mAuthStateListener);
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        if(mAuthStateListener != null){
-            mFirebaseAuth.removeAuthStateListener(mAuthStateListener);
-        }
-    }
 
     private void initParams(){
+
+            mFirebaseAuth = FirebaseAuth.getInstance();
         textRegister = findViewById(R.id.textRegister);
         btnLogin = findViewById(R.id.btnLogin);
         btnLoginGmail = findViewById(R.id.btnLoginGmail);
         btnLoginFacebook = findViewById(R.id.btnLoginFacebook);
+        txtResetPassord = findViewById(R.id.txtResetPassword);
+
+        mloginEmail = findViewById(R.id.txtLoginEmail);
+        mloginPassword = findViewById(R.id.txtLoginPassword);
+
     }
 
     private void setParams(){
@@ -94,6 +74,28 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         btnLogin.setOnClickListener(this);
         btnLoginGmail.setOnClickListener(this);
         btnLoginFacebook.setOnClickListener(this);
+
+        btnLogin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                nEmail = mloginEmail.getText().toString();
+                nPassword =mloginPassword.getText().toString();
+
+                if(!nEmail.isEmpty() && !nPassword.isEmpty()){
+                    loginUser();
+                }else{
+                    Toast.makeText(LoginActivity.this, " Complete los campos",Toast.LENGTH_SHORT).show();
+                }
+
+            }
+        });
+
+        txtResetPassord.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(LoginActivity.this, ResetPasswordActivity.class));
+            }
+        });
     }
 
     @Override
@@ -106,11 +108,33 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
             case R.id.btnLoginGmail:
             case R.id.btnLoginFacebook:
-            case R.id.btnLogin:
-                Intent intentMenu = new Intent(LoginActivity.this, MenuActivity.class);
-                startActivity(intentMenu);
-                finish();
-                break;
+
+        }
+    }
+
+
+    private void loginUser(){
+   mFirebaseAuth.signInWithEmailAndPassword(nEmail, nPassword).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
+       @Override
+       public void onComplete(@NonNull Task<AuthResult> task) {
+           if(task.isSuccessful()){
+               startActivity(new Intent(LoginActivity.this, GameActivity.class));
+               finish();
+           }else{
+               Toast.makeText(LoginActivity.this, "No se pudo iniciar sesion, compruebe los datos",Toast.LENGTH_SHORT).show();
+           }
+       }
+   });
+    }
+
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+
+        if(mFirebaseAuth.getCurrentUser()!=null){
+            startActivity(new Intent(LoginActivity.this, MenuActivity.class));
+            finish();
         }
     }
 }

@@ -55,7 +55,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         registerName= findViewById(R.id.txtRegisterName);
         registerLast= findViewById(R.id.txtRegisterLast);
         registerEmail= findViewById(R.id.txtRegisterEmail);
-        registerPassword= findViewById(R.id.txtRegisterPassword);
+        registerPassword= findViewById(R.id.txtRegisterPassword12);
         registerPasswordRepid= findViewById(R.id.txtRegisterPasswordReped);
         checkTerminos = findViewById(R.id.checkRegister);
 
@@ -113,7 +113,7 @@ mAuth.createUserWithEmailAndPassword(rEmail, rPaswword).addOnCompleteListener(ne
                 @Override
                 public void onComplete(@NonNull Task<Void> task2) {
                     if(task2.isSuccessful()) {
-                        startActivity(new Intent(RegisterActivity.this, LoginActivity.class));
+                        startActivity(new Intent(RegisterActivity.this, MenuActivity.class));
                         finish();
 
                     }else{
