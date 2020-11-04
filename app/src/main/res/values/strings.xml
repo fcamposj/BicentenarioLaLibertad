@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Bicentenario La Libertad</string>
 
+    <string name="facebook_app_id">393505121837965</string>
+    <string name="fb_login_protocol_scheme">fb393505121837965</string>
+
+
     <string name="text_login_title">INICIAR SESIÓN</string>
     <string name="text_login_email">Correo</string>
     <string name="text_login_password">Contraseña</string>

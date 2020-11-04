@@ -8,13 +8,25 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.facebook.AccessToken;
+import com.facebook.CallbackManager;
+import com.facebook.FacebookCallback;
+import com.facebook.FacebookException;
+import com.facebook.login.LoginManager;
+import com.facebook.login.LoginResult;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthCredential;
 import com.google.firebase.auth.AuthResult;
+import com.google.firebase.auth.FacebookAuthProvider;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.pe.bicentenariolalibertad.R;
 
+import java.util.Arrays;
+
 import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
@@ -32,6 +44,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private Button btnLoginGmail;
     private Button btnLoginFacebook;
     private TextView  txtResetPassord;
+
+    private CallbackManager callbackManager;
 
 
     FirebaseAuth mFirebaseAuth;
@@ -55,6 +69,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private void initParams(){
 
             mFirebaseAuth = FirebaseAuth.getInstance();
+            callbackManager =CallbackManager.Factory.create();
         textRegister = findViewById(R.id.textRegister);
         btnLogin = findViewById(R.id.btnLogin);
         btnLoginGmail = findViewById(R.id.btnLoginGmail);
@@ -70,7 +85,29 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         textRegister.setOnClickListener(this);
         btnLogin.setOnClickListener(this);
         btnLoginGmail.setOnClickListener(this);
-        btnLoginFacebook.setOnClickListener(this);
+
+        btnLoginFacebook.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                LoginManager.getInstance().logInWithReadPermissions(LoginActivity.this, Arrays.asList("email","public_profile"));
+                LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
+                    @Override
+                    public void onSuccess(LoginResult loginResult) {
+                        handleFacebookAccessToken(loginResult.getAccessToken());
+                    }
+
+                    @Override
+                    public void onCancel() {
+
+                    }
+
+                    @Override
+                    public void onError(FacebookException error) {
+
+                    }
+                });
+            }
+        });
 
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -93,6 +130,63 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 startActivity(new Intent(LoginActivity.this, ResetPasswordActivity.class));
             }
         });
+    }
+
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        if(mFirebaseAuth.getCurrentUser()!=null){
+            startActivity(new Intent(LoginActivity.this, MenuActivity.class));
+            finish();
+        }
+
+
+        //   FirebaseUser user = mFirebaseAuth.getCurrentUser();
+        //if (user !=null){
+          //  startActivity(new Intent(LoginActivity.this, GameActivity.class));
+            //finish();
+
+       // }
+
+    }
+
+    private void handleFacebookAccessToken(AccessToken token) {
+        AuthCredential credential= FacebookAuthProvider.getCredential(token.getToken());
+        mFirebaseAuth.signInWithCredential(credential)
+                .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+                    @Override
+                    public void onComplete(@NonNull Task<AuthResult> task) {
+                        if(task.isSuccessful()){
+                        //  startActivity(new Intent(LoginActivity.this, GameActivity.class));
+                       //    finish();
+
+                          ingresado();
+                           Toast.makeText(LoginActivity.this, "Ingreso Correctamente", Toast.LENGTH_SHORT).show();
+
+                        }else {
+                            Toast.makeText(LoginActivity.this, "No puede ingresar con esta cuenta", Toast.LENGTH_SHORT).show();
+
+                        }
+                    }
+                });
+
+    }
+
+    public void ingresado(){
+
+            Intent intent = new Intent(getApplicationContext(), MenuActivity.class);
+            startActivity(intent);
+
+    }
+
+
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        callbackManager.onActivityResult(requestCode, resultCode,data);
+
     }
 
     @Override
@@ -125,13 +219,4 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     }
 
 
-    @Override
-    protected void onStart() {
-        super.onStart();
-
-        if(mFirebaseAuth.getCurrentUser()!=null){
-            startActivity(new Intent(LoginActivity.this, MenuActivity.class));
-            finish();
-        }
-    }
 }
