@@ -1,4 +1,6 @@
 package com.pe.bicentenariolalibertad.Activitys;
+import com.google.android.gms.auth.api.signin.GoogleSignIn;
+import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.squareup.picasso.Picasso;
 
 import android.annotation.SuppressLint;
@@ -45,6 +47,13 @@ public class GameActivity extends AppCompatActivity {
         mtxtProfileName = findViewById(R.id.txtProfileName);
 
         imgProfile = findViewById(R.id.imgProfileGame);
+
+        GoogleSignInAccount signInAccount= GoogleSignIn.getLastSignedInAccount(this);
+        if (signInAccount != null){
+            mtxtProfileName.setText(signInAccount.getDisplayName());
+        }
+
+
         mAuth = FirebaseAuth.getInstance();
         mReference = FirebaseDatabase.getInstance().getReference();
         FirebaseUser user = mAuth.getCurrentUser();
