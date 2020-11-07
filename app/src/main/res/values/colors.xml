@@ -7,6 +7,10 @@
     <color name="colorAccent">#FFF</color>
     <color name="colorAccentLight">#80FFFFFF</color>
 
+    --Color cargando
+    <color name="color_launch">#ff1744</color>
+
+
     <color name="colorMenu">#8d99ae</color>
     <color name="colorBlack">#000</color>
 
