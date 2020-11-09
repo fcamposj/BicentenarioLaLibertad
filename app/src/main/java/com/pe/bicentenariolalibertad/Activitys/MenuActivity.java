@@ -65,6 +65,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         imgMenu.setOnClickListener(this);
         imgPerfil.setOnClickListener(this);
         linearGame.setOnClickListener(this);
+        linearHistory.setOnClickListener(this);
         linearDiary.setOnClickListener(this);
 
 
@@ -85,6 +86,11 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.linearGame:
                 Intent intent = new Intent(MenuActivity.this, AmautasActivity.class);
                 startActivity(intent);
+                break;
+
+            case R.id.linearHistory:
+                Intent intenHistory = new Intent(MenuActivity.this, HistoryActivity.class);
+                startActivity(intenHistory);
                 break;
 
             case R.id.linearDiary:
