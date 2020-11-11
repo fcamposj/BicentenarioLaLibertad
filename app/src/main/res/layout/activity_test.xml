@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
     <include
-        android:id="@+id/toolbar"
+        android:id="@+id/toolbarHistory"
         layout="@layout/toolbar_options"/>
 
 
@@ -14,7 +14,7 @@
         android:id="@+id/relativeTimer"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:layout_below="@+id/toolbar"
+        android:layout_below="@+id/toolbarHistory"
         android:gravity="center_vertical"
         android:background="@color/colorAccent">
 

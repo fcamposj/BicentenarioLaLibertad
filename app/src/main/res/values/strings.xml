@@ -50,6 +50,29 @@
     <string name="text_game_level_1">Hatun-runa</string>
     <string name="text_game_level_2">Curaca</string>
 
+    <!-- History -->
+    <string name="text_history_name">Historia</string>
+    <string-array name="Historia">
+        <item>José Faustino Sánchez Carrión</item>
+        <item>José Andrés Rázuri Estéves</item>
+        <item>César Abraham Vallejo Mendoza</item>
+        <item>Rafael Larco Hoyle</item>
+        <item>Ciro Alegría Bazán</item>
+        <item>Víctor Raúl Haya de La Torre</item>
+        <item>Pedro Pablo Atusparia</item>
+        <item>Toribio Luzuriaga</item>
+    </string-array>
+    <string-array name="Description">
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+        <item>This is ramdom description.</item>
+    </string-array>
+
     <!-- setings -->
     <string name="text_settings_general">General</string>
     <string name="text_settings_notification">Notificaciones</string>
