@@ -8,7 +8,15 @@ String diaryimg;
 String  diarytitulo;
 String diaryFecha;
 String direccion;
-String descripcion;
+String hora;
+
+    public ModelDiary(String diaryimg, String diarytitulo, String diaryFecha, String direccion, String hora) {
+        this.diaryimg = diaryimg;
+        this.diarytitulo = diarytitulo;
+        this.diaryFecha = diaryFecha;
+        this.direccion = direccion;
+        this.hora = hora;
+    }
 
     public ModelDiary() {
     }
@@ -45,11 +53,11 @@ String descripcion;
         this.direccion = direccion;
     }
 
-    public String getDescripcion() {
-        return descripcion;
+    public String getHora() {
+        return hora;
     }
 
-    public void setDescripcion(String descripcion) {
-        this.descripcion = descripcion;
+    public void setHora(String hora) {
+        this.hora = hora;
     }
 }
