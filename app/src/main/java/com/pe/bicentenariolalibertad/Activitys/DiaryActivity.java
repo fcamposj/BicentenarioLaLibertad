@@ -25,6 +25,7 @@ public class DiaryActivity extends AppCompatActivity {
 
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager layoutManager;
+    private String afff="";
     DatabaseReference reference;
     ArrayList<ModelDiary> mdiary ;
     HolderDiary mholder;
