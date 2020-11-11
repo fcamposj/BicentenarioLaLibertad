@@ -2,6 +2,8 @@ package com.pe.bicentenariolalibertad.Activitys;
 
 import android.os.Bundle;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 import com.pe.bicentenariolalibertad.Holder.HolderDiary;
 import com.pe.bicentenariolalibertad.R;
 
@@ -21,6 +23,7 @@ public class DiaryActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_diary);
+
 
         recyclerView=(RecyclerView) findViewById(R.id.diaryreclycler);
         layoutManager = new LinearLayoutManager(this);
