@@ -7,6 +7,7 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -15,6 +16,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -24,6 +27,7 @@ import com.pe.bicentenariolalibertad.Model.ModelTest;
 import com.pe.bicentenariolalibertad.R;
 
 import java.util.ArrayList;
+import java.util.Map;
 import java.util.Stack;
 
 /**
@@ -36,7 +40,7 @@ import java.util.Stack;
 public class TestActivity extends AppCompatActivity  {
 
 
-      TextView preInicial,txttiempo;
+      TextView preInicial,txttiempo, txtnum;
       Button opc1, opc2, opc3;
      int total= 1;
      int correct = 0;
@@ -45,6 +49,9 @@ public class TestActivity extends AppCompatActivity  {
       int computerCount =0;
 
      DatabaseReference reference;
+     FirebaseUser firebaseUser;
+
+     FirebaseDatabase firebaseDatabase;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,6 +63,13 @@ public class TestActivity extends AppCompatActivity  {
         opc2 = findViewById(R.id.txtopctwo);
         opc3 = findViewById(R.id.txtopcthree);
         txttiempo = findViewById(R.id.txtTiempo);
+        txtnum = findViewById(R.id.txtnum);
+
+
+        firebaseDatabase =  FirebaseDatabase.getInstance();
+        firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
+
+
         updateQuestion();
 
         reverseTimer(60,txttiempo);
@@ -66,6 +80,8 @@ public class TestActivity extends AppCompatActivity  {
     private  void updateQuestion(){
 
         computerCount++;
+        txtnum.setText(""+computerCount);
+        guardadatos();
         if(computerCount > 10){
 
         }else{
@@ -89,6 +105,7 @@ public class TestActivity extends AppCompatActivity  {
                           if(opc1.getText().toString().equals(model.getAnswer())){
                               opc1.setBackgroundColor(Color.GREEN);
                               correct = correct+1;
+                              guardadatos();
                               Handler handler = new Handler();
 
                               handler.postDelayed(new Runnable() {
@@ -195,12 +212,7 @@ public class TestActivity extends AppCompatActivity  {
                             }
                         }
                     });
-
-
-
-
-
-
+                    
                 }
 
                 @Override
@@ -228,14 +240,38 @@ public class TestActivity extends AppCompatActivity  {
 
             public void onFinish() {
                 tv.setText("Completed");
-               /* Intent myIntent = new Intent(MainActivity.this,ResultActivity.class);
-                myIntent.putExtra("total",String.valueOf(total));
-                myIntent.putExtra("correct",String.valueOf(correct));
-                myIntent.putExtra("incorrect",String.valueOf(wrong));
-                startActivity(myIntent);*/
+                Intent myIntent = new Intent(TestActivity.this,MenuActivity.class);
+               // myIntent.putExtra("total",String.valueOf(total));
+               // myIntent.putExtra("correct",String.valueOf(correct));
+               // myIntent.putExtra("incorrect",String.valueOf(wrong));
+                startActivity(myIntent);
             }
         }.start();
     }
+
+  public void guardadatos(){
+                FirebaseDatabase fire = FirebaseDatabase.getInstance();
+       final DatabaseReference referen = fire.getReference().child(firebaseUser.getUid());
+        referen.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+              if (snapshot.exists()){
+                  Long num= (Long) snapshot.child("total").getValue() + 5 ;
+
+
+
+                    referen.child("datos").child(firebaseUser.getUid()).setValue(num);
+              }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+
+
+  }
 
 
 }

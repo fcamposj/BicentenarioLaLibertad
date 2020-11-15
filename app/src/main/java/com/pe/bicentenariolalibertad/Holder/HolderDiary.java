@@ -12,7 +12,6 @@ import com.pe.bicentenariolalibertad.Model.ModelDiary;
 import com.pe.bicentenariolalibertad.R;
 
 import java.util.ArrayList;
-import java.util.List;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
