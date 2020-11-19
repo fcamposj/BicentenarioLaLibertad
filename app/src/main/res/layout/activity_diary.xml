@@ -2,13 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#ff1c1b"
     android:orientation="vertical">
-
-    <CalendarView
-        android:id="@+id/calendarView"
-        android:layout_width="match_parent"
-        android:layout_height="572dp"
-        android:layout_weight="1" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,8 +16,10 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="15sp"
+            android:background="#f8ffb8"
             android:gravity="center"
             android:text="EVENTOS"
+            android:textColor="@color/color_launch"
             android:textSize="24sp"
             android:textStyle="bold" />
 

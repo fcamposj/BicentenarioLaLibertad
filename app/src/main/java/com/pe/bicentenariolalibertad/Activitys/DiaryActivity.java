@@ -25,10 +25,9 @@ public class DiaryActivity extends AppCompatActivity {
 
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager layoutManager;
-    private String afff="";
-    DatabaseReference reference;
-    ArrayList<ModelDiary> mdiary ;
-    HolderDiary mholder;
+    private DatabaseReference reference;
+    private ArrayList<ModelDiary> mdiary ;
+    private HolderDiary mholder;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +38,10 @@ public class DiaryActivity extends AppCompatActivity {
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
         recyclerView.setLayoutManager(linearLayoutManager);
 
+
+
         reference = FirebaseDatabase.getInstance().getReference().child("Agenda");
+
 
         reference.addValueEventListener(new ValueEventListener() {
             @Override

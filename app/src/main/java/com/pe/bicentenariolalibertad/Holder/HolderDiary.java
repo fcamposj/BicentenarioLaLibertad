@@ -8,6 +8,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.pe.bicentenariolalibertad.Model.ModelDiary;
 import com.pe.bicentenariolalibertad.R;
 
@@ -18,15 +19,13 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class HolderDiary extends RecyclerView.Adapter<HolderDiary.ViewHolder> {
 
-    Context context;
-    ArrayList<ModelDiary> models;
+    private Context context;
+    private ArrayList<ModelDiary> models;
 
     public HolderDiary(ArrayList<ModelDiary> models,Context context){
         this.context = context;
         this.models = models;
     }
-
-
 
     @NonNull
     @Override
@@ -38,10 +37,15 @@ public class HolderDiary extends RecyclerView.Adapter<HolderDiary.ViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull HolderDiary.ViewHolder holder, int position) {
         ModelDiary mode = models.get(position);
-        holder.txtTitulo.setText(mode.getDiarytitulo());
-        holder.txtFecha.setText(mode.getDiaryFecha());
-        holder.txtHora.setText(mode.getHora());
-        holder.txtDireccion.setText(mode.getDireccion());
+
+        Glide.with(context).load(mode.getAimagen())
+                .placeholder(R.drawable.ic_launcher).override(330,180).centerCrop()
+                .error(R.drawable.back_arrow).into(holder.imageview_foto);
+
+        holder.txttitulo.setText(mode.getAtitulo());
+        holder.txtfecha.setText(mode.getAfecha());
+        holder.txthora.setText(mode.getAhora());
+        holder.txtdireccion.setText(mode.getAdireccion());
     }
 
     @Override
@@ -51,18 +55,20 @@ public class HolderDiary extends RecyclerView.Adapter<HolderDiary.ViewHolder> {
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         public LinearLayout linerDiary;
-        private TextView txtTitulo,txtFecha,txtHora,txtDireccion;
-        private ImageView imageView_foto;
+        private TextView txttitulo,txtfecha,txthora,txtdireccion;
+        private ImageView imageview_foto;
+        public  View view;
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
 
+            this.view = itemView;
             this.linerDiary = (LinearLayout) itemView.findViewById(R.id.linearDiary);
-            imageView_foto = itemView.findViewById(R.id.imageView_foto);
-            txtTitulo = itemView.findViewById(R.id.txtTitulo);
-            txtFecha = itemView.findViewById(R.id.txtFecha);
-            txtHora = itemView.findViewById(R.id.txtHora);
-            txtDireccion = itemView.findViewById(R.id.txtDireccion);
+            this.imageview_foto = (ImageView) itemView.findViewById(R.id.imageView_foto);
+            this.txttitulo = (TextView) itemView.findViewById(R.id.txtTitulo);
+            this.txtfecha = (TextView) itemView.findViewById(R.id.txtFecha);
+            this.txthora = (TextView) itemView.findViewById(R.id.txtHora);
+            this.txtdireccion = (TextView) itemView.findViewById(R.id.txtDireccion);
         }
     }
 }

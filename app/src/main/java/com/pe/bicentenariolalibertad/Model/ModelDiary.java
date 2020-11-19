@@ -4,60 +4,71 @@ import java.util.Date;
 
 public class ModelDiary {
 
-String diaryimg;
-String  diarytitulo;
-String diaryFecha;
-String direccion;
-String hora;
+    String aimagen;
+    String atitulo;
+    String afecha;
+    String ahora;
+    String adireccion;
 
-    public ModelDiary(String diaryimg, String diarytitulo, String diaryFecha, String direccion, String hora) {
-        this.diaryimg = diaryimg;
-        this.diarytitulo = diarytitulo;
-        this.diaryFecha = diaryFecha;
-        this.direccion = direccion;
-        this.hora = hora;
+    public ModelDiary(String aimagen, String atitulo, String afecha, String ahora, String adireccion) {
+        this.aimagen = aimagen;
+        this.atitulo = atitulo;
+        this.afecha = afecha;
+        this.ahora = ahora;
+        this.adireccion = adireccion;
     }
 
     public ModelDiary() {
     }
 
-    public String getDiaryimg() {
-        return diaryimg;
+    public String getAimagen() {
+        return aimagen;
     }
 
-    public void setDiaryimg(String diaryimg) {
-        this.diaryimg = diaryimg;
+    public void setAimagen(String aimagen) {
+        this.aimagen = aimagen;
     }
 
-    public String getDiarytitulo() {
-        return diarytitulo;
+    public String getAtitulo() {
+        return atitulo;
     }
 
-    public void setDiarytitulo(String diarytitulo) {
-        this.diarytitulo = diarytitulo;
+    public void setAtitulo(String atitulo) {
+        this.atitulo = atitulo;
     }
 
-    public String getDiaryFecha() {
-        return diaryFecha;
+    public String getAfecha() {
+        return afecha;
     }
 
-    public void setDiaryFecha(String diaryFecha) {
-        this.diaryFecha = diaryFecha;
+    public void setAfecha(String afecha) {
+        this.afecha = afecha;
     }
 
-    public String getDireccion() {
-        return direccion;
+    public String getAhora() {
+        return ahora;
     }
 
-    public void setDireccion(String direccion) {
-        this.direccion = direccion;
+    public void setAhora(String ahora) {
+        this.ahora = ahora;
     }
 
-    public String getHora() {
-        return hora;
+    public String getAdireccion() {
+        return adireccion;
     }
 
-    public void setHora(String hora) {
-        this.hora = hora;
+    public void setAdireccion(String adireccion) {
+        this.adireccion = adireccion;
+    }
+
+    @Override
+    public String toString() {
+        return "ModelDiary{" +
+                "aimagen='" + aimagen + '\'' +
+                ", atitulo='" + atitulo + '\'' +
+                ", afecha='" + afecha + '\'' +
+                ", ahora='" + ahora + '\'' +
+                ", adireccion='" + adireccion + '\'' +
+                '}';
     }
 }
