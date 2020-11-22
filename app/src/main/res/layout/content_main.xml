@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/plantillainicios"
+    android:orientation="vertical">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@drawable/plantillainicios"
         android:visibility="visible">
 
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:scaleType="centerCrop"/>
 
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:visibility="visible"
-            android:background="@color/colorAccentLight"/>
 
     </RelativeLayout>
 
     <include
         android:id="@+id/toolbarHistory"
-        layout="@layout/toolbar_menu"/>
+        layout="@layout/toolbar_menu" />
 
     <TextView
         android:id="@+id/textWelcome"
@@ -35,242 +27,59 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
-        android:textColor="@color/colorToolbar"
-        android:textSize="25sp"
         android:fontFamily="@font/lato_regular"
-        android:text="@string/text_welcome"/>
+        android:text="@string/text_welcome"
+        android:textColor="@color/colorQuestionBG"
+        android:textSize="25sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
+        android:layout_below="@+id/textWelcome"
         android:layout_marginTop="20dp"
-        android:padding="20dp"
-        android:layout_below="@+id/textWelcome">
+        android:orientation="vertical"
+        android:padding="20dp">
 
-        <LinearLayout
+        <Button
             android:id="@+id/linearGame"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:gravity="center_vertical"
-            android:background="@drawable/shape_option_history_light">
+            android:background="@drawable/juegose" />
 
-            <LinearLayout
-                android:layout_width="80dp"
-                android:layout_height="match_parent"
-                android:gravity="center"
-                android:background="@drawable/shape_option_history">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:visibility="gone"
-                    android:src="@drawable/ic_game"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
-                    android:visibility="visible"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="I"/>
-
-            </LinearLayout>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textColor="@color/colorAccent"
-                android:textSize="18sp"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
-                android:fontFamily="@font/lato_bold"
-                android:text="@string/text_menu_game"/>
-
-        </LinearLayout>
-
-        <LinearLayout
+        <Button
             android:id="@+id/linearHistory"
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/shape_option_game_light"
-            android:gravity="center_vertical">
-
-            <LinearLayout
-                android:layout_width="80dp"
-                android:layout_height="match_parent"
-                android:background="@drawable/shape_option_game"
-                android:gravity="center">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_history"
-                    android:visibility="gone" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="II"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
-                    android:visibility="visible" />
-
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
-                android:orientation="vertical">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="@string/text_menu_history"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="18sp" />
+            android:background="@drawable/historia"
+            android:gravity="center_vertical" />
 
 
-            </LinearLayout>
-
-
-        </LinearLayout>
-
-        <LinearLayout
+        <Button
             android:id="@+id/linearDiary"
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/shape_option_diary_light"
-            android:gravity="center_vertical">
-
-            <LinearLayout
-                android:layout_width="80dp"
-                android:layout_height="match_parent"
-                android:background="@drawable/shape_option_diary"
-                android:gravity="center">
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_diary"
-                    android:visibility="gone" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="III"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
-                    android:visibility="visible" />
-
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
-                android:orientation="vertical">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="@string/text_menu_diary"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="18sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_light"
-                    android:text="@string/text_menu_commig_soon"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="18sp" />
-
-            </LinearLayout>
+            android:background="@drawable/agenda"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" />
 
 
-
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/linearDiaryes"
+        <Button
+            android:id="@+id/linearVideo"
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:layout_marginTop="20dp"
-            android:background="@drawable/shape_option_diary_light"
-            android:gravity="center_vertical">
+            android:background="@drawable/video"
+            android:gravity="center_vertical" />
 
-            <LinearLayout
-                android:layout_width="80dp"
-                android:layout_height="match_parent"
-                android:background="@drawable/shape_option_diary"
-                android:gravity="center">
 
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_diary"
-                    android:visibility="gone" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="IV"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="25sp"
-                    android:visibility="visible" />
-
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:layout_marginLeft="10dp"
-                android:orientation="vertical">
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_bold"
-                    android:text="@string/text_settings_video"
-                    android:textColor="@color/colorAccent"
-                    android:textSize="18sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:fontFamily="@font/lato_light"
-                    android:text="@string/text_menu_commig_soon"
-                    android:textColor="@color/colorPrimaryDark"
-                    android:textSize="18sp" />
-
-            </LinearLayout>
+              >
 
 
 
-
-        </LinearLayout>
 
     </LinearLayout>
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:scaleType="centerCrop"
-        android:src="@drawable/ic_footer_peru_2"/>
 
 </RelativeLayout>

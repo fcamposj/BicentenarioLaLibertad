@@ -86,4 +86,19 @@
 
     <string name="text_settings_video">Videos</string>
 
+
+    <!--Terminos y condiciones -->
+
+    <string name="text_terminos_titulo">Términos y Condiciones de Registro</string>
+    <string name="text_terminos_uno">1.	Información de esta aplicación </string>
+    <string name="text_terminos_uno_details">Esta aplicación muestra información sobre bicentenario: historia, eventos, juego de preguntas, videos y mucho más.</string>
+    <string name="text_terminos_dos">2.	Uso del aplicativo</string>
+    <string name="text_terminos_dos_details">Para acceder es necesario registrarse en la aplicación y hacerse una cuenta con la dirección de email y una contraseña. El email con el que se registre un usuario debe ser propio, y dicho usuario es el único responsable de mantener dicha contraseña confidencial.</string>
+    <string name="text_terminos_tres">3.	Información Personal</string>
+    <string name="text_terminos_tres_details">Al registrarse y proveer de datos personales, el usuario está aceptando que la empresa guarde sus datos en la base de datos de Bicentenario.</string>
+    <string name="text_terminos_cuatro">4.	Privacidad</string>
+    <string name="text_terminos_cuatro_details">Bicentenario guardará toda la información personal subministrada por el usuario de acuerdo con nuestras políticas de privacidad.</string>
+
+
+
 </resources>

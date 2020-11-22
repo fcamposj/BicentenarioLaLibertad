@@ -3,7 +3,7 @@ package com.pe.bicentenariolalibertad.Activitys;
 import android.os.Bundle;
 
 import com.pe.bicentenariolalibertad.Holder.HolderDiary;
-import com.pe.bicentenariolalibertad.Model.ModelDiary;
+import com.pe.bicentenariolalibertad.Entidades.ModelDiary;
 import com.pe.bicentenariolalibertad.R;
 
 import androidx.annotation.NonNull;

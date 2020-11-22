@@ -1,6 +1,4 @@
-package com.pe.bicentenariolalibertad.Model;
-
-import java.util.Date;
+package com.pe.bicentenariolalibertad.Entidades;
 
 public class ModelDiary {
 

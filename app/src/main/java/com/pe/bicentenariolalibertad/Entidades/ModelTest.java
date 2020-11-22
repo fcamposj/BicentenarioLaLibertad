@@ -1,8 +1,9 @@
-package com.pe.bicentenariolalibertad.Model;
+package com.pe.bicentenariolalibertad.Entidades;
 
 
 
 public class ModelTest {
+
 
     public  String question;
      public String respA, respB, respC, answer;

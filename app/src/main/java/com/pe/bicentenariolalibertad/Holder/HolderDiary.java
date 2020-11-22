@@ -8,8 +8,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+
 import com.bumptech.glide.Glide;
-import com.pe.bicentenariolalibertad.Model.ModelDiary;
+
+import com.pe.bicentenariolalibertad.Entidades.ModelDiary;
+
 import com.pe.bicentenariolalibertad.R;
 
 import java.util.ArrayList;

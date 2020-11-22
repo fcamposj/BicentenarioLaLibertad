@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.pe.bicentenariolalibertad.Model.CategoryActivity;
+import com.pe.bicentenariolalibertad.Entidades.CategoryActivity;
 
 import java.util.List;
 
