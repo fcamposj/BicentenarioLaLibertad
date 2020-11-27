@@ -18,10 +18,12 @@ import android.provider.MediaStore;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import de.hdodenhof.circleimageview.CircleImageView;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -35,7 +37,7 @@ import com.pe.bicentenariolalibertad.R;
 public class GameActivity extends AppCompatActivity {
     private static final int RC_FROM_GALLERY = 124;
     private TextView mtxtProfileName;
-        private ImageView imgProfile;
+        private CircleImageView imgProfile;
         private FirebaseAuth mAuth;
         private DatabaseReference mReference;
 
@@ -99,6 +101,7 @@ public class GameActivity extends AppCompatActivity {
 
                     mtxtProfileName.setText(name + " " + Lats);
                 }
+
             }
 
             @Override
@@ -144,7 +147,15 @@ public class GameActivity extends AppCompatActivity {
                                 });
                             }
                         });
+            }else{
+                Toast.makeText(GameActivity.this,
+                        "Seleccione foto", Toast.LENGTH_SHORT);
             }
+        }else{
+            Toast.makeText(GameActivity.this,
+                    "Seleccione foto", Toast.LENGTH_SHORT);
+
+
         }
     }
 

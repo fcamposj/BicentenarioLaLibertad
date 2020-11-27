@@ -6,14 +6,15 @@ public class ModelTest {
 
 
     public  String question;
-     public String respA, respB, respC, answer;
+     public String respA, respB, respC;
+     int correctAns;
 
-    public ModelTest(String question, String respA, String respB, String respC, String answer) {
+    public ModelTest(String question, String respA, String respB, String respC, int correctAns) {
         this.question = question;
         this.respA = respA;
         this.respB = respB;
         this.respC = respC;
-        this.answer = answer;
+        this.correctAns = correctAns;
     }
 
     public ModelTest() {
@@ -51,11 +52,11 @@ public class ModelTest {
         this.respC = respC;
     }
 
-    public String getAnswer() {
-        return answer;
+    public int getCorrectAns() {
+        return correctAns;
     }
 
-    public void setAnswer(String answer) {
-        this.answer = answer;
+    public void setCorrectAns(int correctAns) {
+        this.correctAns = correctAns;
     }
 }
