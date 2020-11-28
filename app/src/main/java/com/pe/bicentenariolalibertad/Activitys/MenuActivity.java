@@ -6,7 +6,6 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,6 +13,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.pe.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.Usuario.activity.LoginActivity;
 import com.pe.bicentenariolalibertad.Videos.activity.VideoActivity;
 
 

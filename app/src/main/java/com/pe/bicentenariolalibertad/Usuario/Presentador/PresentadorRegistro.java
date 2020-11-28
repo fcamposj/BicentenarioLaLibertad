@@ -4,7 +4,6 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
-import android.widget.CheckBox;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -35,6 +34,9 @@ public class PresentadorRegistro {
         this.mReference = mReference;
 
     }
+
+
+    // registrando por usurio y gmail
 
 
     public void signupuservalidation(String name, String last, String email , String password, String repitpassword, boolean checkterminos){
@@ -90,7 +92,6 @@ public class PresentadorRegistro {
     private    void  signUpUser(String name, String last, String email , String password){
 
 
-
         mAuth.createUserWithEmailAndPassword(email, password)
                 .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                     @Override
@@ -129,6 +130,10 @@ public class PresentadorRegistro {
                     }
                 });
     }
+
+
+
+    // ingresan
 
 
 }

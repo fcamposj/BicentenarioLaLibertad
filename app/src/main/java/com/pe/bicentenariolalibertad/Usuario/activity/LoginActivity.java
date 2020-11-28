@@ -116,6 +116,11 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         textRegister.setOnClickListener(this);
         btnLogin.setOnClickListener(this);
 
+        btnLoginGmail.setOnClickListener(this);
+        btnLoginFacebook.setOnClickListener(this);
+
+
+
         // google
         btnLoginGmail.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -176,6 +181,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 break;
 
             case R.id.btnLoginGmail:
+
+                break;
             case R.id.btnLoginFacebook:
 
         }
@@ -188,7 +195,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             Intent signIntent = mGoogleSignInClient.getSignInIntent();
             startActivityForResult(signIntent, RC_SIGN_IN);
     }
-
 
     @Override
     protected void onStart() {
