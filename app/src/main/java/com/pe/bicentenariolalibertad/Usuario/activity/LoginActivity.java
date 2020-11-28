@@ -33,6 +33,7 @@ import com.pe.bicentenariolalibertad.Activitys.MenuActivity;
 import com.pe.bicentenariolalibertad.Activitys.ResetPasswordActivity;
 import com.pe.bicentenariolalibertad.R;
 import com.pe.bicentenariolalibertad.Usuario.Presentador.PrensentadorLogin;
+import com.pe.bicentenariolalibertad.Usuario.Presentador.PresentadorRegistro;
 
 import java.util.Arrays;
 
@@ -171,7 +172,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 prensentadorLogin.singInUsser(email,password);
                 break;
             case R.id.textRegister:
-                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
+                Intent intent = new Intent(LoginActivity.this, PresentadorRegistro.class);
                 startActivity(intent);
                 break;
 

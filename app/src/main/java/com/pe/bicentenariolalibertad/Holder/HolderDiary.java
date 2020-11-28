@@ -1,6 +1,8 @@
 package com.pe.bicentenariolalibertad.Holder;
 
 import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,9 +13,11 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
+import com.pe.bicentenariolalibertad.Activitys.DetailDiaryActivity;
 import com.pe.bicentenariolalibertad.Entidades.ModelDiary;
 
 import com.pe.bicentenariolalibertad.R;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -39,11 +43,25 @@ public class HolderDiary extends RecyclerView.Adapter<HolderDiary.ViewHolder> {
 
     @Override
     public void onBindViewHolder(@NonNull HolderDiary.ViewHolder holder, int position) {
-        ModelDiary mode = models.get(position);
+       final ModelDiary mode = models.get(position);
 
-        Glide.with(context).load(mode.getAimagen())
-                .placeholder(R.drawable.ic_launcher).override(330,180).centerCrop()
-                .error(R.drawable.back_arrow).into(holder.imageview_foto);
+       holder.view.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View v) {
+               Bundle bundle = new Bundle();
+               bundle.putSerializable("mode",mode);
+               Intent intent = new Intent(holder.itemView.getContext(), DetailDiaryActivity.class);
+               intent.putExtras(bundle);
+               context.startActivity(intent);
+           }
+       });
+
+        Picasso.get().load(mode.getAimagen()).placeholder(R.drawable.ic_launcher)
+                .resize(370,200).into(holder.imageview_foto);
+
+        //Glide.with(context).load(mode.getAimagen())
+        // .placeholder(R.drawable.ic_launcher).override(330,180).centerCrop()
+           //     .error(R.drawable.back_arrow).into(holder.imageview_foto);
 
         holder.txttitulo.setText(mode.getAtitulo());
         holder.txtfecha.setText(mode.getAfecha());
