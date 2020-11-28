@@ -1,6 +1,8 @@
 package com.pe.bicentenariolalibertad.Entidades;
 
-public class ModelDiary {
+import java.io.Serializable;
+
+public class ModelDiary implements Serializable {
 
     String aimagen;
     String atitulo;
