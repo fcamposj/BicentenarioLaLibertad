@@ -1,20 +1,19 @@
 package com.pe.bicentenariolalibertad.Model;
 
+import android.view.View;
+
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
+
 public class CategoryActivity {
 
-    private String id;
-    private String name;
-    private String categoryImage;
+    String name, story;
+    int image;
 
-    public CategoryActivity() {
-    }
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
+    public CategoryActivity(String name, String story, int image) {
+        this.name = name;
+        this.story = story;
+        this.image = image;
     }
 
     public String getName() {
@@ -25,11 +24,19 @@ public class CategoryActivity {
         this.name = name;
     }
 
-    public String getCategoryImage() {
-        return categoryImage;
+    public String getStory() {
+        return story;
     }
 
-    public void setCategoryImage(String categoryImage) {
-        this.categoryImage = categoryImage;
+    public void setStory(String story) {
+        this.story = story;
+    }
+
+    public int getImage() {
+        return image;
+    }
+
+    public void setImage(int image) {
+        this.image = image;
     }
 }

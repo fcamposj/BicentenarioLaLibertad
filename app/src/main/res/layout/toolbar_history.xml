@@ -29,12 +29,12 @@
 
 
     <ImageView
+        android:id="@+id/imgHistorySearch"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:visibility="invisible"
         android:layout_weight="0"
         android:padding="12dp"
         android:tint="@color/colorAccent"
-        android:src="@drawable/back_arrow"/>
+        android:src="@drawable/ic_search"/>
 
 </LinearLayout>

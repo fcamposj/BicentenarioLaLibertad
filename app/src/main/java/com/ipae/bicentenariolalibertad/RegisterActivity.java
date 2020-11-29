@@ -9,6 +9,8 @@ import android.widget.Spinner;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.pe.bicentenariolalibertad.R;
+
 /**
  * Created by Jorge Ventura on 2020-02-29.
  * jorge.venturag@gmail.com

@@ -4,58 +4,68 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.makeramen.roundedimageview.RoundedImageView;
+import com.pe.bicentenariolalibertad.Model.CategoryActivity;
 import com.pe.bicentenariolalibertad.R;
+
+import java.util.List;
 
 public class HolderHistoryList extends RecyclerView.Adapter<HolderHistoryList.MyViewHolder> {
 
-    String data1[], data2[];
-    int images[];
-    Context context;
+    private List<CategoryActivity> cat;
 
-    public HolderHistoryList(Context ct, String r1[], String r2[], int imgs[]) {
-        context = ct;
-        data1 = r1;
-        data2 = r2;
-        images = imgs;
+    public HolderHistoryList(List<CategoryActivity> cat) {
+        this.cat = cat;
     }
 
     @NonNull
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        LayoutInflater inflater = LayoutInflater.from(context);
-        View view = inflater.inflate(R.layout.activity_history_list_item,parent, false);
-        return new MyViewHolder(view);
+        return new MyViewHolder(
+                LayoutInflater.from(parent.getContext()).inflate(
+                        R.layout.activity_history_list,
+                        parent,
+                        false
+                )
+        );
     }
 
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
-        holder.txt1.setText(data1[position]);
-        holder.txt2.setText(data2[position]);
-        holder.myImage.setImageResource(images[position]);
+        holder.bindHistory(cat.get(position));
     }
 
     @Override
     public int getItemCount() {
-        return images.length;
+        return cat.size();
     }
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
 
-        TextView txt1, txt2;
-        ImageView myImage;
+        ConstraintLayout layoutItemList;
+        View viewBackground;
+        RoundedImageView imgHistoryOne;
+        TextView textName, textHistory;
 
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
+            layoutItemList = itemView.findViewById(R.id.layoutItemList);
+            imgHistoryOne = itemView.findViewById(R.id.imgHistoryOne);
+            textName = itemView.findViewById(R.id.textName);
+            textHistory = itemView.findViewById(R.id.textHistory);
 
-            txt1 = itemView.findViewById(R.id.history_txt);
-            txt2 = itemView.findViewById(R.id.description_txt);
-            myImage = itemView.findViewById(R.id.myImage);
+        }
+
+        void bindHistory(final CategoryActivity categoryActivity){
+            imgHistoryOne.setImageResource(categoryActivity.getImage());
+            textName.setText(categoryActivity.getName());
+            textHistory.setText(categoryActivity.getStory());
         }
     }
 }
