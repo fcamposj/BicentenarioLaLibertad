@@ -8,6 +8,7 @@ import com.google.firebase.auth.UserProfileChangeRequest;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
+import com.pe.bicentenariolalibertad.Videos.activity.VideoActivity;
 import com.squareup.picasso.Picasso;
 
 import android.annotation.SuppressLint;
@@ -41,6 +42,8 @@ public class GameActivity extends AppCompatActivity {
         private FirebaseAuth mAuth;
         private DatabaseReference mReference;
 
+        private ImageView imageView;
+
 
 
 
@@ -53,6 +56,21 @@ public class GameActivity extends AppCompatActivity {
         initParams();
         setParams();
         selectPhoto();
+
+
+        imageView = findViewById(R.id.imgToolbarBack);
+
+
+        imageView.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+
+                Intent intents = new Intent(GameActivity.this, MenuActivity.class);
+                startActivity(intents);
+            }
+        });
     }
 
 

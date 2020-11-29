@@ -8,6 +8,14 @@
     tools:context=".Videos.activity.DetailsVideoActivity">
 
 
+
+    <include
+        android:id="@+id/toolbarvideo"
+        layout="@layout/toolbar_videos_details"
+        />
+
+
+
     <com.google.android.exoplayer2.ui.PlayerView
         android:id="@+id/exoplayer_fullscreen"
         android:layout_width="match_parent"

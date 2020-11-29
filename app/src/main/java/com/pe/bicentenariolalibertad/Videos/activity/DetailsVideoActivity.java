@@ -23,6 +23,7 @@ import com.google.android.exoplayer2.ui.PlayerView;
 import com.google.android.exoplayer2.upstream.DataSource;
 import com.google.android.exoplayer2.upstream.DefaultHttpDataSourceFactory;
 import com.google.android.exoplayer2.util.Util;
+import com.pe.bicentenariolalibertad.Activitys.MenuActivity;
 import com.pe.bicentenariolalibertad.R;
 
 public class DetailsVideoActivity extends AppCompatActivity {
@@ -37,19 +38,26 @@ public class DetailsVideoActivity extends AppCompatActivity {
     private  int currentWindow = 0;
     private  long playbackposition = 0;
 
-
+    ImageView imageViewe;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_video_details);
 
-        //   ActionBar actionBar = getSupportActionBar();
-        //  actionBar.setTitle("Fullscreen");
 
-        //   actionBar.setDisplayHomeAsUpEnabled(true);
-        //  actionBar.setDisplayShowHomeEnabled(true);
+        imageViewe = findViewById(R.id.txtatrasvideodetails);
 
 
+        imageViewe.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+
+                Intent intents = new Intent(DetailsVideoActivity.this, VideoActivity.class);
+                startActivity(intents);
+            }
+        });
 
         playerView = findViewById(R.id.exoplayer_fullscreen);
         textView = findViewById(R.id.tv_fullscreen);

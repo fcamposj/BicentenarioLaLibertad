@@ -32,8 +32,9 @@
         <activity android:name=".Activitys.GameActivity" />
         <activity android:name=".Activitys.DiaryActivity" />
         <activity android:name=".Activitys.DetailDiaryActivity" />
-        <activity android:name=".Activitys.ResetPasswordActivity" />
+        <activity android:name=".Videos.activity.ResetPasswordActivity" />
         <activity android:name=".Videos.activity.VideoActivity" />
+
         <activity
             android:name=".Videos.activity.DetailsVideoActivity"
             android:configChanges="keyboardHidden|orientation|screenSize" />

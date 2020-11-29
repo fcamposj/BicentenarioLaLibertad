@@ -8,7 +8,7 @@
 
     <include
         android:id="@+id/toolbarvideo"
-        layout="@layout/toolbar_options"
+        layout="@layout/toolbar_videos"
         />
 
     <ScrollView

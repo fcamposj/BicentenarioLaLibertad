@@ -30,7 +30,7 @@ import com.google.firebase.auth.GoogleAuthProvider;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.pe.bicentenariolalibertad.Activitys.MenuActivity;
-import com.pe.bicentenariolalibertad.Activitys.ResetPasswordActivity;
+import com.pe.bicentenariolalibertad.Videos.activity.ResetPasswordActivity;
 import com.pe.bicentenariolalibertad.R;
 import com.pe.bicentenariolalibertad.Usuario.Presentador.PrensentadorLogin;
 import com.pe.bicentenariolalibertad.Usuario.Presentador.PresentadorRegistro;
@@ -177,7 +177,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
                 prensentadorLogin.singInUsser(email,password);
                 break;
             case R.id.textRegister:
-                Intent intent = new Intent(LoginActivity.this, PresentadorRegistro.class);
+                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
                 startActivity(intent);
                 break;
 

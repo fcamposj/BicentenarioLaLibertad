@@ -8,6 +8,11 @@
 
     >
 
+    <include
+        android:id="@+id/toolbarvideo"
+        layout="@layout/toolbar_diary_details"
+        />
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

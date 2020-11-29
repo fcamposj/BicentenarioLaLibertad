@@ -85,7 +85,7 @@
     <string name="text_settings_comodin">Comodines</string>
 
     <string name="text_settings_video">Videos</string>
-
+    <string name="text_settings_diary">Agenda de Eventos</string>
 
     <!--Terminos y condiciones -->
 
@@ -98,6 +98,9 @@
     <string name="text_terminos_tres_details">Al registrarse y proveer de datos personales, el usuario está aceptando que la empresa guarde sus datos en la base de datos de Bicentenario.</string>
     <string name="text_terminos_cuatro">4.	Privacidad</string>
     <string name="text_terminos_cuatro_details">Bicentenario guardará toda la información personal subministrada por el usuario de acuerdo con nuestras políticas de privacidad.</string>
+    <string name="text_settings_video_details">Videos</string>
+    <string name="text_settings_diary_details">Eventos</string>
+    <string name="text_terminos">Bicentenario</string>
 
 
 </resources>

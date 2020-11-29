@@ -232,7 +232,7 @@ public class TestActivity extends AppCompatActivity implements  View.OnClickList
                     Intent intent = new Intent(TestActivity.this, ScoreActivity.class);
                     intent.putExtra("SCORE",String.valueOf(score)+ "/" + String.valueOf(questionList.size()));
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-                    guardardato();
+                    //guardardato();
                     startActivity(intent);
                 }else{
                     changeQuestion();
@@ -267,7 +267,7 @@ public class TestActivity extends AppCompatActivity implements  View.OnClickList
             Intent intent = new Intent(TestActivity.this, ScoreActivity.class);
             intent.putExtra("SCORE",String.valueOf(score)+ "/" + String.valueOf(questionList.size()));
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
-          ///  guardardato();
+            //guardardato();
             startActivity(intent);
             //TestActivity.this.finish();
         }
@@ -330,20 +330,38 @@ public class TestActivity extends AppCompatActivity implements  View.OnClickList
         super.onBackPressed();
         countDown.cancel();
     }
-
+/*
     private  void guardardato(){
 
         DatabaseReference reference;
         FirebaseAuth auth = null;
         FirebaseUser user;
-        reference = FirebaseDatabase.getInstance().getReference("Users").child(auth.getUid());
+       // reference = FirebaseDatabase.getInstance().getReference("Users").child(auth.getUid());
 
-       String fd = reference.toString();
+       //String fd = reference.toString();
 
         Map<String, Object> map = new HashMap<>();
         map.put("buenas",""+String.valueOf(score));
         map.put("malas",""+ String.valueOf(err));
-        map.put("user",fd);
+        //map.put("user",fd);
         firestore.collection("Bicentenario").document("result").set(map);
     }
-}
+
+
+
+    private  void guardardato(){
+
+         DatabaseReference mDatabase;
+        mDatabase = FirebaseDatabase.getInstance().getReference();
+        FirebaseAuth hg = FirebaseAuth.getInstance();
+
+
+        Map<String, Object> map = new HashMap<>();
+        map.put("buenas",""+String.valueOf(score));
+        map.put("malas",""+ String.valueOf(err));
+
+        mDatabase.child("users").child(hg.getUid()).setValue(map);
+    }
+    */
+    }
+

@@ -5,6 +5,10 @@
     android:background="#ff1c1b"
     android:orientation="vertical">
 
+    <include
+        android:id="@+id/toolbarHistory"
+        layout="@layout/toolbar_diary"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

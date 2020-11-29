@@ -1,6 +1,9 @@
 package com.pe.bicentenariolalibertad.Activitys;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
 
 import com.pe.bicentenariolalibertad.Holder.HolderDiary;
 import com.pe.bicentenariolalibertad.Entidades.ModelDiary;
@@ -29,10 +32,26 @@ public class DiaryActivity extends AppCompatActivity {
     private ArrayList<ModelDiary> mdiary ;
     private HolderDiary mholder;
 
+    ImageView imageViews;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_diary);
+
+        imageViews = findViewById(R.id.txtatrasdiary);
+
+
+        imageViews.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+
+                Intent intents = new Intent(DiaryActivity.this, MenuActivity.class);
+                startActivity(intents);
+            }
+        });
 
         recyclerView= findViewById(R.id.diaryreclycler);
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);

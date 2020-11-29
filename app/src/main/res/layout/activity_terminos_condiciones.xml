@@ -5,6 +5,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <include
+        android:id="@+id/toolbarvideo"
+        layout="@layout/toolbar_terminos"
+        />
+
 
     <ScrollView
         android:layout_width="match_parent"

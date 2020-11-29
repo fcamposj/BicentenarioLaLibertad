@@ -1,5 +1,6 @@
 package com.pe.bicentenariolalibertad.Usuario.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -10,8 +11,10 @@ import android.widget.ImageView;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.pe.bicentenariolalibertad.Activitys.MenuActivity;
 import com.pe.bicentenariolalibertad.R;
 import com.pe.bicentenariolalibertad.Usuario.Presentador.PresentadorRegistro;
+import com.pe.bicentenariolalibertad.Videos.activity.VideoActivity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -34,7 +37,7 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
     DatabaseReference mDatabase;
     PresentadorRegistro presentadorRegistro;
 
-
+            ImageView imagenicon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,6 +45,24 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         setContentView(R.layout.activity_register);
         initParams();
         setParams();
+
+
+
+
+                imagenicon = findViewById(R.id.imgToolbarBackregister);
+
+
+        imagenicon.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+
+                Intent intents = new Intent(RegisterActivity.this, LoginActivity.class);
+                startActivity(intents);
+            }
+        });
+
     }
 
     private void initParams(){

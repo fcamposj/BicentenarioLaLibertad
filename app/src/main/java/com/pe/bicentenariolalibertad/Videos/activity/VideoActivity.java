@@ -46,8 +46,8 @@ public class VideoActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         reference = FirebaseDatabase.getInstance().getReference().child("Videos");
 
-     //7   inflater = findViewById(R.layout.toolbar_videos);
-      /*  imagenicon = findViewById(R.id.imgToolbarBackVideo);
+
+        imagenicon = findViewById(R.id.txtatrasvideo);
 
 
       imagenicon.setOnClickListener(new View.OnClickListener() {
@@ -59,7 +59,7 @@ public class VideoActivity extends AppCompatActivity {
               Intent intents = new Intent(VideoActivity.this, MenuActivity.class);
               startActivity(intents);
           }
-      });*/
+      });
 
     }
 
