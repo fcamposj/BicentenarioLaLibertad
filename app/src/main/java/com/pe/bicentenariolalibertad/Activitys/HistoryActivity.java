@@ -27,14 +27,14 @@ public class HistoryActivity extends AppCompatActivity implements HolderCategory
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_history);
 
-        recyclerView = (RecyclerView) findViewById(R.id.Rhistory);
-        initialiseList();
-        setUpRecycler();
+        //recyclerView = (RecyclerView) findViewById(R.id.Rhistory);
+        //initialiseList();
+        //setUpRecycler();
     }
 
     private void initialiseList() {
 
-        CategoryActivity Personajes = new CategoryActivity("0","Personajes",R.drawable.ic_caballitos);
+        /*CategoryActivity Personajes = new CategoryActivity("0","Personajes",R.drawable.ic_caballitos);
         categoryActivities.add(Personajes);
 
         CategoryActivity Casonas = new CategoryActivity("1","Casonas",R.drawable.ic_caballitos);
@@ -50,22 +50,22 @@ public class HistoryActivity extends AppCompatActivity implements HolderCategory
         categoryActivities.add(Monumentos);
 
         CategoryActivity Reliquias = new CategoryActivity("5","Reliquias",R.drawable.ic_caballitos);
-        categoryActivities.add(Reliquias);
+        categoryActivities.add(Reliquias);*/
     }
 
     private void setUpRecycler() {
-        recyclerView = (RecyclerView)findViewById(R.id.Rhistory);
+        /*recyclerView = (RecyclerView)findViewById(R.id.Rhistory);
         HolderCategory holderCategory = new HolderCategory(categoryActivities, this);
 
         RecyclerView.LayoutManager layoutManager = new GridLayoutManager(getApplicationContext(),2);
         recyclerView.setLayoutManager(layoutManager);
-        recyclerView.setAdapter(holderCategory);
+        recyclerView.setAdapter(holderCategory);*/
     }
 
     @Override
     public void onItemClick(int position) {
-        Intent listItemCategory = new Intent(this,HistoryListActivity.class);
+        /*Intent listItemCategory = new Intent(this,HistoryListActivity.class);
         listItemCategory.putExtra("position", position);
-        startActivity(listItemCategory);
+        startActivity(listItemCategory);*/
     }
 }

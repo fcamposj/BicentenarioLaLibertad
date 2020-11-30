@@ -31,51 +31,51 @@ public class HistoryListActivity extends AppCompatActivity {
         cat.add(personajeOne);
 
         CategoryActivity personajeTwo = new CategoryActivity();
-        personajeTwo.image = R.drawable.ic_caballitos;
-        personajeTwo.name = "Casonas";
-        personajeTwo.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeTwo.setImage(R.drawable.ic_caballitos);
+        personajeTwo.setName("Casonas");
+        personajeTwo.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeTwo);
 
         CategoryActivity personajeThree = new CategoryActivity();
-        personajeThree.image = R.drawable.ic_caballitos;
-        personajeThree.name = "Lugares";
-        personajeThree.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeThree.setImage(R.drawable.ic_caballitos);
+        personajeThree.setName("Lugares");
+        personajeThree.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeThree);
 
         CategoryActivity personajeFour = new CategoryActivity();
-        personajeFour.image = R.drawable.ic_caballitos;
-        personajeFour.name = "Lugares";
-        personajeFour.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeFour.setImage(R.drawable.ic_caballitos);
+        personajeFour.setName("Lugares");
+        personajeFour.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeFour);
 
         CategoryActivity personajeFive = new CategoryActivity();
-        personajeFive.image = R.drawable.ic_caballitos;
-        personajeFive.name = "Lugares";
-        personajeFive.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeFive.setImage(R.drawable.ic_caballitos);
+        personajeFive.setName("Lugares");
+        personajeFive.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeFive);
 
         CategoryActivity personajeSix = new CategoryActivity();
-        personajeSix.image = R.drawable.ic_caballitos;
-        personajeSix.name = "Lugares";
-        personajeSix.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeSix.setImage(R.drawable.ic_caballitos);
+        personajeSix.setName("Lugares");
+        personajeSix.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeSix);
 
         CategoryActivity personajeSeven = new CategoryActivity();
-        personajeSeven.image = R.drawable.ic_caballitos;
-        personajeSeven.name = "Lugares";
-        personajeSeven.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeSeven.setImage(R.drawable.ic_caballitos);
+        personajeSeven.setName("Lugares");
+        personajeSeven.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeSeven);
 
         CategoryActivity personajeEithg = new CategoryActivity();
-        personajeEithg.image = R.drawable.ic_caballitos;
-        personajeEithg.name = "Lugares";
-        personajeEithg.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeEithg.setImage(R.drawable.ic_caballitos);
+        personajeEithg.setName("Lugares");
+        personajeEithg.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeEithg);
 
         CategoryActivity personajeNine = new CategoryActivity();
-        personajeNine.image = R.drawable.ic_caballitos;
-        personajeNine.name = "Lugares";
-        personajeNine.story = "The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.";
+        personajeNine.setImage(R.drawable.ic_caballitos);
+        personajeNine.setName("Lugares");
+        personajeNine.setStory("The series is set 97 years after a devastating nuclear war wiped out almost all life on Earht.");
         cat.add(personajeNine);
 
     }

@@ -37,7 +37,7 @@ public class DetailActivity extends AppCompatActivity {
     private void getItemDetailCategory() {
         Intent prevIntent = getIntent();
         int position = prevIntent.getIntExtra("position",0);
-        selectCategoryActivity = HistoryListActivity.recycleCat.get(position);
+        //selectCategoryActivity = HistoryListActivity.recycleCat.get(position);
         recyclerImageHistoria.setImageResource(selectCategoryActivity.getImage());
         recyclerTitle.setText(selectCategoryActivity.getName());
 

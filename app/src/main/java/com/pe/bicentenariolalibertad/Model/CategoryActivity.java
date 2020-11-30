@@ -16,6 +16,10 @@ public class CategoryActivity {
         this.image = image;
     }
 
+    public CategoryActivity() {
+
+    }
+
     public String getName() {
         return name;
     }
