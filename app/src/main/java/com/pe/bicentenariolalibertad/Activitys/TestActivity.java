@@ -1,16 +1,21 @@
 package com.pe.bicentenariolalibertad.Activitys;
 
+
+import android.animation.Animator;
+import android.app.Dialog;
+import android.content.Context;
 import android.content.Intent;
-import android.database.Cursor;
+import android.content.res.ColorStateList;
 import android.graphics.Color;
-import android.media.MediaPlayer;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.Handler;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.animation.DecelerateInterpolator;
 import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -22,23 +27,25 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
-import com.pe.bicentenariolalibertad.Model.ModelTest;
+import com.google.firebase.firestore.FirebaseFirestore;
+import com.google.firebase.firestore.QueryDocumentSnapshot;
+import com.google.firebase.firestore.QuerySnapshot;
+import com.pe.bicentenariolalibertad.Entidades.ModelTest;
 import com.pe.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.ScoreActivity.ScoreActivity;
 
 import java.util.ArrayList;
 import java.util.Map;
 import java.util.Stack;
 
 /**
- * Created by Jorge Ventura on 2020-03-01.
- * jorge.venturag@gmail.com
+ * Created by Cleiner Rodriguez.
+ * cleinerrodriguezs@gmail.com
  *
- * Ventura Apps
+ *  Apps
  * Lima, Peru.
  **/
-public class TestActivity extends AppCompatActivity  {
-
+public class TestActivity extends AppCompatActivity implements  View.OnClickListener  {
 
       TextView preInicial,txttiempo, txtnum;
       Button opc1, opc2, opc3;
@@ -46,7 +53,15 @@ public class TestActivity extends AppCompatActivity  {
      int correct = 0;
      int wrong = 0;
 
-      int computerCount =0;
+      private TextView question,gCount, timer;
+      private Button opc1, opc2, opc3;
+      private List<ModelTest> questionList;
+      private  int quesNum;
+      private  CountDownTimer countDown;
+      private  int score;
+      private FirebaseFirestore firestore;
+      private int setNo;
+      private Dialog loadingDialog;
 
      DatabaseReference reference;
      FirebaseUser firebaseUser;
@@ -58,7 +73,10 @@ public class TestActivity extends AppCompatActivity  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
 
-        preInicial= findViewById(R.id.txtquestions);
+        question= findViewById(R.id.txtquestions);
+        timer = findViewById(R.id.txtTiempo);
+        gCount = findViewById(R.id.txtnum);
+
         opc1 = findViewById(R.id.txtopcone);
         opc2 = findViewById(R.id.txtopctwo);
         opc3 = findViewById(R.id.txtopcthree);
@@ -72,12 +90,12 @@ public class TestActivity extends AppCompatActivity  {
 
         updateQuestion();
 
-        reverseTimer(60,txttiempo);
+        opc1.setOnClickListener(this);
+        opc2.setOnClickListener(this);
+        opc3.setOnClickListener(this);
 
-    }
 
 
-    private  void updateQuestion(){
 
         computerCount++;
         txtnum.setText(""+computerCount);
@@ -212,32 +230,45 @@ public class TestActivity extends AppCompatActivity  {
                             }
                         }
                     });
-                    
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
 
                 }
-            });
 
-        }
 
+                                ));
+                    }
+                    setQuestion();
+                }else{
+                    Toast.makeText(TestActivity.this, task.getException().getMessage(), Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
+
+
+       // setQuestion();
     }
 
+    private void  setQuestion(){
+        timer.setText(String.valueOf(10));
+        question.setText(questionList.get(0).getQuestion());
+        opc1.setText(questionList.get(0).getRespA());
+        opc2.setText(questionList.get(0).getRespB());
+        opc3.setText(questionList.get(0).getRespC());
 
-    public void reverseTimer(int Seconds,final TextView tv){
+        gCount.setText(String.valueOf(1)+ "/" + String.valueOf(questionList.size()));
 
-        new CountDownTimer(Seconds* 1000+1000, 1000) {
+        startTimer();
+        quesNum = 0;
+    }
 
+    private  void startTimer(){
+        countDown = new CountDownTimer(12000,1000) {
+            @Override
             public void onTick(long millisUntilFinished) {
-                int seconds = (int) (millisUntilFinished / 1000);
-                int minutes = seconds / 60;
-                seconds = seconds % 60;
-                tv.setText(String.format("%02d", minutes)
-                        + ":" + String.format("%02d", seconds));
+                if(millisUntilFinished < 10000)
+                timer.setText(String.valueOf(millisUntilFinished / 1000));
             }
 
+            @Override
             public void onFinish() {
                 tv.setText("Completed");
                 Intent myIntent = new Intent(TestActivity.this,MenuActivity.class);
@@ -246,7 +277,7 @@ public class TestActivity extends AppCompatActivity  {
                // myIntent.putExtra("incorrect",String.valueOf(wrong));
                 startActivity(myIntent);
             }
-        }.start();
+        }, 2000);
     }
 
   public void guardadatos(){
@@ -272,6 +303,3 @@ public class TestActivity extends AppCompatActivity  {
 
 
   }
-
-
-}

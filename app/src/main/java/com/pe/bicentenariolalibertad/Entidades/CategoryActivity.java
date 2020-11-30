@@ -1,4 +1,4 @@
-package com.pe.bicentenariolalibertad.Model;
+package com.pe.bicentenariolalibertad.Entidades;
 
 import android.view.View;
 

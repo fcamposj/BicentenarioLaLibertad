@@ -13,7 +13,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".Activitys.HistoryActivity"></activity>
+        <activity android:name=".ScoreActivity.ScoreActivity"></activity>
+        <activity android:name=".Activitys.HistoryActivity" />
         <activity android:name=".Activitys.LauncherActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,8 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activitys.LoginActivity" />
-        <activity android:name=".Activitys.RegisterActivity" />
+        <activity android:name=".Usuario.activity.LoginActivity" />
+        <activity android:name=".Usuario.activity.RegisterActivity" />
         <activity android:name=".Activitys.MenuActivity" />
         <activity android:name=".Activitys.AmautasActivity" />
         <activity android:name=".Activitys.TestActivity" />
@@ -30,7 +31,14 @@
         <activity android:name=".Activitys.SettingActivity" />
         <activity android:name=".Activitys.GameActivity" />
         <activity android:name=".Activitys.DiaryActivity" />
-        <activity android:name=".Activitys.ResetPasswordActivity" />
+        <activity android:name=".Activitys.DetailDiaryActivity" />
+        <activity android:name=".Videos.activity.ResetPasswordActivity" />
+        <activity android:name=".Videos.activity.VideoActivity" />
+
+        <activity
+            android:name=".Videos.activity.DetailsVideoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity android:name=".Activitys.TerminosActivity" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"

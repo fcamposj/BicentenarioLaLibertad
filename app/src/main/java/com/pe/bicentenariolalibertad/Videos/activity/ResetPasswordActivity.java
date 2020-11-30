@@ -1,16 +1,21 @@
-package com.pe.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Videos.activity;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
+import com.pe.bicentenariolalibertad.Activitys.GameActivity;
+import com.pe.bicentenariolalibertad.Activitys.MenuActivity;
 import com.pe.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.Usuario.activity.LoginActivity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -22,6 +27,8 @@ public class ResetPasswordActivity extends AppCompatActivity {
         private  String resetEmail="";
         FirebaseAuth mAuth;
        private ProgressDialog mProgressDialog;
+
+       ImageView imageView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,6 +36,20 @@ public class ResetPasswordActivity extends AppCompatActivity {
 
          initParams();
          setParams();
+
+        imageView = findViewById(R.id.imgToolrepetirpassword);
+
+
+        imageView.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+
+                Intent intents = new Intent(ResetPasswordActivity.this, LoginActivity.class);
+                startActivity(intents);
+            }
+        });
 
 
     }

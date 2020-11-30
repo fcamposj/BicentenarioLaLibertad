@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 
 import com.pe.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.Usuario.activity.LoginActivity;
 
 public class LauncherActivity extends AppCompatActivity {
 

@@ -22,6 +22,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import de.hdodenhof.circleimageview.CircleImageView;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -38,6 +39,8 @@ public class GameActivity extends AppCompatActivity {
         private ImageView imgProfile;
         private FirebaseAuth mAuth;
         private DatabaseReference mReference;
+
+        private ImageView imageView;
 
 
 
@@ -99,6 +102,7 @@ public class GameActivity extends AppCompatActivity {
 
                     mtxtProfileName.setText(name + " " + Lats);
                 }
+
             }
 
             @Override

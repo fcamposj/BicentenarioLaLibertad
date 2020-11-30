@@ -12,8 +12,8 @@
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:padding="5dp"
-        android:tint="@color/colorToolbar"
-        android:src="@drawable/ic_menu"/>
+        android:src="@drawable/ic_menu"
+        android:tint="@color/colorQuestionBG" />
 
     <ImageView
         android:id="@+id/imgPerfil"
@@ -21,8 +21,8 @@
         android:layout_height="50dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:tint="@color/colorToolbar"
-        android:src="@drawable/ic_profile_2"/>
+        android:src="@drawable/ic_profile_2"
+        android:tint="@color/colorQuestionBG" />
 
 
 </RelativeLayout>

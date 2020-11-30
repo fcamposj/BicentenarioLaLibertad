@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/txtterminosToolbar"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/colorOptionMenuHistory"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+
+    <ImageView
+        android:id="@+id/imgToolterminos"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_weight="0"
+        android:padding="12dp"
+        android:tint="@color/colorAccent"
+        android:src="@drawable/back_arrow"/>
+
+    <TextView
+        android:id="@+id/textToolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="@font/lato_regular"
+        android:text="@string/text_terminos"/>
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:visibility="invisible"
+        android:layout_weight="0"
+        android:padding="12dp"
+        android:tint="@color/colorAccent"
+        android:src="@drawable/back_arrow"/>
+
+</LinearLayout>

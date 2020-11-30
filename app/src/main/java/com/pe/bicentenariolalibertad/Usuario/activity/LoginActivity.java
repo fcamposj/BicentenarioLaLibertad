@@ -1,4 +1,4 @@
-package com.pe.bicentenariolalibertad.Activitys;
+package com.pe.bicentenariolalibertad.Usuario.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,7 +12,6 @@ import com.facebook.AccessToken;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;
-import com.facebook.Profile;
 import com.facebook.login.LoginManager;
 import com.facebook.login.LoginResult;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
@@ -28,7 +27,13 @@ import com.google.firebase.auth.FacebookAuthProvider;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.pe.bicentenariolalibertad.Activitys.MenuActivity;
+import com.pe.bicentenariolalibertad.Videos.activity.ResetPasswordActivity;
 import com.pe.bicentenariolalibertad.R;
+import com.pe.bicentenariolalibertad.Usuario.Presentador.PrensentadorLogin;
+import com.pe.bicentenariolalibertad.Usuario.Presentador.PresentadorRegistro;
 
 import java.util.Arrays;
 
@@ -54,6 +59,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     private CallbackManager callbackManager;
     GoogleSignInClient mGoogleSignInClient;
+    private PrensentadorLogin prensentadorLogin;
 
 
     FirebaseAuth mFirebaseAuth;
@@ -77,15 +83,23 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     private void initParams(){
 
             mFirebaseAuth = FirebaseAuth.getInstance();
+            DatabaseReference mReference = FirebaseDatabase.getInstance().getReference();
+             prensentadorLogin = new PrensentadorLogin(this,mFirebaseAuth,mReference);
+
             callbackManager =CallbackManager.Factory.create();
-        textRegister = findViewById(R.id.textRegister);
-        btnLogin = findViewById(R.id.btnLogin);
+
+             mloginEmail = findViewById(R.id.txtLoginEmail);
+            mloginPassword = findViewById(R.id.txtLoginPassword);
+
+             textRegister = findViewById(R.id.textRegister);
+             //boton para iniciar con email y password
+             btnLogin = findViewById(R.id.btnLogin);
+
         btnLoginGmail = findViewById(R.id.btnLoginGmail);
         btnLoginFacebook = findViewById(R.id.btnLoginFacebook);
         txtResetPassord = findViewById(R.id.txtResetPassword);
 
-        mloginEmail = findViewById(R.id.txtLoginEmail);
-        mloginPassword = findViewById(R.id.txtLoginPassword);
+
 
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
                 .requestIdToken(getString(R.string.default_web_client_id))
@@ -96,9 +110,17 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     }
 
+
+
+
     private void setParams(){
         textRegister.setOnClickListener(this);
         btnLogin.setOnClickListener(this);
+
+        btnLoginGmail.setOnClickListener(this);
+        btnLoginFacebook.setOnClickListener(this);
+
+
 
         // google
         btnLoginGmail.setOnClickListener(new View.OnClickListener() {
@@ -131,20 +153,9 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             }
         });
 
-        btnLogin.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                nEmail = mloginEmail.getText().toString();
-                nPassword =mloginPassword.getText().toString();
 
-                if(!nEmail.isEmpty() && !nPassword.isEmpty()){
-                    loginUser();
-                }else{
-                    Toast.makeText(LoginActivity.this, " Complete los campos",Toast.LENGTH_SHORT).show();
-                }
 
-            }
-        });
+
 
         txtResetPassord.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -154,13 +165,37 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         });
     }
 
+
+
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()){
+            case R.id.btnLogin:
+                String email = mloginEmail.getText().toString().trim();
+                String password = mloginPassword.getText().toString().trim();
+                prensentadorLogin.singInUsser(email,password);
+                break;
+            case R.id.textRegister:
+                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
+                startActivity(intent);
+                break;
+
+            case R.id.btnLoginGmail:
+
+                break;
+            case R.id.btnLoginFacebook:
+
+        }
+    }
+
+
 /// inicio sesin Google
 
     private void signIn(){
             Intent signIntent = mGoogleSignInClient.getSignInIntent();
             startActivityForResult(signIntent, RC_SIGN_IN);
     }
-
 
     @Override
     protected void onStart() {
@@ -244,36 +279,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     }
 
-
-
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()){
-            case R.id.textRegister:
-                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
-                startActivity(intent);
-                break;
-
-            case R.id.btnLoginGmail:
-            case R.id.btnLoginFacebook:
-
-        }
-    }
-
-
-    private void loginUser(){
-   mFirebaseAuth.signInWithEmailAndPassword(nEmail, nPassword).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
-       @Override
-       public void onComplete(@NonNull Task<AuthResult> task) {
-           if(task.isSuccessful()){
-               startActivity(new Intent(LoginActivity.this, GameActivity.class));
-               finish();
-           }else{
-               Toast.makeText(LoginActivity.this, "No se pudo iniciar sesion, compruebe los datos",Toast.LENGTH_SHORT).show();
-           }
-       }
-   });
-    }
 
 
 }

@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+
     >
+
+    <include
+        android:id="@+id/toolbarvideo"
+        layout="@layout/toolbar_diary_details"
+        />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
+        android:layout_weight="0.1"
+        android:background="#f8ffb8"
         android:orientation="vertical">
 
         <LinearLayout
@@ -19,19 +27,27 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textView3"
+                android:id="@+id/txtTitulode"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="CELEBRACION POR HALLOWEEN"
-                android:textSize="18sp"
-                app:fontFamily="@font/lato_bold" />
+                android:text="CELEBRACION POR NAVIDAD"
+                android:textColor="@color/color_launch"
+                android:textSize="23sp"
+                app:fontFamily="@font/lato_black" />
 
-            <TextView
-                android:id="@+id/textView4"
+
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Un texto es una composición de signos codificados en un sistema de escritura que forma una unidad de sentido. También es una composición de caracteres imprimibles generados por un algoritmo de cifrado que, aunque no tienen sentido para cualquier persona, sí puede ser descifrado por su destinatario origina" />
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView_fotode"
+                    android:layout_width="match_parent"
+                    android:layout_height="190dp"
+                    tools:srcCompat="@tools:sample/avatars" />
+            </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -40,16 +56,20 @@
                 android:orientation="horizontal">
 
                 <TextView
-                    android:id="@+id/hg8"
+                    android:id="@+id/deta"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="LUGAR" />
+                    android:layout_marginLeft="10dp"
+                    android:text="LUGAR"
+                    android:textColor="@color/color_launch" />
 
                 <TextView
-                    android:id="@+id/hh"
+                    android:id="@+id/txtLugarde"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Plaza de Armas" />
+                    android:gravity="center"
+                    android:text="20/10/2020"
+                    android:textColor="@color/color_launch" />
             </LinearLayout>
 
             <LinearLayout
@@ -63,14 +83,17 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="TextView" />
+                    android:text="Hora"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/color_launch" />
 
                 <TextView
-                    android:id="@+id/textView11"
+                    android:id="@+id/txtHorade"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="TextView" />
+                    android:text="7:00pm"
+                    android:textColor="@color/color_launch" />
 
             </LinearLayout>
 
@@ -85,14 +108,33 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Direccion" />
+                    android:text="Direccion"
+                    android:layout_marginLeft="10dp"
+                    android:textColor="@color/color_launch" />
 
                 <TextView
-                    android:id="@+id/textView13"
+                    android:id="@+id/txtDireccionde"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="calle 3" />
+                    android:text="calle 3"
+                    android:textColor="@color/color_launch" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="UBICACION"
+                    android:textColor="@color/color_launch"
+                    android:textSize="25sp"
+                    app:fontFamily="@font/lato_bold" />
+
+
             </LinearLayout>
 
         </LinearLayout>
@@ -100,9 +142,10 @@
     </LinearLayout>
 
     <com.google.android.gms.maps.MapView
-        android:id="@+id/mapView2"
+        android:id="@+id/mapView_mapade"
         android:layout_width="match_parent"
         android:layout_height="128dp"
-        android:layout_weight="1" />
+        android:layout_weight="1"
+        android:foreground="@drawable/mapa" />
 
 </LinearLayout>
