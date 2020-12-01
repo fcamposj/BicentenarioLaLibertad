@@ -11,7 +11,7 @@ import android.widget.Adapter;
 import android.widget.GridLayout;
 
 import com.pe.bicentenariolalibertad.Holder.HolderCategory;
-import com.pe.bicentenariolalibertad.Model.CategoryActivity;
+import com.pe.bicentenariolalibertad.Entidades.CategoryActivity;
 import com.pe.bicentenariolalibertad.R;
 
 import java.util.ArrayList;
