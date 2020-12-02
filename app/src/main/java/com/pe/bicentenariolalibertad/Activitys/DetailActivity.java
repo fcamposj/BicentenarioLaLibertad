@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.pe.bicentenariolalibertad.Entidades.CategoryActivity;
+import com.pe.bicentenariolalibertad.Model.CategoryActivity;
 import com.pe.bicentenariolalibertad.R;
 
 

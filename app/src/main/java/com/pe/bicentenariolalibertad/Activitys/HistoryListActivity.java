@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.pe.bicentenariolalibertad.Holder.HolderHistoryList;
-import com.pe.bicentenariolalibertad.Entidades.CategoryActivity;
+import com.pe.bicentenariolalibertad.Model.CategoryActivity;
 import com.pe.bicentenariolalibertad.R;
 
 import java.util.ArrayList;
